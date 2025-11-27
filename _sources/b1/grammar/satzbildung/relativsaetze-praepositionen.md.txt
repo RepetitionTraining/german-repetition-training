@@ -1,0 +1,174 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Relativsätze mit Präpositionen. Practice with 39 example sentences. Audio lesson available."
+    keywords: "Relative Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Relativsätze mit Präpositionen - B1 German Grammar"
+    og:description: "Relativsätze mit Präpositionen - Learn with 39 examples"
+    og:type: "article"
+---
+
+# 17. Relativsätze mit Präpositionen
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/0Tk4BbcC9B50eN6d3RzdsV
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=mXQdfEos-cs
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Relativsätze mit Präpositionen |
+|**Track Number**| 17 |
+|**Duration**|  1:42 |
+|**Examples**| 39 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Relative clauses can include prepositions
+- The preposition stands before the relative pronoun
+- The preposition determines the case of the relative pronoun
+- Common prepositions: mit, von, zu, bei, für, über, auf
+- The relative pronoun must match the gender and number of the noun
+- The verb in the relative clause goes to the end
+
+:::
+
+## Examples
+
+
+**Der Mann, mit dem ich spreche, ist mein Chef.**  
+_The man with whom I'm speaking is my boss._
+
+**Die Frau, für die ich arbeite, ist sehr nett.**  
+_The woman for whom I work is very nice._
+
+**Das Thema, über das wir reden, ist wichtig.**  
+_The topic that we're talking about is important._
+
+**Die Stadt, in der ich wohne, ist groß.**  
+_The city in which I live is big._
+
+**Der Freund, auf den ich warte, kommt zu spät.**  
+_The friend for whom I'm waiting is late._
+
+**Die Kollegin, von der ich viel lerne, ist erfahren.**  
+_The colleague from whom I learn a lot is experienced._
+
+**Das Haus, in dem sie lebt, ist alt.**  
+_The house in which she lives is old._
+
+**Der Bus, mit dem wir fahren, ist pünktlich.**  
+_The bus with which we're traveling is punctual._
+
+**Die Firma, bei der er arbeitet, ist international.**  
+_The company at which he works is international._
+
+**Das Problem, an das ich denke, ist schwierig.**  
+_The problem that I'm thinking about is difficult._
+
+**Die Freunde, mit denen ich ausgehe, sind lustig.**  
+_The friends with whom I go out are fun._
+
+**Der Film, über den alle sprechen, ist sehr gut.**  
+_The film that everyone is talking about is very good._
+
+**Die Prüfung, auf die ich mich vorbereite, ist nächste Woche.**  
+_The exam for which I'm preparing is next week._
+
+**Das Restaurant, in dem wir essen, ist teuer.**  
+_The restaurant in which we're eating is expensive._
+
+**Der Kollege, mit dem ich zusammenarbeite, ist kompetent.**  
+_The colleague with whom I work together is competent._
+
+**Die Stadt, aus der sie kommt, liegt am Meer.**  
+_The city from which she comes is by the sea._
+
+**Das Projekt, an dem wir arbeiten, dauert lange.**  
+_The project on which we're working takes a long time._
+
+**Der Autor, von dem das Buch ist, ist berühmt.**  
+_The author by whom the book is is famous._
+
+**Die Leute, zu denen wir gehen, sind Freunde.**  
+_The people to whom we're going are friends._
+
+**Das Konzert, auf das ich mich freue, ist morgen.**  
+_The concert that I'm looking forward to is tomorrow._
+
+**Die Tasche, in der mein Geld ist, ist schwarz.**  
+_The bag in which my money is is black._
+
+**Der Stuhl, auf dem ich sitze, ist bequem.**  
+_The chair on which I'm sitting is comfortable._
+
+**Die Person, über die wir sprechen, ist bekannt.**  
+_The person about whom we're speaking is well-known._
+
+**Das Land, aus dem er kommt, ist weit weg.**  
+_The country from which he comes is far away._
+
+**Der Kollege, mit dem ich esse, ist sympathisch.**  
+_The colleague with whom I'm eating is likeable._
+
+**Die Frage, auf die ich warte, ist schwierig.**  
+_The question for which I'm waiting is difficult._
+
+**Das Hotel, in dem wir übernachten, ist luxuriös.**  
+_The hotel in which we're staying is luxurious._
+
+**Der Arzt, zu dem ich gehe, ist erfahren.**  
+_The doctor to whom I go is experienced._
+
+**Die Kinder, für die sie sorgt, sind glücklich.**  
+_The children for whom she cares are happy._
+
+**Das Buch, von dem ich träume, ist teuer.**  
+_The book of which I dream is expensive._
+
+**Der Park, durch den wir spazieren, ist groß.**  
+_The park through which we walk is big._
+
+**Die Brücke, über die wir fahren, ist historisch.**  
+_The bridge over which we drive is historic._
+
+**Das Geschäft, vor dem ich stehe, ist geschlossen.**  
+_The store in front of which I'm standing is closed._
+
+**Der Verein, bei dem er Mitglied ist, ist aktiv.**  
+_The club at which he's a member is active._
+
+**Die Musik, zu der sie tanzt, ist laut.**  
+_The music to which she dances is loud._
+
+**Das Zimmer, in dem ich schlafe, ist klein.**  
+_The room in which I sleep is small._
+
+**Der Grund, aus dem sie kommt, ist wichtig.**  
+_The reason for which she's coming is important._
+
+**Die Bank, neben der ich wohne, ist groß.**  
+_The bank next to which I live is big._
+
+**Das Café, vor dem wir uns treffen, ist bekannt.**  
+_The café in front of which we're meeting is well-known._

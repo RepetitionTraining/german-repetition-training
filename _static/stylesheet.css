@@ -1,0 +1,39 @@
+/* Custom stylesheet for German Repetition Training documentation */
+
+/* Hide toctree on album index pages in main content only - will still be visible in sidebar */
+.bd-article .album-index-toctree {
+    display: none;
+}
+
+
+.album-sidebar-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  color: var(--pst-color-text-base);
+}
+
+.album-cover-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.2rem;
+}
+
+.info-card th {
+  display: none;
+}
+
+.info-card table {
+  margin-bottom: 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+
+.title.logo__title {
+  display: none;
+}
+}

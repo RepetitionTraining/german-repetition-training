@@ -1,0 +1,174 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Nebensätze – Weil. Practice with 39 example sentences. Audio lesson available."
+    keywords: "Subordinate Clauses, Causal Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Nebensätze mit 'weil' - B1 German Grammar"
+    og:description: "Nebensätze – Weil - Learn with 39 examples"
+    og:type: "article"
+---
+
+# 1. Nebensätze – Weil
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/5Ij3rVFF7QjK169IUy0A6i
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=-6DUQmecep8
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Nebensätze – Weil |
+|**Track Number**| 1 |
+|**Duration**|  1:43 |
+|**Examples**| 39 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Weil introduces a subordinate clause that explains the reason for the main clause
+- The verb in the weil clause goes to the end
+- Weil can start the sentence or come in the middle
+- More common in spoken German than da
+- Very common in both spoken and written German
+- Used to answer "Warum?" (Why?)
+
+:::
+
+## Examples
+
+
+**Ich bleibe zu Hause, weil es regnet.**  
+_I'm staying at home because it's raining._
+
+**Weil sie in Berlin arbeitet, lernt sie Deutsch.**  
+_Because she works in Berlin, she's learning German._
+
+**Er trinkt Kaffee, weil er müde ist.**  
+_He drinks coffee because he's tired._
+
+**Weil wir keine Zeit haben, können wir nicht kommen.**  
+_Because we don't have time, we can't come._
+
+**Sie geht zum Arzt, weil sie krank ist.**  
+_She's going to the doctor because she's sick._
+
+**Weil das Wetter schön ist, gehen wir in den Park.**  
+_Because the weather is nice, we're going to the park._
+
+**Ich lerne Deutsch, weil ich nach Deutschland ziehen möchte.**  
+_I'm learning German because I want to move to Germany._
+
+**Weil er Hunger hat, isst er etwas.**  
+_Because he's hungry, he's eating something._
+
+**Sie fährt mit dem Zug, weil ihr Auto kaputt ist.**  
+_She's taking the train because her car is broken._
+
+**Weil ich keinen Regenschirm habe, werde ich nass.**  
+_Because I don't have an umbrella, I'm getting wet._
+
+**Er bleibt im Bett, weil er krank ist.**  
+_He's staying in bed because he's sick._
+
+**Weil sie spät aufgestanden ist, hat sie den Bus verpasst.**  
+_Because she got up late, she missed the bus._
+
+**Ich bin glücklich, weil ich meinen Freund treffe.**  
+_I'm happy because I'm meeting my friend._
+
+**Weil das Buch interessant ist, lese ich es gern.**  
+_Because the book is interesting, I like reading it._
+
+**Sie kauft Blumen, weil heute ein besonderer Tag ist.**  
+_She's buying flowers because today is a special day._
+
+**Weil er keine Lust hat, geht er nicht mit.**  
+_Because he doesn't feel like it, he's not coming along._
+
+**Ich trage eine Jacke, weil es kalt ist.**  
+_I'm wearing a jacket because it's cold._
+
+**Weil wir hungrig sind, kochen wir etwas.**  
+_Because we're hungry, we're cooking something._
+
+**Er lernt viel, weil die Prüfung wichtig ist.**  
+_He's studying a lot because the exam is important._
+
+**Weil sie müde ist, geht sie früh schlafen.**  
+_Because she's tired, she's going to sleep early._
+
+**Ich trinke Tee, weil mir kalt ist.**  
+_I'm drinking tea because I'm cold._
+
+**Weil der Laden geschlossen ist, gehen wir morgen.**  
+_Because the store is closed, we're going tomorrow._
+
+**Er freut sich, weil er Urlaub hat.**  
+_He's happy because he has vacation._
+
+**Weil wir zu spät sind, nehmen wir ein Taxi.**  
+_Because we're late, we're taking a taxi._
+
+**Sie lacht, weil der Witz lustig ist.**  
+_She's laughing because the joke is funny._
+
+**Ich esse kein Fleisch, weil ich Vegetarier bin.**  
+_I don't eat meat because I'm a vegetarian._
+
+**Weil das Konzert ausverkauft ist, können wir nicht hingehen.**  
+_Because the concert is sold out, we can't go._
+
+**Er bleibt zu Hause, weil er auf ein Paket wartet.**  
+_He's staying home because he's waiting for a package._
+
+**Weil sie Geburtstag hat, feiern wir.**  
+_Because it's her birthday, we're celebrating._
+
+**Ich brauche Ruhe, weil ich Kopfschmerzen habe.**  
+_I need quiet because I have a headache._
+
+**Weil der Kaffee zu heiß ist, warte ich.**  
+_Because the coffee is too hot, I'm waiting._
+
+**Sie geht nicht schwimmen, weil das Wasser kalt ist.**  
+_She's not going swimming because the water is cold._
+
+**Weil ich Sport mache, fühle ich mich fit.**  
+_Because I exercise, I feel fit._
+
+**Er nimmt einen Regenschirm mit, weil es regnen soll.**  
+_He's taking an umbrella because it's supposed to rain._
+
+**Weil das Essen lecker ist, esse ich viel.**  
+_Because the food is delicious, I'm eating a lot._
+
+**Ich spare Geld, weil ich ein neues Handy kaufen möchte.**  
+_I'm saving money because I want to buy a new phone._
+
+**Weil sie Deutsch spricht, kann sie uns helfen.**  
+_Because she speaks German, she can help us._
+
+**Er ist nervös, weil er eine Präsentation halten muss.**  
+_He's nervous because he has to give a presentation._
+
+**Weil wir Hunger haben, bestellen wir Pizza.**  
+_Because we're hungry, we're ordering pizza._

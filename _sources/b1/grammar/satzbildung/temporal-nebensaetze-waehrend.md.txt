@@ -1,0 +1,174 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Temporale Nebensätze – Während. Practice with 39 example sentences. Audio lesson available."
+    keywords: "Subordinate Clauses, Temporal Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Temporale Nebensätze mit 'während' - B1 German Grammar"
+    og:description: "Temporale Nebensätze – Während - Learn with 39 examples"
+    og:type: "article"
+---
+
+# 8. Temporale Nebensätze – Während
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/27unZ8uZwFYNTcibRrDhPD
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=QQ9bpYJTlJI
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Temporale Nebensätze – Während |
+|**Track Number**| 8 |
+|**Duration**|  1:40 |
+|**Examples**| 39 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Während introduces a temporal clause meaning "while" or "during"
+- The verb in the während clause goes to the end
+- Describes two actions happening at the same time
+- Can appear before or after the main clause
+- Common in both spoken and written German
+- Both clauses usually use the same tense
+
+:::
+
+## Examples
+
+
+**Ich höre Musik, während ich koche.**  
+_I listen to music while I cook._
+
+**Während sie arbeitet, passt er auf die Kinder auf.**  
+_While she works, he looks after the children._
+
+**Er lernt Deutsch, während er in Berlin wohnt.**  
+_He learns German while he lives in Berlin._
+
+**Wir sehen fern, während wir essen.**  
+_We watch TV while we eat._
+
+**Sie telefoniert, während sie spazieren geht.**  
+_She talks on the phone while she walks._
+
+**Wir bleiben zu Hause, während es regnet.**  
+_We stay at home while it's raining._
+
+**Ich denke nach, während ich dusche.**  
+_I think while I shower._
+
+**Während die Kinder schlafen, arbeite ich.**  
+_While the children sleep, I work._
+
+**Er singt, während er Auto fährt.**  
+_He sings while he drives._
+
+**Er deckt den Tisch, während sie das Abendessen macht.**  
+_He sets the table while she makes dinner._
+
+**Ich lese ein Buch, während ich im Zug sitze.**  
+_I read a book while I sit on the train._
+
+**Ich räume die Wohnung auf, während du einkaufst.**  
+_I'll tidy the apartment while you shop._
+
+**Sie schreibt E-Mails, während sie Kaffee trinkt.**  
+_She writes emails while she drinks coffee._
+
+**Während er Sport macht, höre ich Podcasts.**  
+_While he does sports, I listen to podcasts._
+
+**Ich passe auf deine Tasche auf, während du weg bist.**  
+_I'll watch your bag while you're away._
+
+**Wir spielen ein Spiel, während wir warten.**  
+_We play a game while we wait._
+
+**Sie macht Notizen, während der Lehrer spricht.**  
+_She takes notes while the teacher speaks._
+
+**Während ich arbeite, stört mich bitte nicht.**  
+_While I work, please don't disturb me._
+
+**Er träumt, während er schläft.**  
+_He dreams while he sleeps._
+
+**Während sie lacht, weint er.**  
+_While she laughs, he cries._
+
+**Ich höre die Nachrichten, während ich frühstücke.**  
+_I listen to the news while I have breakfast._
+
+**Ich sortiere die Wäsche, während er putzt.**  
+_I sort the laundry while he cleans._
+
+**Sie malt, während die Musik spielt.**  
+_She paints while the music plays._
+
+**Die Zeit vergeht schnell, während wir reden.**  
+_Time passes quickly while we talk._
+
+**Er macht Hausaufgaben, während seine Schwester fernsieht.**  
+_He does homework while his sister watches TV._
+
+**Du packst die Sachen ein, während ich bezahle.**  
+_You pack the things while I pay._
+
+**Sie lächelt, während sie an ihn denkt.**  
+_She smiles while she thinks of him._
+
+**Wir machen Notizen, während der Lehrer erklärt.**  
+_We take notes while the teacher explains._
+
+**Ich schaue aus dem Fenster, während der Zug fährt.**  
+_I look out the window while the train travels._
+
+**Ich bin leise, während sie schläft.**  
+_I'm quiet while she sleeps._
+
+**Er pfeift, während er arbeitet.**  
+_He whistles while he works._
+
+**Während wir diskutieren, kommt keine Lösung.**  
+_While we discuss, no solution comes._
+
+**Sie strickt, während sie Fernsehen schaut.**  
+_She knits while she watches television._
+
+**Während ich nachdenke, schweigst du bitte.**  
+_While I think, please be quiet._
+
+**Er nimmt Notizen, während ich spreche.**  
+_He takes notes while I speak._
+
+**Ich warte draußen, während sie sich vorbereitet.**  
+_I wait outside while she prepares._
+
+**Ich bleibe fit, während ich hier bin.**  
+_I stay fit while I'm here._
+
+**Während es schneit, bleiben wir drinnen.**  
+_While it's snowing, we stay inside._
+
+**Sie hilft mir, während ich das Essen zubereite.**  
+_She helps me while I prepare the food._

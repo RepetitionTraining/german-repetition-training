@@ -1,0 +1,84 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 Grammar: Satzbildung. 24 audio lessons with examples."
+    keywords: "B1 German, German grammar, learn German, German lessons, audio lessons"
+    author: "German Repetition Training"
+    language: "en"
+    og:title: "Satzbildung - B1 German Grammar"
+    og:description: "24 audio lessons for learning German grammar"
+    og:type: "website"
+---
+
+# Satzbildung
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/album/1hMvn6q0RzkNfZIQ5xHTdS
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/playlist?list=OLAK5uy_l6Zy3CB2oT7qv4gcaiGs7ANry1mlVv_zM&src=FFM&lid=00000000-6911-37a8-3800-000a0040cb03&cid=eef267f6-3f51-5d46-a717-711ac12bcf76
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+
+```{button-link} https://ditto.fm/b1-grammar-satzbildung
+:class: rounded-pill streaming-link other shadow-sm
+
+{fas}`circle-play` More Options
+```
+</div>
+
+Advanced intermediate German grammar with subordinate clauses and complex sentence structures
+
+::::{card}
+:class-body: p-0 info-card
+
+**Album Information**
+^^^
+
+|||
+|--|--|
+| CEFR Level | B1 |
+| Category | Grammar |
+| Total Tracks | 24 |
+| Runtime | 40:59 |
+| Voice | Emilia |
+| Year | 2025 |
+
+::::
+
+```{toctree}
+:maxdepth: 1
+:caption: Track List
+:class: album-index-toctree
+
+nebensaetze-mit-weil
+nebensaetze-mit-da
+nebensaetze-mit-sodass
+nebensaetze-mit-obwohl
+nebensaetze-mit-damit
+nebensaetze-mit-um-zu
+nebensaetze-mixed
+temporal-nebensaetze-waehrend
+temporal-nebensaetze-seit
+temporal-nebensaetze-bevor
+temporal-nebensaetze-nachdem
+temporal-nebensaetze-bis
+temporal-nebensaetze-mixed
+relativsaetze-nominativ
+relativsaetze-akkusativ
+relativsaetze-dativ
+relativsaetze-praepositionen
+relativsaetze-mixed-review
+zweiteilige-konnektoren-sowohl-als-auch
+zweiteilige-konnektoren-nicht-nur-sondern-auch
+zweiteilige-konnektoren-entweder-oder
+zweiteilige-konnektoren-weder-noch
+zweiteilige-konnektoren-zwar-aber
+zweiteilige-konnektoren
+```

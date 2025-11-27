@@ -1,0 +1,21 @@
+# B2
+
+Upper intermediate level German language learning materials.
+
+```{toctree}
+:maxdepth: 2
+:caption: B2 Grammar
+
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: B2 Topics
+
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: B2 Vocabulary
+
+```

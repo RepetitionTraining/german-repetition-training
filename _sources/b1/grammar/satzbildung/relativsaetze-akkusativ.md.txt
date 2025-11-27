@@ -1,0 +1,174 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Relativsätze – Akkusativ. Practice with 39 example sentences. Audio lesson available."
+    keywords: "Relative Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Relativsätze im Akkusativ - B1 German Grammar"
+    og:description: "Relativsätze – Akkusativ - Learn with 39 examples"
+    og:type: "article"
+---
+
+# 15. Relativsätze – Akkusativ
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/0zkBhqV17o0xRBnXEmkA3L
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=BOq-euZ65T0
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Relativsätze – Akkusativ |
+|**Track Number**| 15 |
+|**Duration**|  1:42 |
+|**Examples**| 39 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Accusative relative pronouns: den, die, das, die (plural)
+- Used when the relative pronoun is the direct object of the relative clause
+- Masculine changes from der to den in accusative
+- Feminine, neuter, and plural remain the same as nominative
+- The verb in the relative clause goes to the end
+- Common with verbs that take accusative objects
+
+:::
+
+## Examples
+
+
+**Der Mann, den ich kenne, ist sehr nett.**  
+_The man whom I know is very nice._
+
+**Die Frau, die ich gestern gesehen habe, ist meine Kollegin.**  
+_The woman whom I saw yesterday is my colleague._
+
+**Das Buch, das ich lese, ist interessant.**  
+_The book that I'm reading is interesting._
+
+**Die Filme, die wir gesehen haben, waren spannend.**  
+_The films that we saw were exciting._
+
+**Der Kaffee, den ich trinke, ist zu heiß.**  
+_The coffee that I'm drinking is too hot._
+
+**Die Stadt, die wir besuchen, ist sehr schön.**  
+_The city that we're visiting is very beautiful._
+
+**Das Auto, das er kaufen möchte, ist teuer.**  
+_The car that he wants to buy is expensive._
+
+**Der Freund, den sie liebt, wohnt in München.**  
+_The friend whom she loves lives in Munich._
+
+**Die Sprache, die ich lerne, heißt Deutsch.**  
+_The language that I'm learning is called German._
+
+**Das Essen, das ich bestellt habe, schmeckt gut.**  
+_The food that I ordered tastes good._
+
+**Der Job, den er gefunden hat, ist interessant.**  
+_The job that he found is interesting._
+
+**Die Musik, die wir hören, ist entspannend.**  
+_The music that we're listening to is relaxing._
+
+**Das Kleid, das sie trägt, ist elegant.**  
+_The dress that she's wearing is elegant._
+
+**Die Nachricht, die ich bekommen habe, war wichtig.**  
+_The message that I received was important._
+
+**Der Computer, den ich benutze, ist alt.**  
+_The computer that I'm using is old._
+
+**Die Antwort, die er gegeben hat, war richtig.**  
+_The answer that he gave was correct._
+
+**Das Projekt, das wir machen, ist schwierig.**  
+_The project that we're doing is difficult._
+
+**Der Arzt, den ich empfehle, ist sehr gut.**  
+_The doctor whom I recommend is very good._
+
+**Die Wohnung, die sie mieten, hat zwei Zimmer.**  
+_The apartment that they're renting has two rooms._
+
+**Das Geschenk, das ich bekommen habe, gefällt mir.**  
+_The gift that I received pleases me._
+
+**Der Kollege, den ich mag, ist sehr hilfsbereit.**  
+_The colleague whom I like is very helpful._
+
+**Die Zeitung, die ich lese, ist interessant.**  
+_The newspaper that I'm reading is interesting._
+
+**Das Hotel, das wir gebucht haben, ist luxuriös.**  
+_The hotel that we booked is luxurious._
+
+**Der Schlüssel, den ich suche, ist verschwunden.**  
+_The key that I'm looking for has disappeared._
+
+**Die Geschichte, die er erzählt, ist unglaublich.**  
+_The story that he's telling is incredible._
+
+**Das Fahrrad, das ich fahre, ist alt.**  
+_The bicycle that I'm riding is old._
+
+**Der Kuchen, den sie gebacken hat, ist lecker.**  
+_The cake that she baked is delicious._
+
+**Die Schuhe, die ich gekauft habe, sind bequem.**  
+_The shoes that I bought are comfortable._
+
+**Das Handy, das er verloren hat, war teuer.**  
+_The phone that he lost was expensive._
+
+**Der Wein, den wir trinken, kommt aus Frankreich.**  
+_The wine that we're drinking comes from France._
+
+**Die Blumen, die ich gepflanzt habe, blühen schön.**  
+_The flowers that I planted bloom beautifully._
+
+**Das Lied, das sie singt, ist bekannt.**  
+_The song that she's singing is well-known._
+
+**Der Roman, den ich geschrieben habe, ist fertig.**  
+_The novel that I wrote is finished._
+
+**Die Jacke, die ich trage, ist warm.**  
+_The jacket that I'm wearing is warm._
+
+**Das Rezept, das ich ausprobiert habe, funktioniert.**  
+_The recipe that I tried works._
+
+**Der Plan, den wir gemacht haben, ist gut.**  
+_The plan that we made is good._
+
+**Die E-Mail, die ich geschickt habe, war wichtig.**  
+_The email that I sent was important._
+
+**Das Thema, das wir besprochen haben, ist kompliziert.**  
+_The topic that we discussed is complicated._
+
+**Der Fehler, den ich gemacht habe, tut mir leid.**  
+_The mistake that I made, I'm sorry for._

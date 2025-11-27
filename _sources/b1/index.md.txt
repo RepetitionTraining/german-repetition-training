@@ -1,0 +1,9 @@
+# B1
+
+Intermediate level German language learning materials.
+
+```{toctree}
+:maxdepth: 2
+
+grammar/index
+```

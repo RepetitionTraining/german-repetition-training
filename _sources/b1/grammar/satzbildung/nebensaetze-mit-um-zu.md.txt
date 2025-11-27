@@ -1,0 +1,175 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Nebensätze – Um... zu. Practice with 39 example sentences. Audio lesson available."
+    keywords: "Subordinate Clauses, Final Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Nebensätze mit 'um... zu' - B1 German Grammar"
+    og:description: "Nebensätze – Um... zu - Learn with 39 examples"
+    og:type: "article"
+---
+
+# 6. Nebensätze – Um... zu
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/7H4sUCk648KYzyZJHkIRgl
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=HMsz6jxT-CM
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Nebensätze – Um... zu |
+|**Track Number**| 6 |
+|**Duration**|  1:40 |
+|**Examples**| 39 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Um... zu expresses purpose or intention
+- Means "in order to" or "to"
+- Pattern: um + ... + zu + infinitive
+- Used when both clauses have the same subject
+- If subjects are different, use damit instead
+- The zu + infinitive goes at the end
+- Very common in German
+
+:::
+
+## Examples
+
+
+**Ich lerne Deutsch, um in Deutschland zu arbeiten.**  
+_I'm learning German in order to work in Germany._
+
+**Sie geht in die Bibliothek, um zu lernen.**  
+_She goes to the library to study._
+
+**Er spart Geld, um ein Auto zu kaufen.**  
+_He saves money to buy a car._
+
+**Um pünktlich anzukommen, fahren wir früher los.**  
+_To arrive on time, we're leaving earlier._
+
+**Ich mache Sport, um fit zu bleiben.**  
+_I do sports to stay fit._
+
+**Um den Zug zu erreichen, steht sie früh auf.**  
+_To catch the train, she gets up early._
+
+**Er ruft an, um einen Termin zu vereinbaren.**  
+_He calls to make an appointment._
+
+**Um etwas zu essen, gehen wir ins Restaurant.**  
+_To eat something, we're going to the restaurant._
+
+**Ich lese viel, um mein Deutsch zu verbessern.**  
+_I read a lot to improve my German._
+
+**Um Spanisch zu lernen, besucht sie einen Kurs.**  
+_To learn Spanish, she attends a course._
+
+**Um erfolgreich zu sein, arbeitet er hart.**  
+_To be successful, he works hard._
+
+**Wir fahren ans Meer, um uns zu erholen.**  
+_We're going to the sea to relax._
+
+**Um nichts zu vergessen, schreibe ich eine Liste.**  
+_To not forget anything, I write a list._
+
+**Sie macht eine Pause, um sich auszuruhen.**  
+_She takes a break to rest._
+
+**Um sich untersuchen zu lassen, geht er zum Arzt.**  
+_To get examined, he goes to the doctor._
+
+**Wir üben jeden Tag, um besser zu werden.**  
+_We practice every day to get better._
+
+**Um morgen fit zu sein, gehe ich früh schlafen.**  
+_To be fit tomorrow, I go to bed early._
+
+**Sie nimmt ein Taxi, um schneller da zu sein.**  
+_She takes a taxi to be there faster._
+
+**Um organisiert zu bleiben, macht er einen Plan.**  
+_To stay organized, he makes a plan._
+
+**Wir sparen, um eine Weltreise zu machen.**  
+_We're saving to take a trip around the world._
+
+**Um frische Luft zu bekommen, öffne ich das Fenster.**  
+_To get fresh air, I open the window._
+
+**Sie geht zur Post, um ein Paket abzuholen.**  
+_She goes to the post office to pick up a package._
+
+**Um seine Mutter zu überraschen, kauft er Blumen.**  
+_To surprise his mother, he buys flowers._
+
+**Wir fahren in die Stadt, um einzukaufen.**  
+_We're driving to the city to shop._
+
+**Ich rufe sie an, um Bescheid zu sagen.**  
+_I'm calling her to let her know._
+
+**Sie lernt hart, um gute Noten zu bekommen.**  
+_She studies hard to get good grades._
+
+**Um Milch zu kaufen, geht er in den Supermarkt.**  
+_To buy milk, he goes to the supermarket._
+
+**Wir hören Musik, um uns zu entspannen.**  
+_We listen to music to relax._
+
+**Ich ziehe mich warm an, um nicht zu frieren.**  
+_I dress warmly so as not to freeze._
+
+**Um flexibel zu bleiben, macht sie Yoga.**  
+_To stay flexible, she does yoga._
+
+**Er trinkt Wasser, um hydratisiert zu bleiben.**  
+_He drinks water to stay hydrated._
+
+**Wir reservieren einen Tisch, um sicher einen Platz zu haben.**  
+_We reserve a table to be sure to have a spot._
+
+**Ich schreibe es auf, um es nicht zu vergessen.**  
+_I write it down so as not to forget it._
+
+**Um fit zu bleiben, fährt sie mit dem Fahrrad.**  
+_To stay fit, she rides her bike._
+
+**Er macht den Fernseher leiser, um nicht zu stören.**  
+_He turns down the TV so as not to disturb._
+
+**Wir nehmen den Bus, um Geld zu sparen.**  
+_We take the bus to save money._
+
+**Ich gehe ins Fitnessstudio, um Muskeln aufzubauen.**  
+_I go to the gym to build muscles._
+
+**Um besser zu werden, nimmt sie Unterricht.**  
+_To get better, she takes lessons._
+
+**Er arbeitet Überstunden, um mehr zu verdienen.**  
+_He works overtime to earn more._

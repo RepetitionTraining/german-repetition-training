@@ -1,0 +1,171 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Relativsätze – Nominativ. Practice with 38 example sentences. Audio lesson available."
+    keywords: "Relative Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Relativsätze im Nominativ - B1 German Grammar"
+    og:description: "Relativsätze – Nominativ - Learn with 38 examples"
+    og:type: "article"
+---
+
+# 14. Relativsätze – Nominativ
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/6HAp8wwg4eEm6dF1BtkMRr
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=nvq8dHeSpEA
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Relativsätze – Nominativ |
+|**Track Number**| 14 |
+|**Duration**|  1:42 |
+|**Examples**| 38 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Relative clauses provide additional information about a noun
+- Nominative relative pronouns: der, die, das, die (plural)
+- Used when the relative pronoun is the subject of the relative clause
+- The verb in the relative clause goes to the end
+- Relative pronouns have the same forms as definite articles in nominative
+- The relative clause is separated by commas
+
+:::
+
+## Examples
+
+
+**Das ist der Mann, der Deutsch spricht.**  
+_That's the man who speaks German._
+
+**Kennst du die Frau, die dort steht?**  
+_Do you know the woman who stands there?_
+
+**Das Buch, das auf dem Tisch gelegen hat, gehörte mir.**  
+_The book that lay on the table belonged to me._
+
+**Die Kinder, die im Garten gespielt haben, waren laut.**  
+_The children who played in the garden were loud._
+
+**Tom ist der Student, der immer pünktlich ist.**  
+_Tom is the student who is always punctual._
+
+**Köln ist die Stadt, die am Rhein liegt.**  
+_Cologne is the city that lies on the Rhine._
+
+**Das Auto, das vor dem Haus steht, ist neu.**  
+_The car that stands in front of the house is new._
+
+**Die Leute, die hier gewohnt haben, waren sehr nett.**  
+_The people who lived here were very nice._
+
+**Das Restaurant, das um die Ecke war, war sehr gut.**  
+_The restaurant that was around the corner was very good._
+
+**Wie hieß der Film, der gestern gelaufen ist?**  
+_What was the name of the film that ran yesterday?_
+
+**Die Kollegin, die neben mir gesessen hat, kam aus Berlin.**  
+_The colleague who sat next to me came from Berlin._
+
+**Teuer ist das Haus, das einen Garten hat.**  
+_The house that has a garden is expensive._
+
+**Der Lehrer, der Mathematik unterrichtet hat, war streng.**  
+_The teacher who taught mathematics was strict._
+
+**Die Musik, die aus dem Radio gekommen ist, war schön.**  
+_The music that came from the radio was beautiful._
+
+**Das Kind, das geweint hat, hat seine Mutter gesucht.**  
+_The child who was crying was looking for its mother._
+
+**Wann kommt der Bus, der nach Berlin fährt?**  
+_When does the bus that goes to Berlin come?_
+
+**Die Frau, die den Hund geführt hat, war meine Nachbarin.**  
+_The woman who was walking the dog was my neighbor._
+
+**Das Café, das um 7 Uhr geöffnet hat, hat guten Kaffee gemacht.**  
+_The café that opened at 7 o'clock made good coffee._
+
+**Glücklich waren die Studenten, die die Prüfung bestanden hatten.**  
+_The students who had passed the exam were happy._
+
+**Der Zug, der nach München gefahren ist, hatte Verspätung.**  
+_The train that went to Munich was delayed._
+
+**Süß ist die Katze, die auf dem Sofa schläft.**  
+_The cat that sleeps on the sofa is cute._
+
+**Das Bild, das an der Wand gehangen hat, war alt.**  
+_The picture that hung on the wall was old._
+
+**Der Arzt, der im Krankenhaus gearbeitet hat, war erfahren.**  
+_The doctor who worked in the hospital was experienced._
+
+**Die Nachbarn, die laut waren, haben mich gestört.**  
+_The neighbors who were loud disturbed me._
+
+**Das Fenster, das offen gestanden hat, musste geschlossen werden.**  
+_The window that was open had to be closed._
+
+**Neu ist der Computer, der auf dem Schreibtisch steht.**  
+_The computer that stands on the desk is new._
+
+**Die Blumen, die im Garten gewachsen sind, waren schön.**  
+_The flowers that grew in the garden were beautiful._
+
+**Das Problem, das existiert, ist ernst.**  
+_The problem that exists is serious._
+
+**Der Schlüssel, der auf dem Tisch liegt, ist meiner.**  
+_The key that lies on the table is mine._
+
+**Die Sprache, die schwer ist, braucht viel Übung.**  
+_The language that is difficult needs a lot of practice._
+
+**Das Fenster, das kaputt ist, wird repariert.**  
+_The window that is broken is being repaired._
+
+**Der Laden, der billig ist, ist immer voll.**  
+_The store that is cheap is always full._
+
+**Die Idee, die gut ist, wird umgesetzt.**  
+_The idea that is good is being implemented._
+
+**Das Handy, das klingelt, gehört dir.**  
+_The phone that is ringing belongs to you._
+
+**Der Park, der groß ist, liegt in der Stadtmitte.**  
+_The park that is big is in the city center._
+
+**Die Aufgabe, die schwierig ist, dauert lange.**  
+_The task that is difficult takes a long time._
+
+**Das Mädchen, das Klavier spielt, ist talentiert.**  
+_The girl who plays piano is talented._
+
+**Der Kuchen, der lecker aussieht, ist selbstgemacht.**  
+_The cake that looks delicious is homemade._

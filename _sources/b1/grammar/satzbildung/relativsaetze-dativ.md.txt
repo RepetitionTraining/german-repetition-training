@@ -1,0 +1,174 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Relativsätze – Dativ. Practice with 39 example sentences. Audio lesson available."
+    keywords: "Relative Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Relativsätze im Dativ - B1 German Grammar"
+    og:description: "Relativsätze – Dativ - Learn with 39 examples"
+    og:type: "article"
+---
+
+# 16. Relativsätze – Dativ
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/2H6bwVO3l0NpdXoQpGEz8h
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=7U6rODaPNDs
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Relativsätze – Dativ |
+|**Track Number**| 16 |
+|**Duration**|  1:43 |
+|**Examples**| 39 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Dative relative pronouns: dem, der, dem, denen (plural)
+- Used when the relative pronoun is the indirect object or after dative prepositions
+- All genders change form in dative
+- Plural is denen (not like the article!)
+- The verb in the relative clause goes to the end
+- Common with dative verbs like helfen, gefallen, gehören
+
+:::
+
+## Examples
+
+
+**Der Mann, dem ich helfe, ist mein Nachbar.**  
+_The man whom I'm helping is my neighbor._
+
+**Die Frau, der ich das Buch gebe, ist meine Lehrerin.**  
+_The woman to whom I'm giving the book is my teacher._
+
+**Das Kind, dem ich zuhöre, erzählt eine Geschichte.**  
+_The child whom I'm listening to is telling a story._
+
+**Die Leute, denen wir begegnet sind, waren freundlich.**  
+_The people whom we met were friendly._
+
+**Der Freund, dem das Auto gehört, wohnt in Berlin.**  
+_The friend to whom the car belongs lives in Berlin._
+
+**Die Kollegin, der ich vertraue, gibt mir gute Ratschläge.**  
+_The colleague whom I trust gives me good advice._
+
+**Das Mädchen, dem ich gratuliert habe, hat Geburtstag.**  
+_The girl whom I congratulated has a birthday._
+
+**Die Studenten, denen der Professor antwortet, sind neugierig.**  
+_The students whom the professor answers are curious._
+
+**Der Kunde, dem ich geholfen habe, war sehr dankbar.**  
+_The customer whom I helped was very grateful._
+
+**Die Familie, der die Wohnung gehört, ist nett.**  
+_The family to whom the apartment belongs is nice._
+
+**Das Team, dem er beigetreten ist, ist sehr gut.**  
+_The team that he joined is very good._
+
+**Die Frau, der ich gestern begegnet bin, ist Ärztin.**  
+_The woman whom I met yesterday is a doctor._
+
+**Der Hund, dem ich Futter gebe, heißt Max.**  
+_The dog whom I'm giving food is called Max._
+
+**Die Kinder, denen wir helfen, lernen schnell.**  
+_The children whom we're helping learn quickly._
+
+**Das Restaurant, dem viele Sterne gegeben wurden, ist teuer.**  
+_The restaurant that was given many stars is expensive._
+
+**Der Patient, dem der Arzt hilft, fühlt sich besser.**  
+_The patient whom the doctor is helping feels better._
+
+**Die Freunde, denen ich vertraue, sind immer für mich da.**  
+_The friends whom I trust are always there for me._
+
+**Das Projekt, dem sie sich widmet, ist wichtig.**  
+_The project to which she dedicates herself is important._
+
+**Der Chef, dem ich danke, ist sehr großzügig.**  
+_The boss whom I thank is very generous._
+
+**Die Stadt, der wir einen Besuch abstatten, ist historisch.**  
+_The city that we're paying a visit is historic._
+
+**Der Lehrer, dem ich folge, erklärt alles gut.**  
+_The teacher whom I follow explains everything well._
+
+**Die Freundin, der ich schreibe, antwortet schnell.**  
+_The girlfriend to whom I write answers quickly._
+
+**Das Baby, dem ich zulächle, lacht zurück.**  
+_The baby whom I smile at laughs back._
+
+**Die Nachbarn, denen wir Blumen schenken, sind erfreut.**  
+_The neighbors to whom we give flowers are pleased._
+
+**Der Politiker, dem viele Menschen glauben, ist beliebt.**  
+_The politician whom many people believe is popular._
+
+**Die Firma, der er seit Jahren dient, ist erfolgreich.**  
+_The company that he has served for years is successful._
+
+**Das Tier, dem ich Futter bringe, ist zahm.**  
+_The animal to which I bring food is tame._
+
+**Der Kellner, dem ich Trinkgeld gebe, bedankt sich.**  
+_The waiter to whom I give a tip thanks me._
+
+**Die Organisation, der wir beitreten, ist gemeinnützig.**  
+_The organization that we're joining is charitable._
+
+**Das Opfer, dem geholfen wurde, ist in Sicherheit.**  
+_The victim who was helped is safe._
+
+**Der Musiker, dem ich zuhöre, ist talentiert.**  
+_The musician whom I listen to is talented._
+
+**Die Gruppe, der wir uns anschließen, ist freundlich.**  
+_The group that we're joining is friendly._
+
+**Das Tier, dem der Tierarzt hilft, ist krank.**  
+_The animal that the vet is helping is sick._
+
+**Der Kunde, dem ich die Ware verkaufe, ist zufrieden.**  
+_The customer to whom I'm selling the goods is satisfied._
+
+**Die Schüler, denen ich Nachhilfe gebe, lernen viel.**  
+_The students whom I'm tutoring learn a lot._
+
+**Das Dorf, dem wir helfen, ist arm.**  
+_The village that we're helping is poor._
+
+**Der Rentner, dem ich über die Straße helfe, ist dankbar.**  
+_The retiree whom I help across the street is grateful._
+
+**Die Organisation, der ich spende, unterstützt Kinder.**  
+_The organization to which I donate supports children._
+
+**Das Publikum, dem er sich vorstellt, applaudiert.**  
+_The audience to whom he introduces himself applauds._

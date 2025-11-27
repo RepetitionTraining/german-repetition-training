@@ -1,0 +1,36 @@
+# Grammar
+
+```{toctree}
+:maxdepth: 2
+:hidden:
+satzbildung/index
+```
+
+::::{grid} 2
+:gutter: 3
+
+:::{grid-item}
+:columns: 12 12 12 4
+
+```{image} /_static/albums/b1/grammar/satzbildung/cover.jpg
+:alt: Satzbildung album cover
+:target: satzbildung/index.html
+:class: sd-border-2
+```
+
+:::
+
+:::{grid-item}
+:columns: 12 12 12 8
+
+**[Satzbildung](satzbildung/index)**
+
+Advanced intermediate German grammar with subordinate clauses and complex sentence structures
+
+**23 Tracks** • B1-Part2 • 2025
+
+:::
+
+::::
+
+

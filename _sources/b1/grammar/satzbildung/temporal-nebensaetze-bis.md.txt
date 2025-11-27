@@ -1,0 +1,171 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Temporale Nebensätze – Bis. Practice with 38 example sentences. Audio lesson available."
+    keywords: "Subordinate Clauses, Temporal Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Temporale Nebensätze mit 'bis' - B1 German Grammar"
+    og:description: "Temporale Nebensätze – Bis - Learn with 38 examples"
+    og:type: "article"
+---
+
+# 12. Temporale Nebensätze – Bis
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/595zDA5Jqdodu3updE1CHo
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=k7UtZmO9JgY
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Temporale Nebensätze – Bis |
+|**Track Number**| 12 |
+|**Duration**|  1:43 |
+|**Examples**| 38 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Bis introduces a temporal clause meaning "until"
+- The verb in the bis clause goes to the end
+- Describes the endpoint of an action or state
+- Can appear before or after the main clause
+- Often used with verbs of waiting or continuing
+- Common in both spoken and written German
+
+:::
+
+## Examples
+
+
+**Ich warte, bis du kommst.**  
+_I'll wait until you come._
+
+**Bis der Arzt kommt, bleibe ich im Bett.**  
+_Until the doctor comes, I'll stay in bed._
+
+**Sie arbeitet, bis sie müde ist.**  
+_She works until she's tired._
+
+**Die Kinder spielen draußen, bis es dunkel wird.**  
+_The children play outside until it gets dark._
+
+**Wir bleiben hier, bis der Regen aufhört.**  
+_We'll stay here until the rain stops._
+
+**Ich räume auf, bis du zurückkommst.**  
+_I'll clean up until you come back._
+
+**Er liest, bis er einschläft.**  
+_He reads until he falls asleep._
+
+**Bis der Bus kommt, warten wir an der Haltestelle.**  
+_Until the bus comes, we wait at the stop._
+
+**Ich übe, bis ich es perfekt kann.**  
+_I practice until I can do it perfectly._
+
+**Ich decke den Tisch, bis das Essen fertig ist.**  
+_I'll set the table until the food is ready._
+
+**Sie bleibt, bis alle nach Hause gegangen sind.**  
+_She stays until everyone has gone home._
+
+**Bis der Film anfängt, haben wir noch Zeit.**  
+_Until the film starts, we still have time._
+
+**Ich spare, bis ich genug Geld habe.**  
+_I save until I have enough money._
+
+**Bis wir uns wiedersehen, bleib gesund!**  
+_Until we see each other again, stay healthy!_
+
+**Er wartet, bis die Ampel grün wird.**  
+_He waits until the light turns green._
+
+**Ich trinke einen Kaffee, bis du fertig bist.**  
+_I'll drink a coffee until you're finished._
+
+**Sie lernt, bis sie alles versteht.**  
+_She studies until she understands everything._
+
+**Wir gehen spazieren, bis der Laden öffnet.**  
+_We'll go for a walk until the store opens._
+
+**Ich bleibe wach, bis du anrufst.**  
+_I'll stay awake until you call._
+
+**Sie wartet, bis ihr Freund kommt.**  
+_She waits until her boyfriend comes._
+
+**Wir bleiben am Strand, bis die Sonne untergeht.**  
+_We'll stay at the beach until the sun sets._
+
+**Ich arbeite weiter, bis ich fertig bin.**  
+_I continue working until I'm finished._
+
+**Bis du bereit bist, warte ich hier.**  
+_Until you're ready, I'll wait here._
+
+**Er bleibt zu Hause, bis er sich besser fühlt.**  
+_He stays home until he feels better._
+
+**Wir haben noch fünf Minuten, bis der Zug abfährt.**  
+_We still have five minutes until the train departs._
+
+**Sie übt Klavier, bis ihre Hände müde sind.**  
+_She practices piano until her hands are tired._
+
+**Bis wir alles vorbereitet haben, dauert es noch.**  
+_Until we have everything prepared, it will take some time._
+
+**Ich lese, bis meine Augen schwer werden.**  
+_I read until my eyes get heavy._
+
+**Wir ruhen nicht, bis das Problem gelöst ist.**  
+_We won't rest until the problem is solved._
+
+**Er rennt, bis er außer Atem ist.**  
+_He runs until he's out of breath._
+
+**Ich mache mir Sorgen, bis sie zurückruft.**  
+_I'm worried until she calls back._
+
+**Wir tanzen, bis die Musik aufhört.**  
+_We dance until the music stops._
+
+**Bis du die Wahrheit sagst, glaube ich dir nicht.**  
+_Until you tell the truth, I don't believe you._
+
+**Sie kocht, bis das Essen perfekt ist.**  
+_She cooks until the food is perfect._
+
+**Wir bleiben drinnen, bis der Winter vorbei ist.**  
+_We'll stay inside until winter is over._
+
+**Ich spare, bis ich mir ein neues Fahrrad kaufen kann.**  
+_I save until I can buy myself a new bicycle._
+
+**Bis alle da sind, fangen wir nicht an.**  
+_Until everyone is here, we won't start._
+
+**Sie wartet geduldig, bis sie an der Reihe ist.**  
+_She waits patiently until it's her turn._

@@ -1,0 +1,168 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Zweiteilige Konnektoren – Gemischt. Practice with 37 example sentences. Audio lesson available."
+    keywords: "Connectors, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Zweiteilige Konnektoren - Gemischt - B1 German Grammar"
+    og:description: "Zweiteilige Konnektoren – Gemischt - Learn with 37 examples"
+    og:type: "article"
+---
+
+# 24. Zweiteilige Konnektoren – Gemischt
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/51xs9m8qTbjiOFCcbU22Q7
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=J79F9t-Kdrw
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Zweiteilige Konnektoren – Gemischt |
+|**Track Number**| 24 |
+|**Duration**|  1:43 |
+|**Examples**| 37 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Two-part connectors (also called correlative conjunctions) link sentence parts
+- Main types: sowohl...als auch (both...and), nicht nur...sondern auch (not only...but also), entweder...oder (either...or), weder...noch (neither...nor), zwar...aber (indeed...but)
+- Can connect words, phrases, or entire clauses
+- Each part has a specific position in the sentence
+- Important for creating more sophisticated sentences
+- Common in both spoken and written German
+
+:::
+
+## Examples
+
+
+**Ich spreche sowohl Deutsch als auch Englisch.**  
+_I speak both German and English._
+
+**Sie ist nicht nur intelligent, sondern auch fleißig.**  
+_She's not only intelligent but also hardworking._
+
+**Wir fahren entweder mit dem Zug oder mit dem Auto.**  
+_We're going either by train or by car._
+
+**Er hat weder Zeit noch Geld.**  
+_He has neither time nor money._
+
+**Das Buch ist zwar teuer, aber sehr gut.**  
+_The book is indeed expensive, but very good._
+
+**Sowohl meine Mutter als auch mein Vater arbeiten.**  
+_Both my mother and my father work._
+
+**Sie kann nicht nur singen, sondern auch tanzen.**  
+_She can not only sing but also dance._
+
+**Du kannst entweder hier bleiben oder mitkommen.**  
+_You can either stay here or come along._
+
+**Ich trinke weder Kaffee noch Tee.**  
+_I drink neither coffee nor tea._
+
+**Er ist zwar müde, aber er arbeitet weiter.**  
+_He's indeed tired, but he continues working._
+
+**Sowohl im Sommer als auch im Winter ist es hier schön.**  
+_Both in summer and in winter, it's beautiful here._
+
+**Das Restaurant ist nicht nur teuer, sondern auch voll.**  
+_The restaurant is not only expensive but also full._
+
+**Wir treffen uns entweder heute oder morgen.**  
+_We're meeting either today or tomorrow._
+
+**Sie mag weder Fisch noch Fleisch.**  
+_She likes neither fish nor meat._
+
+**Das Hotel ist zwar alt, aber sehr gemütlich.**  
+_The hotel is indeed old, but very cozy._
+
+**Sowohl du als auch ich müssen lernen.**  
+_Both you and I have to study._
+
+**Er spricht nicht nur Französisch, sondern auch Spanisch.**  
+_He speaks not only French but also Spanish._
+
+**Ihr könnt entweder zu Fuß gehen oder fahren.**  
+_You can either walk or drive._
+
+**Das Wetter ist weder warm noch kalt.**  
+_The weather is neither warm nor cold._
+
+**Sie ist zwar jung, aber sehr erfahren.**  
+_She's indeed young, but very experienced._
+
+**Das Essen ist nicht nur lecker, sondern auch gesund.**  
+_The food is not only delicious but also healthy._
+
+**Sie kommt entweder heute Abend oder morgen früh.**  
+_She's coming either this evening or tomorrow morning._
+
+**Ich habe weder seine Adresse noch seine Telefonnummer.**  
+_I have neither his address nor his phone number._
+
+**Das Konzert war zwar kurz, aber sehr schön.**  
+_The concert was indeed short, but very beautiful._
+
+**Er ist nicht nur mein Kollege, sondern auch mein Freund.**  
+_He's not only my colleague but also my friend._
+
+**Du darfst entweder Tee oder Kaffee trinken.**  
+_You may drink either tea or coffee._
+
+**Sie isst weder Zucker noch Salz.**  
+_She eats neither sugar nor salt._
+
+**Die Aufgabe ist zwar schwer, aber machbar.**  
+_The task is indeed difficult, but doable._
+
+**Sowohl der Anfang als auch das Ende waren spannend.**  
+_Both the beginning and the end were exciting._
+
+**Die Stadt bietet nicht nur Kultur, sondern auch Natur.**  
+_The city offers not only culture but also nature._
+
+**Wir können entweder ins Kino gehen oder zu Hause bleiben.**  
+_We can either go to the cinema or stay at home._
+
+**Das Zimmer hat weder Fenster noch Licht.**  
+_The room has neither windows nor light._
+
+**Der Film ist zwar lang, aber nie langweilig.**  
+_The film is indeed long, but never boring._
+
+**Sowohl Kinder als auch Erwachsene mögen das Spiel.**  
+_Both children and adults like the game._
+
+**Sie arbeitet nicht nur schnell, sondern auch genau.**  
+_She works not only quickly but also precisely._
+
+**Ich nehme entweder die blaue oder die rote Tasche.**  
+_I'm taking either the blue or the red bag._
+
+**Er findet weder den Schlüssel noch die Karte.**  
+_He finds neither the key nor the card._

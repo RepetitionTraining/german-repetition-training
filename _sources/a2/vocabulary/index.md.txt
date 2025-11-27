@@ -1,0 +1,5 @@
+# A2 Vocabulary
+
+```{toctree}
+:maxdepth: 1
+```

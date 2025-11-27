@@ -1,0 +1,174 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Temporale Nebensätze – Seit. Practice with 39 example sentences. Audio lesson available."
+    keywords: "Subordinate Clauses, Temporal Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Temporale Nebensätze mit 'seit' - B1 German Grammar"
+    og:description: "Temporale Nebensätze – Seit - Learn with 39 examples"
+    og:type: "article"
+---
+
+# 9. Temporale Nebensätze – Seit
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/7G3LqL2SonnYwQzKzXPB5a
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=1LRs1eO4m4E
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Temporale Nebensätze – Seit |
+|**Track Number**| 9 |
+|**Duration**|  1:42 |
+|**Examples**| 39 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Seit introduces a temporal clause meaning "since" (point in time)
+- The verb in the seit clause goes to the end
+- Describes when an ongoing action started
+- Often used with present tense (German differs from English here)
+- Can also be seitdem (same meaning)
+- Indicates duration from a starting point until now
+
+:::
+
+## Examples
+
+
+**Ich lerne Deutsch, seit ich in Berlin wohne.**  
+_I've been learning German since I've lived in Berlin._
+
+**Seit sie hier arbeitet, ist sie glücklicher.**  
+_Since she's worked here, she's been happier._
+
+**Er fühlt sich besser, seit er Sport macht.**  
+_He's felt better since he's done sports._
+
+**Wir gehen viel spazieren, seit wir einen Hund haben.**  
+_We've walked a lot since we've had a dog._
+
+**Sie ist müde, seit das Baby geboren ist.**  
+_She's been tired since the baby was born._
+
+**Ich bin glücklich, seit ich dich kenne.**  
+_I've been happy since I've known you._
+
+**Wir wohnen hier, seit wir geheiratet haben.**  
+_We've lived here since we got married._
+
+**Er isst gesünder, seit er Vegetarier ist.**  
+_He's eaten healthier since he's been a vegetarian._
+
+**Ich habe keine Zeit, seit ich diese Arbeit habe.**  
+_I've had no time since I've had this job._
+
+**Ich sehe sie selten, seit sie studiert.**  
+_I rarely see her since she's been studying._
+
+**Er ist entspannter, seit er Yoga macht.**  
+_He's been more relaxed since he's done yoga._
+
+**Wir fahren öfter weg, seit wir das neue Auto haben.**  
+_We've driven away more often since we've had the new car._
+
+**Sie spricht besser Deutsch, seit sie hier lebt.**  
+_She's spoken better German since she's lived here._
+
+**Ich lerne schneller, seit ich diese App benutze.**  
+_I've learned faster since I've used this app._
+
+**Wir sind Freunde, seit wir Kinder waren.**  
+_We've been friends since we were children._
+
+**Ich kaufe hier ein, seit es hier einen Supermarkt gibt.**  
+_I've shopped here since there's been a supermarket here._
+
+**Er schläft besser, seit er keinen Kaffee mehr trinkt.**  
+_He's slept better since he's stopped drinking coffee._
+
+**Sie streiten oft, seit sie zusammenwohnen.**  
+_They've argued often since they've lived together._
+
+**Ich bin viel aktiver, seit ich diese Musik höre.**  
+_I've been much more active since I've listened to this music._
+
+**Wir haben viel Spaß zusammen, seit wir uns kennen.**  
+_We've had a lot of fun together since we've known each other._
+
+**Ich bin fitter, seit ich regelmäßig jogge.**  
+_I've been fitter since I've jogged regularly._
+
+**Er reist viel, seit er pensioniert ist.**  
+_He's traveled a lot since he's been retired._
+
+**Sie spart Geld, seit sie einen Plan hat.**  
+_She's saved money since she's had a plan._
+
+**Wir fühlen uns wohler, seit wir umgezogen sind.**  
+_We've felt more comfortable since we've moved._
+
+**Er ist produktiver, seit er früher aufsteht.**  
+_He's been more productive since he's gotten up earlier._
+
+**Sie ist immer erreichbar, seit sie das neue Handy hat.**  
+_She's always reachable since she's had the new phone._
+
+**Ich verstehe mehr, seit ich täglich übe.**  
+_I understand more since I've practiced daily._
+
+**Wir gehen oft spazieren, seit es hier einen Park gibt.**  
+_We've often gone for walks since there's been a park here._
+
+**Sie ist erfolgreicher, seit sie hart arbeitet.**  
+_She's been more successful since she's worked hard._
+
+**Wir sind mobiler, seit wir ein Auto haben.**  
+_We've been more mobile since we've had a car._
+
+**Er kocht gern, seit er den Kurs besucht hat.**  
+_He's liked cooking since he's attended the course._
+
+**Sie hat viele Freunde, seit sie in der Stadt wohnt.**  
+_She's had many friends since she's lived in the city._
+
+**Ich schlafe besser, seit ich weniger Kaffee trinke.**  
+_I've slept better since I've drunk less coffee._
+
+**Wir arbeiten daran, seit wir das Problem erkannt haben.**  
+_We've worked on it since we've recognized the problem._
+
+**Sie ist glücklicher, seit sie ihre Leidenschaft gefunden hat.**  
+_She's been happier since she's found her passion._
+
+**Ich spreche besser Deutsch, seit ich hier lebe.**  
+_I've spoken better German since I've lived here._
+
+**Er hat mehr Energie, seit er gesund isst.**  
+_He's had more energy since he's eaten healthily._
+
+**Sie arbeitet von zu Hause, seit sie den neuen Job hat.**  
+_She's worked from home since she's had the new job._
+
+**Wir sind näher zusammen, seit wir offen miteinander sprechen.**  
+_We've been closer together since we've spoken openly with each other._

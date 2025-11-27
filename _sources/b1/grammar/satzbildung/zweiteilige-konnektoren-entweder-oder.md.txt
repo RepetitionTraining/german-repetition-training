@@ -1,0 +1,145 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Zweiteilige Konnektoren – Entweder... oder. Practice with 29 example sentences. Audio lesson available."
+    keywords: "Connectors, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Zweiteilige Konnektoren mit 'entweder...oder' - B1 German Grammar"
+    og:description: "Zweiteilige Konnektoren – Entweder... oder - Learn with 29 examples"
+    og:type: "article"
+---
+
+# 21. Zweiteilige Konnektoren – Entweder... oder
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/3S6Ztm0Z5xkjgwSSPc1v6d
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=OskIfUQHGjo
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Zweiteilige Konnektoren – Entweder... oder |
+|**Track Number**| 21 |
+|**Duration**|  1:41 |
+|**Examples**| 29 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- entweder...oder means "either...or"
+- Presents two alternatives or choices
+- entweder comes before the first option
+- oder comes before the second option
+- Shows that only one of two possibilities can be true
+- Used for decisions and alternatives
+- Common in everyday situations involving choices
+
+:::
+
+## Examples
+
+
+**Wir fahren entweder mit dem Zug oder mit dem Auto.**  
+_We're going either by train or by car._
+
+**Du kannst entweder hier bleiben oder mitkommen.**  
+_You can either stay here or come along._
+
+**Wir treffen uns entweder heute oder morgen.**  
+_We're meeting either today or tomorrow._
+
+**Ihr könnt entweder zu Fuß gehen oder fahren.**  
+_You can either walk or drive._
+
+**Sie kommt entweder heute Abend oder morgen früh.**  
+_She's coming either this evening or tomorrow morning._
+
+**Du darfst entweder Tee oder Kaffee trinken.**  
+_You may drink either tea or coffee._
+
+**Wir können entweder ins Kino gehen oder zu Hause bleiben.**  
+_We can either go to the cinema or stay at home._
+
+**Ich nehme entweder die blaue oder die rote Tasche.**  
+_I'm taking either the blue or the red bag._
+
+**Entweder rufst du an oder ich komme vorbei.**  
+_Either you call or I'll come by._
+
+**Wir essen entweder Pizza oder Pasta.**  
+_We're eating either pizza or pasta._
+
+**Entweder gehst du jetzt oder ich rufe die Polizei.**  
+_Either you leave now or I'll call the police._
+
+**Du kannst entweder Deutsch oder Englisch sprechen.**  
+_You can speak either German or English._
+
+**Entweder nehmen wir den Bus oder die U-Bahn.**  
+_We're taking either the bus or the subway._
+
+**Sie arbeitet entweder am Vormittag oder am Nachmittag.**  
+_She works either in the morning or in the afternoon._
+
+**Entweder kaufen wir das Auto oder wir sparen weiter.**  
+_We're either buying the car or we keep saving._
+
+**Du musst entweder früher kommen oder länger bleiben.**  
+_You have to either come earlier or stay longer._
+
+**Entweder regnet es oder die Sonne scheint.**  
+_Either it rains or the sun shines._
+
+**Wir fahren entweder nach Italien oder nach Spanien.**  
+_We're going either to Italy or to Spain._
+
+**Entweder hilfst du mir oder ich mache es allein.**  
+_Either you help me or I'll do it alone._
+
+**Sie studiert entweder Medizin oder Jura.**  
+_She's studying either medicine or law._
+
+**Entweder ist er krank oder sehr beschäftigt.**  
+_He's either sick or very busy._
+
+**Du kannst entweder mit dem Fahrrad oder zu Fuß kommen.**  
+_You can either come by bicycle or on foot._
+
+**Entweder machen wir heute Sport oder wir ruhen uns aus.**  
+_We're either doing sports today or we're resting._
+
+**Sie wählt entweder das rote oder das schwarze Kleid.**  
+_She's choosing either the red or the black dress._
+
+**Entweder kochen wir selbst oder bestellen wir etwas.**  
+_We're either cooking ourselves or ordering something._
+
+**Du lernst entweder allein oder mit einem Partner.**  
+_You're studying either alone or with a partner._
+
+**Entweder schauen wir einen Film oder lesen ein Buch.**  
+_We're either watching a movie or reading a book._
+
+**Sie antwortet entweder heute oder überhaupt nicht.**  
+_She's either answering today or not at all._
+
+**Entweder gewinnst du oder du lernst etwas dabei.**  
+_Either you win or you learn something from it._

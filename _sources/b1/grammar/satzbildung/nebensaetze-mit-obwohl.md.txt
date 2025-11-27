@@ -1,0 +1,174 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Nebensätze – Obwohl. Practice with 39 example sentences. Audio lesson available."
+    keywords: "Subordinate Clauses, Concessive Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Nebensätze mit 'obwohl' - B1 German Grammar"
+    og:description: "Nebensätze – Obwohl - Learn with 39 examples"
+    og:type: "article"
+---
+
+# 4. Nebensätze – Obwohl
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/3s6zFvxaRlouDbYdEX1bB0
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=ONo55ryXIgQ
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Nebensätze – Obwohl |
+|**Track Number**| 4 |
+|**Duration**|  1:41 |
+|**Examples**| 39 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Obwohl introduces a concessive clause showing a contrast or contradiction
+- Means "although", "even though", or "despite the fact that"
+- The verb in the obwohl clause goes to the end
+- Obwohl can start the sentence or come in the middle
+- Shows that something happens despite an obstacle or contrary expectation
+- Common in both spoken and written German
+
+:::
+
+## Examples
+
+
+**Ich gehe spazieren, obwohl es regnet.**  
+_I'm going for a walk although it's raining._
+
+**Obwohl sie müde ist, arbeitet sie weiter.**  
+_Although she's tired, she continues working._
+
+**Er fährt mit dem Fahrrad, obwohl es kalt ist.**  
+_He's cycling although it's cold._
+
+**Ich kaufe das Buch, obwohl ich kein Geld habe.**  
+_I'm buying the book although I don't have money._
+
+**Sie ist glücklich, obwohl sie viele Probleme hat.**  
+_She's happy although she has many problems._
+
+**Wir haben bis zum Ende geschaut, obwohl der Film langweilig war.**  
+_We watched until the end although the film was boring._
+
+**Ich lerne Deutsch, obwohl es schwer ist.**  
+_I'm learning German although it's difficult._
+
+**Obwohl er viel isst, nimmt er nicht zu.**  
+_Although he eats a lot, he doesn't gain weight._
+
+**Sie geht zur Arbeit, obwohl sie krank ist.**  
+_She's going to work although she's sick._
+
+**Wir kommen zu spät, obwohl wir uns beeilen.**  
+_We're arriving late although we're hurrying._
+
+**Er trinkt keinen Kaffee, obwohl er müde ist.**  
+_He's not drinking coffee although he's tired._
+
+**Obwohl sie viel lernt, besteht sie die Prüfung nicht.**  
+_Although she studies a lot, she doesn't pass the exam._
+
+**Wir gehen schwimmen, obwohl das Wasser kalt ist.**  
+_We're going swimming although the water is cold._
+
+**Ich helfe dir, obwohl ich keine Zeit habe.**  
+_I'll help you although I don't have time._
+
+**Sie fährt in den Urlaub, obwohl sie kein Geld hat.**  
+_She's going on vacation although she has no money._
+
+**Obwohl das Restaurant teuer ist, essen wir dort.**  
+_Although the restaurant is expensive, we're eating there._
+
+**Ich mag ihn, obwohl er manchmal nervig ist.**  
+_I like him although he's sometimes annoying._
+
+**Sie versteht nicht alles, obwohl sie Deutsch spricht.**  
+_She doesn't understand everything although she speaks German._
+
+**Er geht zu Fuß, obwohl der Weg weit ist.**  
+_He's walking although the way is far._
+
+**Obwohl ich Angst habe, mache ich es trotzdem.**  
+_Although I'm afraid, I'm doing it anyway._
+
+**Sie kauft das Kleid, obwohl es teuer ist.**  
+_She's buying the dress although it's expensive._
+
+**Wir verstehen uns gut, obwohl wir uns nicht kennen.**  
+_We get along well although we don't know each other._
+
+**Er lacht, obwohl er traurig ist.**  
+_He's laughing although he's sad._
+
+**Obwohl ich satt bin, esse ich noch Dessert.**  
+_Although I'm full, I'm still eating dessert._
+
+**Sie geht joggen, obwohl es regnet.**  
+_She's going jogging although it's raining._
+
+**Ich lese es gern, obwohl das Buch dick ist.**  
+_I like reading it although the book is thick._
+
+**Ich bleibe freundlich, obwohl er unhöflich ist.**  
+_I remain friendly although he's rude._
+
+**Obwohl sie neu ist, macht sie gute Arbeit.**  
+_Although she's new, she does good work._
+
+**Er trinkt Kaffee, obwohl er nicht müde ist.**  
+_He's drinking coffee although he's not tired._
+
+**Wir machen eine Pause, obwohl wir wenig Zeit haben.**  
+_We're taking a break although we have little time._
+
+**Sie bleibt ruhig, obwohl die Situation stressig ist.**  
+_She stays calm although the situation is stressful._
+
+**Obwohl ich kein Talent habe, lerne ich Gitarre.**  
+_Although I have no talent, I'm learning guitar._
+
+**Wir gehen ins Kino, obwohl wir den Film schon kennen.**  
+_We're going to the cinema although we already know the film._
+
+**Er lebt bescheiden, obwohl er reich ist.**  
+_He lives modestly although he's rich._
+
+**Sie ist glücklich, obwohl sie allein lebt.**  
+_She's happy although she lives alone._
+
+**Obwohl ich es nicht mag, esse ich Gemüse.**  
+_Although I don't like it, I eat vegetables._
+
+**Er hilft mir, obwohl er keine Zeit hat.**  
+_He's helping me although he has no time._
+
+**Es fährt noch gut, obwohl das Auto alt ist.**  
+_It still drives well although the car is old._
+
+**Ich gehe raus, obwohl es sehr kalt ist.**  
+_I'm going outside although it's very cold._

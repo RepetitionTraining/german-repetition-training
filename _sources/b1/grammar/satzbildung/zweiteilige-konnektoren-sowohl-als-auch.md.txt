@@ -1,0 +1,145 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Zweiteilige Konnektoren – Sowohl... als auch. Practice with 29 example sentences. Audio lesson available."
+    keywords: "Connectors, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Zweiteilige Konnektoren mit 'sowohl...als auch' - B1 German Grammar"
+    og:description: "Zweiteilige Konnektoren – Sowohl... als auch - Learn with 29 examples"
+    og:type: "article"
+---
+
+# 19. Zweiteilige Konnektoren – Sowohl... als auch
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/40mZGxPYtbp96RMOJr1MrW
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=A5cadHZc2OY
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Zweiteilige Konnektoren – Sowohl... als auch |
+|**Track Number**| 19 |
+|**Duration**|  1:42 |
+|**Examples**| 29 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- sowohl...als auch means "both...and"
+- Connects two equal elements (words, phrases, or clauses)
+- sowohl comes before the first element
+- als auch comes before the second element
+- Both elements have the same grammatical function
+- Used to emphasize that two things are true or present
+- Very common in German, more than "both...and" in English
+
+:::
+
+## Examples
+
+
+**Ich spreche sowohl Deutsch als auch Englisch.**  
+_I speak both German and English._
+
+**Sowohl meine Mutter als auch mein Vater arbeiten.**  
+_Both my mother and my father work._
+
+**Sowohl im Sommer als auch im Winter ist es hier schön.**  
+_Both in summer and in winter, it's beautiful here._
+
+**In der Schule sind sowohl der Lehrer als auch die Schüler zufrieden.**  
+_At school both the teacher and the students are satisfied._
+
+**Sowohl bei Regen als auch bei Sonne gehen wir wandern.**  
+_Both in rain and in sun, we go hiking._
+
+**Der Film war sowohl am Anfang als auch am Ende spannend.**  
+_The movie was exciting both at the beginning and at the end._
+
+**Sowohl Kinder als auch Erwachsene mögen das Spiel.**  
+_Both children and adults like the game._
+
+**In der Garage sind sowohl das Auto als auch das Fahrrad kaputt.**  
+_In the garage both the car and the bicycle are broken._
+
+**Mir schmecken sowohl Pizza als auch Pasta gut.**  
+_Both pizza and pasta taste good to me._
+
+**Sowohl am Montag als auch am Dienstag habe ich Zeit.**  
+_Both on Monday and on Tuesday, I have time._
+
+**Man kann sowohl mit dem Zug als auch mit dem Bus fahren.**  
+_You can travel both by train and by bus._
+
+**In meiner Familie studieren sowohl mein Bruder als auch meine Schwester.**  
+_In my family both my brother and my sister are studying._
+
+**Sowohl das Buch als auch der Film sind interessant.**  
+_Both the book and the film are interesting._
+
+**Sowohl in Deutschland als auch in Österreich spricht man Deutsch.**  
+_Both in Germany and in Austria, people speak German._
+
+**Sowohl morgens als auch abends trinke ich Kaffee.**  
+_Both in the morning and in the evening, I drink coffee._
+
+**Heute sind sowohl das Wetter als auch die Stimmung gut.**  
+_Today both the weather and the mood are good._
+
+**Sowohl zu Fuß als auch mit dem Rad ist der Weg schön.**  
+_Both on foot and by bike, the way is beautiful._
+
+**Bei diesem Produkt stimmen sowohl der Preis als auch die Qualität.**  
+_With this product both the price and the quality are right._
+
+**Ich bin sowohl heute als auch morgen beschäftigt.**  
+_I'm busy both today and tomorrow._
+
+**Sowohl das Hotel als auch das Restaurant sind in diesem Viertel teuer.**  
+_Both the hotel and the restaurant are expensive in this district._
+
+**Sowohl die Musik als auch der Text gefallen mir an diesem Lied.**  
+_Both the music and the lyrics please me in this song._
+
+**Sowohl für Kinder als auch für Erwachsene gibt es Programme.**  
+_There are programs both for children and for adults._
+
+**In der Klinik sind sowohl der Arzt als auch die Krankenschwester nett.**  
+_In the clinic both the doctor and the nurse are nice._
+
+**Sowohl im Park als auch am See kann man spazieren gehen.**  
+_You can walk both in the park and by the lake._
+
+**Sowohl die Theorie als auch die Praxis sind im Studium wichtig.**  
+_Both theory and practice are important in studies._
+
+**Man kann sowohl mit Kredit- als auch mit Bankkarte bezahlen.**  
+_You can pay both with credit card and with debit card._
+
+**Sowohl der Chef als auch die Mitarbeiter sind in der Firma zufrieden.**  
+_Both the boss and the employees are satisfied in the company._
+
+**Im Hotel sind sowohl das Frühstück als auch das Abendessen inklusive.**  
+_In the hotel both breakfast and dinner are included._
+
+**Sowohl bei der Arbeit als auch zu Hause bin ich glücklich.**  
+_Both at work and at home, I'm happy._

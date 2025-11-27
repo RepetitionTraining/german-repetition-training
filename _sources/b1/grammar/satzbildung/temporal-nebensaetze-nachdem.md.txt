@@ -1,0 +1,174 @@
+---
+myst:
+  html_meta:
+    description: "Learn German B1 grammar: Temporale Nebensätze – Nachdem. Practice with 39 example sentences. Audio lesson available."
+    keywords: "Subordinate Clauses, Temporal Clauses, German grammar, B1 German, learn German, German lessons, audio lesson"
+    author: "German Audio Learning"
+    language: "en"
+    og:title: "Temporale Nebensätze mit 'nachdem' - B1 German Grammar"
+    og:description: "Temporale Nebensätze – Nachdem - Learn with 39 examples"
+    og:type: "article"
+---
+
+# 11. Temporale Nebensätze – Nachdem
+
+<div class="streaming-links">
+
+```{button-link} https://open.spotify.com/track/0Xg6yzJ3LqhYvn9CVACxFU
+:class: streaming-link spotify rounded-pill shadow-sm
+
+{fab}`spotify` Spotify
+```
+
+```{button-link} https://music.youtube.com/watch?v=PuONB3i9Ihs
+:class: rounded-pill streaming-link youtube shadow-sm
+
+{fab}`youtube` YouTube Music
+```
+</div>
+
+:::{dropdown} Track Information
+:class-body: p-0 info-card
+
+|||
+|--|--|
+|**CEFR Level**| B1 |
+|**Album**| [B1 Grammar - Satzbildung](./index.md) |
+|**Track Title**| Temporale Nebensätze – Nachdem |
+|**Track Number**| 11 |
+|**Duration**|  1:45 |
+|**Examples**| 39 |
+
+:::
+
+:::{admonition} Tips
+:class: tip
+
+- Nachdem introduces a temporal clause meaning "after"
+- The verb in the nachdem clause goes to the end
+- Important: Uses a different tense than the main clause
+- Main clause in present → nachdem clause in perfect
+- Main clause in past → nachdem clause in pluperfect
+- Describes what happened before the main action
+
+:::
+
+## Examples
+
+
+**Nachdem ich gefrühstückt habe, gehe ich zur Arbeit.**  
+_After I have had breakfast, I go to work._
+
+**Ich rufe dich an, nachdem ich angekommen bin.**  
+_I'll call you after I have arrived._
+
+**Sie spielt, nachdem sie die Hausaufgaben gemacht hat.**  
+_She plays after she has done homework._
+
+**Wir gehen spazieren, nachdem es aufgehört hat zu regnen.**  
+_We go for a walk after it has stopped raining._
+
+**Er zieht sich an, nachdem er geduscht hat.**  
+_He gets dressed after he has showered._
+
+**Sie fühlt sich besser, nachdem sie geschlafen hat.**  
+_She feels better after she has slept._
+
+**Nachdem wir gegessen haben, machen wir einen Spaziergang.**  
+_After we have eaten, we take a walk._
+
+**Ich entspanne mich, nachdem ich die Arbeit beendet habe.**  
+_I relax after I have finished work._
+
+**Wir gehen nach Hause, nachdem der Film geendet hat.**  
+_We go home after the film has ended._
+
+**Er ist glücklich, nachdem er die Prüfung bestanden hat.**  
+_He's happy after he has passed the exam._
+
+**Sie macht Kaffee, nachdem sie aufgestanden ist.**  
+_She makes coffee after she has gotten up._
+
+**Wir fahren los, nachdem alle eingestiegen sind.**  
+_We drive off after everyone has gotten in._
+
+**Ich gebe es dir, nachdem ich das Buch gelesen habe.**  
+_I'll give it to you after I have read the book._
+
+**Sie geht schlafen, nachdem sie sich fertig gemacht hat.**  
+_She goes to sleep after she has gotten ready._
+
+**Nachdem er angekommen war, rief er mich an.**  
+_After he had arrived, he called me._
+
+**Ich war müde, nachdem ich den ganzen Tag gearbeitet hatte.**  
+_I was tired after I had worked all day._
+
+**Wir kochten zusammen, nachdem wir eingekauft hatten.**  
+_We cooked together after we had shopped._
+
+**Sie war froh, nachdem sie die Nachricht gehört hatte.**  
+_She was happy after she had heard the news._
+
+**Nachdem er das gesehen hatte, war er überrascht.**  
+_After he had seen that, he was surprised._
+
+**Wir gingen nach Hause, nachdem das Konzert zu Ende war.**  
+_We went home after the concert had ended._
+
+**Ich verlasse das Geschäft, nachdem ich bezahlt habe.**  
+_I leave the store after I have paid._
+
+**Sie ruft an, nachdem sie angekommen ist.**  
+_She calls after she has arrived._
+
+**Wir aßen zu Mittag, nachdem wir das Museum besucht hatten.**  
+_We had lunch after we had visited the museum._
+
+**Er fährt los, nachdem er getankt hat.**  
+_He drives off after he has refueled._
+
+**Nachdem sie aufgeräumt hatte, ging sie aus.**  
+_After she had cleaned up, she went out._
+
+**Ich fühle mich fit, nachdem ich trainiert habe.**  
+_I feel fit after I have trained._
+
+**Die Sonne kam raus, nachdem der Regen aufgehört hatte.**  
+_The sun came out after the rain had stopped._
+
+**Sie macht Hausaufgaben, nachdem sie nach Hause gekommen ist.**  
+_She does homework after she has come home._
+
+**Wir fuhren weg, nachdem wir uns verabschiedet hatten.**  
+_We drove away after we had said goodbye._
+
+**Er ist ruhiger, nachdem er meditiert hat.**  
+_He's calmer after he has meditated._
+
+**Nachdem ich das Fenster geöffnet hatte, wurde es kühler.**  
+_After I had opened the window, it got cooler._
+
+**Wir trinken Tee, nachdem wir spazieren gegangen sind.**  
+_We drink tea after we have gone for a walk._
+
+**Sie war erleichtert, nachdem sie die Prüfung gemacht hatte.**  
+_She was relieved after she had taken the exam._
+
+**Er weiß Bescheid, nachdem ich es ihm erklärt habe.**  
+_He knows after I have explained it to him._
+
+**Alle gingen nach Hause, nachdem das Spiel geendet hatte.**  
+_Everyone went home after the game had ended._
+
+**Sie ist zufrieden, nachdem sie die Arbeit abgeschlossen hat.**  
+_She's satisfied after she has completed the work._
+
+**Nachdem ich mich umgezogen hatte, ging ich zur Party.**  
+_After I had gotten changed, I went to the party._
+
+**Wir fahren weiter, nachdem wir uns ausgeruht haben.**  
+_We continue driving after we have rested._
+
+**Er empfahl es mir, nachdem er das Buch gelesen hatte.**  
+_He recommended it to me after he had read the book._

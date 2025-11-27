@@ -1,0 +1,13 @@
+# German Repetition Training
+
+Welcome to the German Repetition Training documentation.
+
+```{toctree}
+:maxdepth: 2
+:hidden:
+
+a1/index
+a2/index
+b1/index
+b2/index
+```
