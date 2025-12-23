@@ -1,0 +1,764 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="CEFR-Guided Content Creation with GitHub Copilot Agents" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="CEFR-Review.html" />
+<meta property="og:site_name" content="German Repetition Training" />
+<meta property="og:description" content="Purpose: This guide explains how to use custom GitHub Copilot agents to create CEFR-aligned German language learning content from outline templates. Key Principle: Agents don’t just review existing..." />
+<meta name="description" content="Purpose: This guide explains how to use custom GitHub Copilot agents to create CEFR-aligned German language learning content from outline templates. Key Principle: Agents don’t just review existing..." />
+
+    <title>CEFR-Guided Content Creation with GitHub Copilot Agents &#8212; German Repetition Training</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/stylesheet.css?v=5161499a" />
+    <link rel="stylesheet" type="text/css" href="_static/streaming-links.css?v=ad82c82f" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=8a448e45"></script>
+    <script src="_static/doctools.js?v=9bcbadda"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'CEFR-Review';</script>
+    <link rel="icon" href="_static/icon.svg"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+    <meta name="docbuild:last-update" content="Dec 23, 2025"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/icon.svg" class="logo__image only-light" alt=""/>
+    <script>document.write(`<img src="_static/icon.svg" class="logo__image only-dark" alt=""/>`);</script>
+  
+  
+    <p class="title logo__title">German Repetition Training</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="a1/index.html">
+    A1
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="a2/index.html">
+    A2
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="b1/index.html">
+    B1
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="b2/index.html">
+    B2
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
+        </div>
+      
+      
+        <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://open.spotify.com/artist/7heE9bcgQZjPbg0iOONJwh?si=ZCD6n-YWS42rVYxhzzLAMQ" title="Spotify" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-spotify fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Spotify</span></a>
+        </li>
+</ul></div>
+      
+        <div class="navbar-item">
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script></div>
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
+    </div>
+  
+
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar hide-on-wide">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="a1/index.html">
+    A1
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="a2/index.html">
+    A2
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="b1/index.html">
+    B1
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="b2/index.html">
+    B2
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+      <div class="sidebar-header-items__end">
+        
+          <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://open.spotify.com/artist/7heE9bcgQZjPbg0iOONJwh?si=ZCD6n-YWS42rVYxhzzLAMQ" title="Spotify" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-spotify fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Spotify</span></a>
+        </li>
+</ul></div>
+        
+          <div class="navbar-item">
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script></div>
+        
+      </div>
+    
+  </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="index.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    <li class="breadcrumb-item active" aria-current="page">CEFR-Guided...</li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="cefr-guided-content-creation-with-github-copilot-agents">
+<h1>CEFR-Guided Content Creation with GitHub Copilot Agents<a class="headerlink" href="#cefr-guided-content-creation-with-github-copilot-agents" title="Link to this heading">#</a></h1>
+<p><strong>Purpose</strong>: This guide explains how to use custom GitHub Copilot agents to create CEFR-aligned German language learning content from outline templates.</p>
+<p><strong>Key Principle</strong>: Agents don’t just review existing YAML files—they CREATE the YAML data files themselves based on outlines extracted from German language textbooks.</p>
+<section id="workflow-overview">
+<h2>Workflow Overview<a class="headerlink" href="#workflow-overview" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><strong>User provides</strong>: <code class="docutils literal notranslate"><span class="pre">outline.yml</span></code> file summarizing content to be learned at a specific CEFR level (extracted from textbooks)</p></li>
+<li><p><strong>Project Manager</strong>: Plans album structure and groups content into logical parts</p></li>
+<li><p><strong>Specialist Agents</strong>: Create the actual YAML track files with examples, translations, and audio text</p></li>
+<li><p><strong>Import</strong>: Load completed YAML into Django database with confirmation prompt</p></li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="quick-start">
+<h2>Quick Start<a class="headerlink" href="#quick-start" title="Link to this heading">#</a></h2>
+<section id="creating-a-new-grammar-album">
+<h3>Creating a New Grammar Album<a class="headerlink" href="#creating-a-new-grammar-album" title="Link to this heading">#</a></h3>
+<p>Open GitHub Copilot Chat and provide the Project Manager with an outline:</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>@project-manager I have an outline.yml file at data/b1/grammar/outline.yml with 5 grammar topics for B1 learners.
+
+Please:
+1. Review the outline and plan album/track structure
+2. Group related topics logically
+3. Create YAML track files by coordinating with @cefr-specialist, @german-teacher, and @native-speaker
+4. Each track should have 8-10 examples with German text, English translations, and natural phrasing
+
+Target: 1-2 albums, 5-8 tracks per album, appropriate for B1 level.
+</pre></div>
+</div>
+<p>The Project Manager will:</p>
+<ol class="arabic simple">
+<li><p>Analyze the outline and propose album structure</p></li>
+<li><p>Coordinate the three specialist agents to create each YAML track file</p></li>
+<li><p>Ensure consensus (CEFR Specialist + German Teacher must agree; Native Speaker is advisory)</p></li>
+<li><p>Deliver completed YAML files ready for import</p></li>
+</ol>
+</section>
+</section>
+<hr class="docutils" />
+<section id="agent-roles-in-content-creation">
+<h2>Agent Roles in Content Creation<a class="headerlink" href="#agent-roles-in-content-creation" title="Link to this heading">#</a></h2>
+<p>Three specialist agents collaborate to create CEFR-aligned content:</p>
+<section id="cefr-specialist">
+<h3>&#64;cefr-specialist<a class="headerlink" href="#cefr-specialist" title="Link to this heading">#</a></h3>
+<p><strong>Focus</strong>: Validates CEFR level alignment</p>
+<p><strong>Review Criteria</strong>:</p>
+<ul class="simple">
+<li><p>Vocabulary matches target level (B1 = ~1500-2000 words, familiar daily topics)</p></li>
+<li><p>Grammar structures are appropriate (B1 = past/future tenses, modal verbs, relative clauses)</p></li>
+<li><p>Task complexity aligns with level (B1 = simple communication, routine exchanges)</p></li>
+</ul>
+<p><strong>Example prompt</strong>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="nd">@cefr</span><span class="o">-</span><span class="n">specialist</span> <span class="n">Assess</span> <span class="n">whether</span> <span class="n">the</span> <span class="n">vocabulary</span> <span class="ow">and</span> <span class="n">grammar</span> <span class="ow">in</span> <span class="n">data</span><span class="o">/</span><span class="n">b1</span><span class="o">/</span><span class="n">grammar</span><span class="o">/</span><span class="n">core</span><span class="o">/</span><span class="n">tracks</span><span class="o">/</span><span class="n">track</span><span class="o">-</span><span class="mf">01.</span><span class="n">yml</span> 
+<span class="n">are</span> <span class="n">appropriate</span> <span class="k">for</span> <span class="n">CEFR</span> <span class="n">B1</span> <span class="n">learners</span><span class="o">.</span> <span class="n">Flag</span> <span class="nb">any</span> <span class="n">concepts</span> <span class="n">that</span> <span class="n">are</span> <span class="n">too</span> <span class="n">advanced</span> <span class="p">(</span><span class="n">B2</span><span class="o">+</span><span class="p">)</span> <span class="ow">or</span> <span class="n">too</span> <span class="n">simple</span> <span class="p">(</span><span class="n">A2</span><span class="p">)</span><span class="o">.</span>
+</pre></div>
+</div>
+</section>
+<hr class="docutils" />
+<section id="german-teacher">
+<h3>&#64;german-teacher<a class="headerlink" href="#german-teacher" title="Link to this heading">#</a></h3>
+<p><strong>Focus</strong>: Validates pedagogical soundness and grammar accuracy</p>
+<p><strong>Review Criteria</strong>:</p>
+<ul class="simple">
+<li><p>Grammar is correct and exemplifies the target concept</p></li>
+<li><p>Examples progress logically from simple to complex</p></li>
+<li><p>Common learner errors are anticipated and addressed</p></li>
+<li><p>Exercises support the learning objective</p></li>
+</ul>
+<p><strong>Example prompt</strong>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>@german-teacher Review data/b1/grammar/core/tracks/track-02.yml for pedagogical quality.
+Are the examples clear? Does the progression make sense? Are there potential confusion points 
+for English speakers learning German?
+</pre></div>
+</div>
+</section>
+<hr class="docutils" />
+<section id="native-speaker">
+<h3>&#64;native-speaker<a class="headerlink" href="#native-speaker" title="Link to this heading">#</a></h3>
+<p><strong>Focus</strong>: Validates naturalness and real-world usage (advisory)</p>
+<p><strong>Review Criteria</strong>:</p>
+<ul class="simple">
+<li><p>Phrases sound natural and idiomatic</p></li>
+<li><p>Register (formal/informal) is appropriate for context</p></li>
+<li><p>Expressions reflect contemporary German usage</p></li>
+<li><p>Colloquialisms or regional variants are flagged</p></li>
+</ul>
+<p><strong>Example prompt</strong>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>@native-speaker Do the example sentences in data/b1/grammar/core/tracks/track-03.yml sound natural? 
+Are there more common ways Germans would express these ideas in everyday conversation?
+</pre></div>
+</div>
+</section>
+</section>
+<hr class="docutils" />
+<section id="consensus-rule-guidance-for-prompt-text">
+<h2>Consensus Rule (Guidance for Prompt Text)<a class="headerlink" href="#consensus-rule-guidance-for-prompt-text" title="Link to this heading">#</a></h2>
+<p>The recommended weighted consensus rule is:</p>
+<ul class="simple">
+<li><p><strong>CEFR Specialist</strong> + <strong>German Teacher</strong> must agree → content approved for import</p></li>
+<li><p><strong>Native Speaker</strong> input is advisory (dissent noted but doesn’t block)</p></li>
+</ul>
+<p>If CEFR Specialist or German Teacher requests changes, revise content and re-review.</p>
+</section>
+<hr class="docutils" />
+<section id="content-creation-workflow">
+<h2>Content Creation Workflow<a class="headerlink" href="#content-creation-workflow" title="Link to this heading">#</a></h2>
+<section id="step-1-provide-outline-to-project-manager">
+<h3>Step 1: Provide Outline to Project Manager<a class="headerlink" href="#step-1-provide-outline-to-project-manager" title="Link to this heading">#</a></h3>
+<p><strong>For Grammar Albums</strong> (most common):</p>
+<p>Provide the PM with an <code class="docutils literal notranslate"><span class="pre">outline.yml</span></code> file extracted from genuine German textbooks:</p>
+<div class="highlight-yaml notranslate"><div class="highlight"><pre><span></span><span class="c1"># Example: data/b1/grammar/outline.yml</span>
+<span class="nt">level</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">B1</span>
+<span class="nt">topics</span><span class="p">:</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Reflexive Verbs</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Dative Case</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Modal Verbs (können, müssen, wollen)</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Subordinate Clauses (weil, dass, wenn)</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Past Tense (Perfekt)</span>
+</pre></div>
+</div>
+<p><strong>Request to Project Manager</strong>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="nd">@project</span><span class="o">-</span><span class="n">manager</span> <span class="n">I</span> <span class="n">have</span> <span class="n">an</span> <span class="n">outline</span><span class="o">.</span><span class="n">yml</span> <span class="n">file</span> <span class="n">at</span> <span class="n">data</span><span class="o">/</span><span class="n">b1</span><span class="o">/</span><span class="n">grammar</span><span class="o">/</span><span class="n">outline</span><span class="o">.</span><span class="n">yml</span> <span class="k">with</span> <span class="mi">5</span> <span class="n">grammar</span> <span class="n">topics</span> <span class="k">for</span> <span class="n">B1</span> <span class="n">learners</span><span class="o">.</span>
+
+<span class="n">Please</span><span class="p">:</span>
+<span class="mf">1.</span> <span class="n">Review</span> <span class="n">the</span> <span class="n">outline</span> <span class="ow">and</span> <span class="n">plan</span> <span class="n">how</span> <span class="n">to</span> <span class="n">structure</span> <span class="n">these</span> <span class="n">into</span> <span class="n">albums</span><span class="o">/</span><span class="n">tracks</span>
+<span class="mf">2.</span> <span class="n">Group</span> <span class="n">related</span> <span class="n">topics</span> <span class="n">logically</span> <span class="p">(</span><span class="n">e</span><span class="o">.</span><span class="n">g</span><span class="o">.</span><span class="p">,</span> <span class="n">verb</span><span class="o">-</span><span class="n">focused</span> <span class="n">vs</span> <span class="n">case</span><span class="o">-</span><span class="n">focused</span><span class="p">)</span>
+<span class="mf">3.</span> <span class="n">Create</span> <span class="mi">1</span><span class="o">-</span><span class="mi">2</span> <span class="n">albums</span> <span class="k">with</span> <span class="n">appropriate</span> <span class="n">track</span> <span class="n">structure</span>
+<span class="mf">4.</span> <span class="n">Delegate</span> <span class="n">creation</span> <span class="n">of</span> <span class="n">YAML</span> <span class="n">track</span> <span class="n">files</span> <span class="n">to</span> <span class="nd">@cefr</span><span class="o">-</span><span class="n">specialist</span><span class="p">,</span> <span class="nd">@german</span><span class="o">-</span><span class="n">teacher</span><span class="p">,</span> <span class="ow">and</span> <span class="nd">@native</span><span class="o">-</span><span class="n">speaker</span>
+
+<span class="n">Each</span> <span class="n">track</span> <span class="n">should</span> <span class="n">include</span><span class="p">:</span>
+<span class="o">-</span> <span class="n">German</span> <span class="n">examples</span> <span class="n">demonstrating</span> <span class="n">the</span> <span class="n">grammar</span> <span class="n">point</span>
+<span class="o">-</span> <span class="n">English</span> <span class="n">translations</span>
+<span class="o">-</span> <span class="n">Natural</span><span class="p">,</span> <span class="n">level</span><span class="o">-</span><span class="n">appropriate</span> <span class="n">vocabulary</span>
+<span class="o">-</span> <span class="n">Progression</span> <span class="kn">from</span><span class="w"> </span><span class="nn">simple</span> <span class="n">to</span> <span class="nb">complex</span> <span class="n">usage</span>
+
+<span class="n">Target</span><span class="p">:</span> <span class="mi">5</span><span class="o">-</span><span class="mi">8</span> <span class="n">tracks</span> <span class="n">per</span> <span class="n">album</span><span class="p">,</span> <span class="n">each</span> <span class="n">focusing</span> <span class="n">on</span> <span class="n">one</span> <span class="n">aspect</span> <span class="n">of</span> <span class="n">the</span> <span class="n">grammar</span> <span class="n">topic</span><span class="o">.</span>
+</pre></div>
+</div>
+</section>
+<section id="step-2-project-manager-plans-structure">
+<h3>Step 2: Project Manager Plans Structure<a class="headerlink" href="#step-2-project-manager-plans-structure" title="Link to this heading">#</a></h3>
+<p>The PM analyzes the outline and proposes album structure:</p>
+<p><strong>Example PM Response</strong>:</p>
+<blockquote>
+<div><p>I’ll create two albums:</p>
+<p><strong>Album 1: B1 Verbs &amp; Actions</strong> (3 topics)</p>
+<ul class="simple">
+<li><p>Track 1: Reflexive Verbs basics (sich waschen, sich anziehen)</p></li>
+<li><p>Track 2: Reflexive Verbs with emotions (sich freuen, sich ärgern)</p></li>
+<li><p>Track 3: Modal verbs (können, müssen, wollen)</p></li>
+<li><p>Track 4: Modal verbs in context</p></li>
+</ul>
+<p><strong>Album 2: B1 Sentence Structure</strong> (2 topics)</p>
+<ul class="simple">
+<li><p>Track 1: Subordinate clauses with “weil”</p></li>
+<li><p>Track 2: Subordinate clauses with “dass” and “wenn”</p></li>
+<li><p>Track 3: Past tense (Perfekt) formation</p></li>
+<li><p>Track 4: Past tense (Perfekt) in conversation</p></li>
+</ul>
+</div></blockquote>
+</section>
+<section id="step-3-agent-collaboration-creates-files">
+<h3>Step 3: Agent Collaboration Creates Files<a class="headerlink" href="#step-3-agent-collaboration-creates-files" title="Link to this heading">#</a></h3>
+<p>PM coordinates the three specialist agents to create each track file:</p>
+<p><strong>For each track</strong>, PM facilitates:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="nd">@project</span><span class="o">-</span><span class="n">manager</span> <span class="n">Create</span> <span class="n">data</span><span class="o">/</span><span class="n">b1</span><span class="o">/</span><span class="n">grammar</span><span class="o">/</span><span class="n">verbs</span><span class="o">-</span><span class="n">actions</span><span class="o">/</span><span class="n">tracks</span><span class="o">/</span><span class="n">track</span><span class="o">-</span><span class="mf">01.</span><span class="n">yml</span> <span class="k">for</span> <span class="s2">&quot;Reflexive Verbs basics&quot;</span><span class="o">.</span>
+
+<span class="n">Coordinate</span> <span class="k">with</span><span class="p">:</span>
+<span class="o">-</span> <span class="nd">@cefr</span><span class="o">-</span><span class="n">specialist</span><span class="p">:</span> <span class="n">Ensure</span> <span class="n">examples</span> <span class="n">match</span> <span class="n">B1</span> <span class="n">complexity</span>
+<span class="o">-</span> <span class="nd">@german</span><span class="o">-</span><span class="n">teacher</span><span class="p">:</span> <span class="n">Verify</span> <span class="n">grammar</span> <span class="n">accuracy</span> <span class="ow">and</span> <span class="n">pedagogical</span> <span class="n">progression</span>  
+<span class="o">-</span> <span class="nd">@native</span><span class="o">-</span><span class="n">speaker</span><span class="p">:</span> <span class="n">Ensure</span> <span class="n">phrases</span> <span class="n">sound</span> <span class="n">natural</span>
+
+<span class="n">Create</span> <span class="mi">8</span><span class="o">-</span><span class="mi">10</span> <span class="n">example</span> <span class="n">sentences</span> <span class="n">showing</span> <span class="n">reflexive</span> <span class="n">verbs</span> <span class="ow">in</span> <span class="n">context</span><span class="o">.</span>
+</pre></div>
+</div>
+<p><strong>Agent Collaboration</strong>:</p>
+<ol class="arabic simple">
+<li><p><strong>CEFR Specialist</strong> proposes vocabulary and complexity level</p></li>
+<li><p><strong>German Teacher</strong> drafts example sentences with grammar explanations</p></li>
+<li><p><strong>Native Speaker</strong> reviews for naturalness and suggests adjustments</p></li>
+<li><p><strong>PM</strong> consolidates into final YAML file</p></li>
+</ol>
+</section>
+<section id="step-4-review-agent-feedback">
+<h3>Step 4: Review Agent Feedback<a class="headerlink" href="#step-4-review-agent-feedback" title="Link to this heading">#</a></h3>
+<p>Agents provide feedback in plain language:</p>
+<p><strong>Example CEFR Specialist feedback</strong>:</p>
+<blockquote>
+<div><p>✓ Vocabulary is appropriate for B1 (daily routines, common verbs)
+⚠️ Track 3 uses “obwohl” (subordinating conjunction) - borderline B1/B2
+✗ Track 5 includes Konjunktiv II (B2+ concept) - too advanced</p>
+</div></blockquote>
+<p><strong>Example German Teacher feedback</strong>:</p>
+<blockquote>
+<div><p>✓ Grammar examples are accurate and progress logically
+⚠️ Track 2, Part 3: English speakers may confuse “seit” vs “vor” - add clarifying note
+✓ Exercises align well with learning objectives</p>
+</div></blockquote>
+<p><strong>Example Native Speaker feedback</strong>:</p>
+<blockquote>
+<div><p>✓ Most phrases sound natural and contemporary
+⚠️ Track 4, Part 1: “Ich hätte gern” is correct but slightly formal; “Ich möchte” is more common
+⚠️ Track 4, Part 5: “Das macht nichts” is fine but regional; consider “Kein Problem”</p>
+</div></blockquote>
+</section>
+<section id="step-5-iteration-refinement">
+<h3>Step 5: Iteration &amp; Refinement<a class="headerlink" href="#step-5-iteration-refinement" title="Link to this heading">#</a></h3>
+<p>If agents suggest changes:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="nd">@project</span><span class="o">-</span><span class="n">manager</span> <span class="n">The</span> <span class="n">native</span> <span class="n">speaker</span> <span class="n">suggested</span> <span class="s2">&quot;Ich möchte&quot;</span> <span class="n">instead</span> <span class="n">of</span> <span class="s2">&quot;Ich hätte gern&quot;</span> <span class="k">for</span> <span class="n">Track</span> <span class="mf">4.</span>
+<span class="n">Please</span> <span class="n">update</span> <span class="n">data</span><span class="o">/</span><span class="n">b1</span><span class="o">/</span><span class="n">grammar</span><span class="o">/</span><span class="n">verbs</span><span class="o">-</span><span class="n">actions</span><span class="o">/</span><span class="n">tracks</span><span class="o">/</span><span class="n">track</span><span class="o">-</span><span class="mf">04.</span><span class="n">yml</span> <span class="n">accordingly</span> <span class="ow">and</span> <span class="n">regenerate</span> <span class="n">the</span> <span class="n">file</span><span class="o">.</span>
+</pre></div>
+</div>
+<p>PM coordinates updates and ensures all agents agree on final version.</p>
+</section>
+<section id="step-6-import-with-confirmation">
+<h3>Step 6: Import with Confirmation<a class="headerlink" href="#step-6-import-with-confirmation" title="Link to this heading">#</a></h3>
+<p>Before importing, the CLI will show a confirmation prompt:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>python<span class="w"> </span>run_import.py<span class="w"> </span>--yaml<span class="w"> </span>b1/grammar/core
+</pre></div>
+</div>
+<p>This reminds you to run agent reviews before proceeding with import.</p>
+</section>
+</section>
+<hr class="docutils" />
+<section id="iteration-re-review">
+<h2>Iteration &amp; Re-Review<a class="headerlink" href="#iteration-re-review" title="Link to this heading">#</a></h2>
+<p>If you edit YAML content after review:</p>
+<ol class="arabic simple">
+<li><p><strong>Minor edits</strong> (typos, voice changes): No re-review needed</p></li>
+<li><p><strong>Content changes</strong> (new examples, grammar changes): Re-review recommended</p></li>
+<li><p><strong>Level changes</strong>: Always re-review</p></li>
+</ol>
+<p>The CLI will remind you to re-run review before import.</p>
+</section>
+<hr class="docutils" />
+<section id="cefr-level-guidelines">
+<h2>CEFR Level Guidelines<a class="headerlink" href="#cefr-level-guidelines" title="Link to this heading">#</a></h2>
+<section id="a1-beginner">
+<h3>A1 (Beginner)<a class="headerlink" href="#a1-beginner" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Vocabulary</strong>: ~500 basic words (greetings, numbers, common nouns)</p></li>
+<li><p><strong>Grammar</strong>: Present tense, basic word order, simple questions</p></li>
+<li><p><strong>Tasks</strong>: Introduce yourself, order food, ask for directions</p></li>
+</ul>
+</section>
+<section id="a2-elementary">
+<h3>A2 (Elementary)<a class="headerlink" href="#a2-elementary" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Vocabulary</strong>: ~1000 words (daily routines, shopping, family)</p></li>
+<li><p><strong>Grammar</strong>: Past tense (Perfekt), possessives, basic conjunctions</p></li>
+<li><p><strong>Tasks</strong>: Describe past events, make simple comparisons, express opinions on familiar topics</p></li>
+</ul>
+</section>
+<section id="b1-intermediate">
+<h3>B1 (Intermediate)<a class="headerlink" href="#b1-intermediate" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Vocabulary</strong>: ~2000 words (work, hobbies, current events)</p></li>
+<li><p><strong>Grammar</strong>: Future tense, modal verbs, relative clauses, subordinating conjunctions</p></li>
+<li><p><strong>Tasks</strong>: Narrate experiences, explain plans, handle most travel situations</p></li>
+</ul>
+</section>
+<section id="b2-upper-intermediate">
+<h3>B2 (Upper Intermediate)<a class="headerlink" href="#b2-upper-intermediate" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Vocabulary</strong>: ~4000 words (abstract concepts, nuanced expressions)</p></li>
+<li><p><strong>Grammar</strong>: Konjunktiv II, passive voice, advanced conjunctions</p></li>
+<li><p><strong>Tasks</strong>: Argue a position, understand complex texts, interact spontaneously</p></li>
+</ul>
+</section>
+<section id="c1-advanced">
+<h3>C1 (Advanced)<a class="headerlink" href="#c1-advanced" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Vocabulary</strong>: ~8000 words (idiomatic, professional, literary)</p></li>
+<li><p><strong>Grammar</strong>: Advanced structures, stylistic variations</p></li>
+<li><p><strong>Tasks</strong>: Express ideas fluently, understand implicit meaning, use language flexibly</p></li>
+</ul>
+</section>
+<section id="c2-proficiency">
+<h3>C2 (Proficiency)<a class="headerlink" href="#c2-proficiency" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Vocabulary</strong>: Near-native command</p></li>
+<li><p><strong>Grammar</strong>: All structures, including regional and archaic forms</p></li>
+<li><p><strong>Tasks</strong>: Summarize complex information, discuss abstract topics at expert level</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="troubleshooting">
+<h2>Troubleshooting<a class="headerlink" href="#troubleshooting" title="Link to this heading">#</a></h2>
+<section id="agent-disagreement">
+<h3>Agent Disagreement<a class="headerlink" href="#agent-disagreement" title="Link to this heading">#</a></h3>
+<p>If CEFR Specialist and German Teacher disagree:</p>
+<ol class="arabic simple">
+<li><p><strong>Project Manager</strong> mediates based on weighted rule</p></li>
+<li><p>Prioritize <strong>CEFR integrity</strong> over pedagogical preference if conflict arises</p></li>
+<li><p>Record dissent and reasoning in review notes</p></li>
+</ol>
+</section>
+<section id="ambiguous-content-spans-multiple-levels">
+<h3>Ambiguous Content (Spans Multiple Levels)<a class="headerlink" href="#ambiguous-content-spans-multiple-levels" title="Link to this heading">#</a></h3>
+<p>If content includes B1 and B2 concepts:</p>
+<ul class="simple">
+<li><p>Split into separate tracks by level</p></li>
+<li><p>Or label as “B1/B2 transition” and target higher level</p></li>
+</ul>
+</section>
+<section id="agent-unavailable-or-delayed">
+<h3>Agent Unavailable or Delayed<a class="headerlink" href="#agent-unavailable-or-delayed" title="Link to this heading">#</a></h3>
+<p>If agents don’t respond promptly:</p>
+<ul class="simple">
+<li><p>Proceed with available agent feedback</p></li>
+<li><p>Document which agents were consulted</p></li>
+<li><p>Re-review when full coverage is available</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="related-files">
+<h2>Related Files<a class="headerlink" href="#related-files" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p><strong>Import Workflow</strong>: <a class="reference download internal" download="" href="_downloads/e10cf87d22db983d45292b81b924d16b/run_import.py"><span class="xref download myst"><code class="docutils literal notranslate"><span class="pre">run_import.py</span></code></span></a> - CLI import utility with confirmation prompt</p></li>
+<li><p><strong>Agent Definitions</strong>: <a class="reference internal" href="#../.github/agents/"><span class="xref myst"><code class="docutils literal notranslate"><span class="pre">.github/agents/*.agent.md</span></code></span></a> - Custom agent configurations</p></li>
+<li><p><strong>Sample Outlines</strong>: Look in <code class="docutils literal notranslate"><span class="pre">data/*/outline.yml</span></code> files for examples</p></li>
+<li><p><strong>Constitution</strong>: <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">.specify/memory/constitution.md</span></code></span> - v1.2.0 with single-user exceptions</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="feedback">
+<h2>Feedback<a class="headerlink" href="#feedback" title="Link to this heading">#</a></h2>
+<p>This workflow emphasizes agent-created content from textbook outlines. The goal is to leverage agent expertise to produce high-quality, CEFR-aligned learning materials efficiently. Adjust the process as needed for your workflow.</p>
+</section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
