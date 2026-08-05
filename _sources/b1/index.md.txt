@@ -1,9 +1,15 @@
-# B1
+---
+orphan: true
+---
 
-Intermediate level German language learning materials.
+# B1
 
 ```{toctree}
 :maxdepth: 2
+:hidden:
+:caption: German B1
 
 grammar/index
+concepts/index
+
 ```

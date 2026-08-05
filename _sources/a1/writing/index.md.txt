@@ -1,0 +1,20 @@
+# Writing
+
+Real German correspondence, one everyday situation at a time: emails, short messages, and postcards, in both casual and formal registers. Every article carries a model text you can hear read aloud until its shape sticks.
+
+```{toctree}
+:maxdepth: 1
+
+email-informal-1
+email-formal-1
+email-formal-2
+email-formal-3
+email-formal-4
+email-informal-2
+sms-informal-1
+sms-informal-2
+sms-informal-3
+postcard-1
+postcard-2
+postcard-3
+```

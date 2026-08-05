@@ -1,0 +1,186 @@
+---
+myst:
+  html_meta:
+    description: "B2 grammar: Zustandspassiv, understand the difference between process passive with werden and state passive with sein in present and past."
+    keywords: "german, german learning, b2, grammar, zustandspassiv, vorgangspassiv, passiv mit sein, passiv mit werden, partizip ii, praesens, praeteritum"
+    "property=og:title": "Zustandspassiv – Passiv mit sein"
+    "property=og:description": "B2 grammar: Zustandspassiv, understand the difference between process passive with werden and state passive with sein in present and past."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Zustandspassiv
+
+> Distinguish an ongoing action from its finished result with German passive forms
+
+:::{seealso}
+
+- [B1 > Grammar > Passiv (Passive Voice)](/b1/grammar/passiv.md)
+- [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
+- [B2 > Grammar > Partizipien als Adjektive](/b2/grammar/partizipien-als-adjektive.md)
+- [A2 > Grammar > Verb werden](/a2/grammar/verbs/verb-werden.md)
+
+:::
+
+At B2, you should not only form passive sentences correctly, but also choose the right meaning. German uses *werden* to describe a process in progress and *sein* to describe a resulting state. This distinction helps you sound precise in reports, workplace communication, and formal writing.
+
+*Examples:*
+
+- *The report is being written right now.*
+- *The report is finished and ready to send.*
+- *The room was being cleaned, then it was clean.*
+
+---
+
+## Vorgangspassiv mit *werden* (Präsens)
+
+Use this form when you focus on what is currently happening or what regularly happens as a process. The action is still ongoing or viewed as an event.
+
+| Focus | Pattern | Example |
+| --- | --- | --- |
+| Action in progress | *werden* (Präsens) + Partizip II | Der Vertrag **wird unterschrieben**. |
+
+**Examples:**
+
+- Die E-Mails **werden** heute Nachmittag **beantwortet**.  
+  *The emails are being answered this afternoon.*
+- Das Formular **wird** am Empfang **ausgefüllt**.  
+  *The form is being filled in at reception.*
+- Neue Mitarbeitende **werden** in den ersten Wochen intensiv **eingearbeitet**.  
+  *New employees are being trained intensively in the first weeks.*
+- Die Software **wird von** der IT-Abteilung **aktualisiert**.  
+  *The software is being updated by the IT department.*
+
+:::{tip}
+If you can naturally ask *Was passiert gerade?* and answer with your sentence, you probably need *Vorgangspassiv* with *werden*.
+:::
+
+### Practice: Vorgangspassiv im Präsens
+
+Use the following link to practice this section.
+
+---
+
+## Vorgangspassiv mit *werden* (Präteritum)
+
+Use this form when you describe a process in the past, especially in reports, news, and written narratives. You are still describing the event itself, not the result.
+
+| Focus | Pattern | Example |
+| --- | --- | --- |
+| Past process | *wurde/wurden* + Partizip II | Der Antrag **wurde geprüft**. |
+
+**Examples:**
+
+- Der Antrag **wurde** gestern endgültig **genehmigt**.  
+  *The application was approved yesterday.*
+- Das Gebäude **wurde** im letzten Jahr komplett **renoviert**.  
+  *The building was completely renovated last year.*
+- Mehrere Vorschläge **wurden** im Meeting kritisch **diskutiert**.  
+  *Several proposals were discussed critically in the meeting.*
+- Die Ergebnisse **wurden von** zwei Teams unabhängig **ausgewertet**.  
+  *The results were evaluated independently by two teams.*
+
+:::{note}
+In many spoken contexts, German prefers Perfekt forms for past events. In formal written language, *wurde + Partizip II* remains very common.
+:::
+
+### Practice: Vorgangspassiv im Präteritum
+
+Use the following link to practice this section.
+
+---
+
+## Zustandspassiv mit *sein* (Präsens)
+
+Use this form when you describe the current condition after an action has already happened. The process is over; you describe the state now.
+
+| Focus | Pattern | Example |
+| --- | --- | --- |
+| Present state/result | *sein* (Präsens) + Partizip II | Die Tür **ist geschlossen**. |
+
+**Examples:**
+
+- Der Konferenzraum **ist bereits reserviert**.  
+  *The conference room is already reserved.*
+- Die Aufgabe **ist vollständig erledigt**.  
+  *The task is fully completed.*
+- Alle Dokumente **sind digital unterschrieben**.  
+  *All documents are digitally signed.*
+- Das Fenster **ist wegen des Lärms geschlossen**.  
+  *The window is closed because of the noise.*
+
+:::{warning}
+Do not confuse this with adjective-only descriptions. In many sentences, the Partizip II behaves similarly to an adjective, but in this lesson you should focus on the result of a prior action.
+:::
+
+### Practice: Zustandspassiv im Präsens
+
+Use the following link to practice this section.
+
+---
+
+## Zustandspassiv mit *sein* (Präteritum)
+
+Use this form for a state that existed at a point in the past. You are not narrating the action itself, but the condition that held then.
+
+| Focus | Pattern | Example |
+| --- | --- | --- |
+| Past state/result | *war/waren* + Partizip II | Die Tür **war geschlossen**. |
+
+**Examples:**
+
+- Als wir ankamen, **war** der Saal schon **vorbereitet**.  
+  *When we arrived, the hall was already prepared.*
+- Nach dem Sturm **waren** mehrere Straßen für Stunden **gesperrt**.  
+  *After the storm, several roads were closed for hours.*
+- Vor der Präsentation **war** die Technik endlich **eingerichtet**.  
+  *Before the presentation, the equipment was finally set up.*
+- Im Protokoll stand, dass alle Punkte **dokumentiert waren**.  
+  *The minutes said that all points were documented.*
+
+:::{tip}
+A useful check is: can you paraphrase with "in diesem Moment war der Zustand so"? If yes, *war/waren + Partizip II* is often the right choice.
+:::
+
+### Practice: Zustandspassiv im Präteritum
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Vorgangspassiv* with **werden** describes an action or process.
+- *Zustandspassiv* with **sein** describes the result state after an action.
+- Present contrast: **wird repariert** (is being repaired) vs **ist repariert** (is repaired).
+- Past contrast: **wurde repariert** (was being/was repaired as event) vs **war repariert** (was in a repaired state).
+- Choosing between these forms is mostly a meaning decision, not only a form decision.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Die Tür wird geschlossen, seit zwei Stunden.* → Die Tür **ist** seit zwei Stunden **geschlossen**. (state over time, not ongoing process)
+- *Als wir ankamen, wurde der Raum schon vorbereitet.* → Als wir ankamen, **war** der Raum schon **vorbereitet**. (focus on existing state at that moment)
+- *Die Daten sind gestern analysiert.* → Die Daten **wurden** gestern **analysiert**. (specific past event, not state)
+- *Der Bericht war unterschreiben.* → Der Bericht war **unterschrieben**. (use correct Partizip II)
+
+:::
+
+---
+
+## Practice: Full review
+
+Click the link below to practice everything from this page with an interactive tutor.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B1 > Grammar > Passiv (Passive Voice)](/b1/grammar/passiv.md)
+- [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
+- [A2 > Grammar > Verb werden](/a2/grammar/verbs/verb-werden.md)

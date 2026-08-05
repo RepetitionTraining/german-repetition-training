@@ -1,0 +1,244 @@
+---
+myst:
+  html_meta:
+    description: "B2 German grammar: Indefinitpronomen for people, places, time, and things, plus forms like einer/eins/eine and keins in natural usage."
+    keywords: "german, german learning, b2, grammar, indefinitpronomen, jemand, niemand, keiner, irgendwo, nirgendwo, etwas, nichts, einer eins eine"
+    "property=og:title": "Indefinitpronomen - Non-specific Reference at B2"
+    "property=og:description": "Learn B2 Indefinitpronomen across people, places, time, and things, including nuanced contrasts like jemand vs irgendwer and nichts vs keins."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Indefinitpronomen
+
+> Talk about people, places, time, and things in a precise but non-specific way
+
+:::{seealso}
+
+- [B2 > Grammar > Negation](/b2/grammar/negation.md)
+- [B2 > Grammar > Relativsätze mit wer](/b2/grammar/relativsaetze-mit-wer.md)
+- [A2 > Grammar > Pronomen - man, jemand, niemand](/a2/grammar/pronouns/pronomen-man-jemand-niemand.md)
+- [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)
+
+:::
+
+At B2, you do much more than use simple words like *jemand* or *etwas*. You choose forms that match register, precision, and structure: neutral vs colloquial, person vs thing, and lexical negation vs sentence negation. This helps you sound more exact in discussion, writing, and everyday argumentation.
+
+*Examples:*
+
+- *Someone must have left a note somewhere.*
+- *No one reacted, so nothing changed.*
+- *At some point everyone decides whether one option is better than another.*
+
+---
+
+## Indefinitpronomen for people: man, jemand, einer, irgendwer, niemand, keiner
+
+These forms all refer to people, but they do not mean the same thing. At B2, the key is choosing by function: general statement (*man*), unspecified existence (*jemand*, *einer*, *irgendwer*), or negation (*niemand*, *keiner*).
+
+| Form | Core meaning | Typical use |
+| --- | --- | --- |
+| {pronoun}`man` | people in general | rules, habits, generic statements |
+| {pronoun}`jemand` | someone | neutral, standard register |
+| {pronoun}`einer` | one person, someone | often spoken, contextual |
+| {pronoun}`irgendwer` | somebody or other | colloquial, vague |
+| {pronoun}`niemand` | no one | absolute person negation |
+| {pronoun}`keiner` | no one / none of them | often contrastive or set-based |
+
+**Examples:**
+
+- {pronoun}`Man` kann diese Software auch ohne Schulung bedienen.  
+  *You/people can use this software even without training.*
+- Hat {pronoun}`jemand` den Bericht als PDF gespeichert?  
+  *Did someone save the report as a PDF?*  
+- Im Meeting hat {pronoun}`einer` einen sehr guten Einwand gebracht.  
+  *In the meeting, someone made a very good objection.*
+- {pronoun}`Irgendwer` hat meinen Stift mitgenommen, aber ich weiß nicht, wer.  
+  *Somebody or other took my pen, but I don't know who.*
+- {pronoun}`Niemand` wollte die Verantwortung alleine übernehmen.  
+  *No one wanted to take responsibility alone.*
+- Von den drei Vorschlägen passt {pronoun}`keiner` wirklich zum Budget.  
+  *Of the three proposals, none really fits the budget.*
+
+:::{note}
+In careful writing, *jemand/niemand* often appear with endings in object position (*jemanden, niemandem*). In fast speech, reduced forms are common, but at B2 you should understand and produce both.
+:::
+
+### Practice: People forms
+
+Use the following link to practice this section.
+
+---
+
+## Indefinite place forms: irgendwo, irgendwoher, irgendwohin, nirgendwo, nirgends
+
+These forms are adverbial, but they function like indefinite location references. You use them when a place is unknown, irrelevant, or intentionally unspecific.
+
+| Form | Meaning | Focus |
+| --- | --- | --- |
+| {adv}`irgendwo` | somewhere | location |
+| {adv}`irgendwoher` | from somewhere | origin |
+| {adv}`irgendwohin` | to somewhere | direction |
+| {adv}`nirgendwo` | nowhere | negated location |
+| {adv}`nirgends` | nowhere | stylistic variant of *nirgendwo* |
+
+**Examples:**
+
+- Ich hatte mein Ladegerät {adv}`irgendwo` im Büro liegen lassen.  
+  *I had left my charger somewhere in the office.*
+- Diese Idee kam nicht aus dem Team, sondern {adv}`irgendwoher` von außen.  
+  *This idea did not come from the team, but from somewhere outside.*
+- Nach dem Termin wollten alle nur noch {adv}`irgendwohin`, wo es ruhig ist.  
+  *After the meeting, everyone just wanted to go somewhere quiet.*
+- Die Datei ist {adv}`nirgendwo` auf dem Server zu finden.  
+  *The file is nowhere to be found on the server.*
+- Im Vertrag steht dazu {adv}`nirgends` etwas Konkretes.  
+  *There is nowhere in the contract anything concrete about that.*
+
+:::{tip}
+*nirgendwo* and *nirgends* are near-synonyms. *nirgendwo* is often perceived as slightly more neutral in standard usage, while *nirgends* can sound a bit more compact or literary depending on context.
+:::
+
+### Practice: Place forms
+
+Use the following link to practice this section.
+
+---
+
+## Indefinite time forms: irgendwann, nie, niemals
+
+These time words help you control how specific or absolute your statement is. At B2, the important distinction is between open time (*irgendwann*) and strict negation (*nie*, *niemals*).
+
+| Form | Meaning | Nuance |
+| --- | --- | --- |
+| {adv}`irgendwann` | sometime | unspecified point in time |
+| {adv}`nie` | never | neutral strong negation |
+| {adv}`niemals` | never, absolutely never | often more emphatic |
+
+**Examples:**
+
+- Wir müssen {adv}`irgendwann` entscheiden, welche Option wir finanzieren.  
+  *At some point we have to decide which option we will fund.*
+- So eine Gelegenheit bekommt man im Berufsleben {adv}`nie` häufig.  
+  *You almost never get an opportunity like that in professional life.*
+- Ich habe {adv}`nie` behauptet, dass der Plan perfekt ist.  
+  *I never claimed that the plan is perfect.*
+- Unter diesem Zeitdruck würde ich {adv}`niemals` eine finale Zusage geben.  
+  *Under this time pressure, I would never give a final commitment.*
+- Er kommt fast immer pünktlich, aber {adv}`nie` zu früh.  
+  *He is almost always on time, but never early.*
+
+:::{warning}
+Avoid double negation with *nie*/*niemals* unless you intentionally want non-standard emphasis. In standard usage, one clear negation marker is usually enough.
+:::
+
+### Practice: Time forms
+
+Use the following link to practice this section.
+
+---
+
+## Indefinites for things: irgendetwas, etwas, nichts, keins
+
+For non-person reference, these forms let you mark existence, vagueness, absence, and set-based negation.
+
+| Form | Meaning | Typical context |
+| --- | --- | --- |
+| {pronoun}`etwas` | something | neutral non-specific thing |
+| {pronoun}`irgendetwas` | something or other | extra vagueness/emphasis |
+| {pronoun}`nichts` | nothing | absolute negation for things/concepts |
+| {pronoun}`keins` | none (of a neuter noun/set) | contrast to expected item |
+
+**Examples:**
+
+- Wenn dir {pronoun}`etwas` unklar ist, frag bitte sofort nach.  
+  *If something is unclear to you, please ask immediately.*
+- Ich habe {pronoun}`irgendetwas` im Anhang vergessen, aber ich finde den Fehler noch.  
+  *I forgot something or other in the attachment, but I will still find the mistake.*
+- Im Protokoll stand dazu {pronoun}`nichts` Verbindliches.  
+  *There was nothing binding about that in the minutes.*
+- Von den Geräten funktioniert heute {pronoun}`keins` zuverlässig.  
+  *None of the devices is working reliably today.*
+- Sie hat {pronoun}`nichts` gegen den Vorschlag, aber mehrere Rückfragen.  
+  *She has nothing against the proposal, but several follow-up questions.*
+
+:::{tip}
+Use *keins* when you negate an expected item from a known set (for example, devices, options, tickets). Use *nichts* when you negate content in general.
+:::
+
+### Practice: Thing forms
+
+Use the following link to practice this section.
+
+---
+
+## Form focus: einer, eins, eine
+
+The forms *einer, eins, eine* can stand alone and replace a previously mentioned noun. At B2, this matters in argumentation because it helps you avoid repetition and create tighter discourse.
+
+| Replaced noun gender | Stand-alone form | Example |
+| --- | --- | --- |
+| Masculine | {pronoun}`einer` | Von den Bewerbern wirkt {pronoun}`einer` besonders erfahren. |
+| Neuter | {pronoun}`eins` | Zwei Konzepte sind interessant, aber {pronoun}`eins` ist realistischer. |
+| Feminine | {pronoun}`eine` | Von den Methoden wirkt {pronoun}`eine` besonders effizient. |
+
+**Examples:**
+
+- Von den drei Kandidaten hat {pronoun}`einer` besonders viel Führungserfahrung.  
+  *Of the three candidates, one has especially strong leadership experience.*
+- Wir haben zwei Modelle getestet; {pronoun}`eins` war deutlich stabiler.  
+  *We tested two models; one was clearly more stable.*
+- Im Team gibt es zwei Prioritäten, aber {pronoun}`eine` ist aktuell wichtiger.  
+  *In the team there are two priorities, but one is currently more important.*
+- Ich wollte ein ruhiges Café, und {pronoun}`eins` habe ich gleich um die Ecke gefunden.  
+  *I wanted a quiet cafe, and I found one just around the corner.*
+- Von den Lösungen ist {pronoun}`keine` perfekt, aber {pronoun}`eine` ist gut genug für den Start.  
+  *None of the solutions is perfect, but one is good enough for the start.*
+
+:::{note}
+Do not confuse stand-alone forms (*einer/eins/eine*) with article use before a noun (*ein/eine/ein* + noun). In this section, the noun is omitted because context already identifies it.
+:::
+
+### Practice: einer/eins/eine
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Indefinitpronomen let you refer to people, places, time, and things without naming a specific referent.
+- For people, choose by function and register: **man**, **jemand/einer/irgendwer**, **niemand/keiner**.
+- Place and time forms with **irgend-** are non-specific; forms with **nirgend-** and **nie/niemals** are negative.
+- For things, **nichts** is general negation, while **keins** usually negates an expected member of a known set.
+- **einer/eins/eine** are stand-alone pronoun forms that replace repeated nouns and improve text cohesion.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich habe **jemand** gesehen.* -> Ich habe **jemanden** gesehen. (Object forms with endings are standard in careful usage.)
+- *Von den Optionen passt **nichts**.* -> Von den Optionen passt **keine** / **keine davon**. (Use set-based negation instead of general content negation.)
+- *Wir treffen uns irgendwann nicht.* -> Wir treffen uns **nie** / **niemals**. (Use time negation forms for "never" meaning.)
+- *Ich habe zwei Ideen, aber **ein** ist besser.* -> Ich habe zwei Ideen, aber **eine** ist besser. (Stand-alone form must match noun gender.)
+- *Ich habe meinen Schlüssel nirgendwohin gelegt.* -> Ich habe meinen Schlüssel **nirgendwo** gefunden. (Use location form, not direction form.)
+
+:::
+
+---
+
+## Practice: Full review
+
+Click the link below to practice everything from this page with an interactive tutor.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Negation](/b2/grammar/negation.md)
+- [B2 > Grammar > Relativsätze mit wer](/b2/grammar/relativsaetze-mit-wer.md)
+- [A2 > Grammar > Pronomen - man, jemand, niemand](/a2/grammar/pronouns/pronomen-man-jemand-niemand.md)
+- [A2 > Grammar > Pronomen: alles, etwas, nichts](/a2/grammar/pronouns/pronomen-alles-etwas-nichts.md)

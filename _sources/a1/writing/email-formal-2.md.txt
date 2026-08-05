@@ -1,0 +1,77 @@
+---
+myst:
+  html_meta:
+    description: "A1 writing: emailing the doctor's clinic. A formal German email requesting an appointment, with symptoms, availability, and the unknown-recipient greeting."
+    keywords: "german, a1, writing, email, formal, arztpraxis, termin, sehr geehrte damen und herren, appointment"
+    "property=og:title": "Emailing the Doctor's Clinic"
+    "property=og:description": "A1 writing: emailing the doctor's clinic. A formal German email requesting an appointment, with symptoms, availability, and the unknown-recipient greeting."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Emailing the Doctor's Clinic
+
+Writing to a doctor's practice is formal email at its most practical: you do not know who reads it, you need something specific, and a few clear sentences get you further than perfect grammar. This scenario adds one important tool to your formal frame: the greeting for unknown recipients, *Sehr geehrte Damen und Herren*.
+
+## Example: Requesting an appointment
+
+Anna has a sore throat and writes to the practice for an appointment.
+
+> **Betreff:** Termin für nächste Woche
+>
+> Sehr geehrte Damen und Herren,
+>
+> ich möchte gern einen Termin machen. Ich habe seit drei Tagen Halsschmerzen und Fieber.
+>
+> Ich kann am Montag und am Dienstag kommen, am Vormittag oder am Nachmittag. Geht es vielleicht am Montag um zehn Uhr?
+>
+> Meine Telefonnummer ist null eins sieben zwei, fünf fünf, acht acht, drei eins. Sie können mich gern anrufen.
+>
+> Vielen Dank und freundliche Grüße
+> Anna Kowalska
+
+What makes it work: the request in the first line, the symptoms with *seit* (how long), a concrete offer of times instead of "whenever", and a phone number so the practice can settle it in one call. *Sehr geehrte Damen und Herren* is the correct greeting whenever you cannot name the reader.
+
+### Hear it in practice
+
+:::{audio-examples}
+:album: a1/writing/part-1
+:track: email-formal-2.yml
+:::
+
+## Building blocks
+
+| Slot | Options |
+|---|---|
+| Greeting (unknown reader) | Sehr geehrte Damen und Herren, |
+| The request | ich möchte gern einen Termin machen. / Ich brauche einen Termin. |
+| Symptoms | Ich habe seit ... Kopfschmerzen / Halsschmerzen / Fieber. |
+| Availability | Ich kann am ... kommen. / Geht es am ... um ... Uhr? |
+| Contact | Meine Telefonnummer ist ... / Sie können mich gern anrufen. |
+| Sign-off | Vielen Dank und freundliche Grüße / Mit freundlichen Grüßen |
+
+*Seit* plus a time span tells the practice how long the trouble has lasted: *seit drei Tagen, seit einer Woche*. It is the first thing they ask, so answer it before they do.
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Unknown reader: *Sehr geehrte Damen und Herren*.
+- Request first, then symptoms with *seit*, then concrete availability.
+- Offer your phone number; practices prefer to confirm by phone.
+- *Vielen Dank und freundliche Grüße* combines thanks and sign-off in one line.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Liebe Arztpraxis* → **Sehr geehrte Damen und Herren**. (institutions get the formal unknown-reader greeting)
+- Describing symptoms without *seit*: say **seit drei Tagen**, the practice always asks how long.
+- Asking for "einen Termin" with no availability: offer days and times, or expect three more emails.
+:::
+
+## Related articles
+
+- [Emailing Your Boss](/a1/writing/email-formal-1.md)
+- [Expressing how you feel](/a1/concepts/expressing-how-you-feel.md)
+- [Making appointments](/a1/concepts/making-appointments.md)

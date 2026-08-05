@@ -1,0 +1,178 @@
+---
+myst:
+  html_meta:
+    description: "A2 German grammar: Reflexive Verben, learn reflexive verbs and reflexive pronouns (mich, dich, sich, uns, euch) with common verbs and word order rules."
+    keywords: "german, german learning, a2, grammar, reflexive verbs, reflexive Verben, reflexivpronomen, reflexive pronouns, mich dich sich, sich freuen, sich beeilen, sich waschen, sich setzen, accusative reflexive"
+    "property=og:title": "Reflexive Verben – Reflexive Verbs"
+    "property=og:description": "A2 German grammar: Reflexive Verben, learn reflexive verbs and reflexive pronouns in everyday German."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Reflexive Verben
+
+> Reflexive verbs and reflexive pronouns
+
+:::{seealso}
+
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [A2 > Grammar > Positionsverben](/a2/grammar/prepositions/positionsverben.md)
+- [A2 > Concepts > Polite requests, wishes and advice](/a2/concepts/polite-requests-wishes-advice.md)
+:::
+
+A reflexive verb describes an action that comes back to the subject. In simple terms: the person doing the action and the person receiving it are the same. German marks this with a reflexive pronoun.
+
+You usually see reflexive verbs in dictionaries with *sich* in front: *sich freuen*, *sich beeilen*, *sich anziehen*. German uses them more often than English, so translations often do not include the word "self".
+
+*Examples:*
+
+- *He hurries because he's late.*
+- *I'm looking forward to the weekend.*
+- *She sits down at the table.*
+
+:::{important}
+
+- Every reflexive verb needs a reflexive pronoun that matches the subject.
+- Most reflexive verbs at A2 level use **accusative** reflexive pronouns.
+- Many reflexive verbs pair with a fixed preposition, learn the verb and its preposition together as one unit.
+:::
+
+---
+
+## Reflexivpronomen im Akkusativ
+
+At A2 level, reflexive pronouns are most often in the accusative. This means you will mostly use *mich, dich, sich, uns, euch, sich*. The pronoun must always match the subject.
+
+| Person | Reflexivpronomen |
+|---|---|
+| ich | {pronoun}`mich` |
+| du | {pronoun}`dich` |
+| er / sie / es | {pronoun}`sich` |
+| wir | {pronoun}`uns` |
+| ihr | {pronoun}`euch` |
+| sie / Sie | {pronoun}`sich` |
+
+- Ich freue {pronoun}`mich` auf das Wochenende.  
+  *I'm looking forward to the weekend.*
+- Fühlst du {pronoun}`dich` heute besser?  
+  *Are you feeling better today?*
+- Er beeilt {pronoun}`sich`, weil der Zug gleich kommt.  
+  *He's hurrying because the train is about to leave.*
+- Wir erholen {pronoun}`uns` am Wochenende.  
+  *We relax at the weekend.*
+- Ihr erinnert {pronoun}`euch` an den Film.  
+  *You remember the film.*
+- Sie treffen {pronoun}`sich` jeden Dienstag.  
+  *They meet every Tuesday.*
+
+:::{note}
+Short dative note: when there is a second object (often a body part), German can use a dative reflexive pronoun. Compare: *Ich wasche **mich*** (no second object) and *Ich wasche **mir** die Hände* ("die Hände" is the direct object). For now, focus on the accusative forms and just recognise this pattern.
+:::
+
+---
+
+## Häufige Reflexivverben (A2)
+
+Here are the most important reflexive verbs at A2 level. Many of them require a specific preposition, note it carefully and learn each pairing as a fixed phrase.
+
+| Verb | Präposition | Bedeutung |
+|---|---|---|
+| sich anziehen | – | to get dressed |
+| sich ärgern | über + Akk. | to get annoyed (about) |
+| sich beeilen | – | to hurry |
+| sich erinnern | an + Akk. | to remember |
+| sich erholen | – | to relax, recover |
+| sich freuen | auf + Akk. | to look forward to |
+| sich freuen | über + Akk. | to be happy about |
+| sich fühlen | – | to feel |
+| sich interessieren | für + Akk. | to be interested in |
+| sich konzentrieren | auf + Akk. | to concentrate on |
+| sich kümmern | um + Akk. | to take care of |
+| sich setzen | – | to sit down |
+| sich treffen | – | to meet (up) |
+| sich unterhalten | mit + Dat. / über + Akk. | to chat, to have a conversation |
+| sich waschen | – | to wash (oneself) |
+
+- Sie interessiert {pronoun}`sich` für Musik.  
+  *She's interested in music.*
+- Ich erinnere {pronoun}`mich` an unseren ersten Urlaub.  
+  *I remember our first holiday.*
+- Er setzt {pronoun}`sich` ans Fenster.  
+  *He sits down by the window.*
+- Wir unterhalten {pronoun}`uns` gern über Filme.  
+  *We enjoy chatting about films.*
+- Kümmert ihr {pronoun}`euch` um den Hund?  
+  *Are you taking care of the dog?*
+- Sie zieht {pronoun}`sich` schnell an.  
+  *She gets dressed quickly.*
+
+:::{tip}
+*Sich freuen* changes meaning with the preposition. Use *sich freuen **auf*** to express looking forward to something upcoming: *Ich freue mich auf das Konzert.* Use *sich freuen **über*** to express happiness about something that has happened or is happening: *Ich freue mich über das Geschenk.* Both are very common, it is worth learning both forms from the start.
+:::
+
+---
+
+## Stellung des Reflexivpronomens
+
+In a main clause, the reflexive pronoun sits directly after the conjugated verb. This is true even if the sentence starts with a time expression or another element rather than the subject.
+
+> **{verb}`Verb`** – **{pronoun}`Reflexivpronomen`**, rest of sentence
+
+When the sentence starts with something other than the subject, the subject and the reflexive pronoun swap, but the pronoun still stays right after the verb:
+
+> Time / other element – **{verb}`Verb`** – Subject – **{pronoun}`Reflexivpronomen`**, rest
+
+- Ich freue {pronoun}`mich` auf das Treffen.  
+  *I'm looking forward to the meeting.* (normal subject-first order)
+- Heute freue ich {pronoun}`mich` besonders auf das Treffen.  
+  *Today I'm especially looking forward to the meeting.* (time expression first)
+- Beeilt {pronoun}`euch`! Der Bus kommt gleich.  
+  *Hurry up! The bus is coming soon.* (command, no subject, pronoun follows verb directly)
+- Du musst dich nicht beeilen.  
+  *You don't need to hurry.* (with a modal verb, pronoun follows the modal)
+- Wir treffen {pronoun}`uns` morgen im Park.  
+  *We're meeting in the park tomorrow.*
+
+:::{warning}
+When a sentence has a modal verb (like *müssen*, *können*, *wollen*), the conjugated verb is the modal. The reflexive pronoun still follows the modal, not the infinitive at the end: *Du musst **dich** beeilen.* not *Du musst beeilen dich.*
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Reflexive verbs always include a **reflexive pronoun** that refers back to the subject.
+- Accusative forms: **ich → mich**, **du → dich**, **er/sie/es → sich**, **wir → uns**, **ihr → euch**, **sie/Sie → sich**.
+- The reflexive pronoun sits directly **after the conjugated verb** in a main clause.
+- Many reflexive verbs pair with a fixed preposition, learn the combination: *sich freuen auf*, *sich ärgern über*, *sich erinnern an*, *sich interessieren für*.
+- Some German reflexive verbs have no reflexive counterpart in English: *sich beeilen* = to hurry, *sich fühlen* = to feel, *sich treffen* = to meet.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Er beeilt.* → Er beeilt **sich**. (the reflexive pronoun cannot be omitted)
+- *Ich freue sich.* → Ich freue **mich**. (the pronoun must match the subject, not stay as *sich*)
+- *Ich interessiere mich Musik.* → Ich interessiere mich **für** Musik. (fixed preposition required)
+- *Ich mich freue auf das Fest.* → Ich freue **mich** auf das Fest. (pronoun follows the verb, not the subject)
+- *Du musst beeilen dich.* → Du musst **dich** beeilen. (with a modal verb, the pronoun follows the modal)
+:::
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-1
+:track: reflexive-verben.yml
+:::
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [A2 > Grammar > Verben mit festen Präpositionen](/a2/grammar/prepositions/verben-mit-praeposition.md)
+- [A2 > Concepts > Polite requests, wishes and advice](/a2/concepts/polite-requests-wishes-advice.md)

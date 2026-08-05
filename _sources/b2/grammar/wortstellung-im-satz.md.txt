@@ -1,0 +1,186 @@
+---
+myst:
+  html_meta:
+    description: "B2 grammar: Wortstellung im Satz, use TeKaMoLo, object order, and prepositional complements to build natural, precise German sentences."
+    keywords: "german, german learning, b2, grammar, wortstellung, satzbau, tekamolo, dativ, akkusativ, präpositionalergänzungen, mittelfeld, german word order"
+    "property=og:title": "Wortstellung im Satz – Advanced German Word Order"
+    "property=og:description": "B2 grammar: Wortstellung im Satz, use TeKaMoLo, object order, and prepositional complements to build natural, precise German sentences."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Wortstellung im Satz
+
+> Build clearer, more natural B2 sentences by controlling order in the middle field
+
+:::{seealso}
+
+- [B2 > Grammar > Negation](/b2/grammar/negation.md)
+- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
+- [B2 > Grammar > Modalpartikeln](/b2/grammar/modalpartikeln.md)
+- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
+- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
+- [B2 > Grammar > Infinitivkonnektoren](/b2/grammar/infinitivkonnektoren.md)
+- [B2 > Grammar > Das Wort es](/b2/grammar/das-wort-es.md)
+- [B2 > Grammar > Indirekte Rede](/b2/grammar/indirekte-rede.md)
+- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)
+- [B2 > Grammar > Nomen, Verben und Adjektive mit Präpositionen](/b2/grammar/nomen-verben-adjektive-praepositionen.md)
+- [B2 > Grammar > Irreale Vergleichssätze](/b2/grammar/irreale-vergleichssaetze.md)
+- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
+- [B2 > Grammar > Relativsätze mit wer](/b2/grammar/relativsaetze-mit-wer.md)
+- [B2 > Grammar > Nominalisierung von Verben](/b2/grammar/nominalisierung.md)
+- [B1 > Grammar > Verben mit Präpositionen und Nebensatz](/b1/grammar/verben-mit-praepositionen.md)
+- [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)
+- [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)
+
+:::
+
+At B2, correct grammar is not enough. You also need word order that sounds natural and fits your communicative goal. This page helps you organize the *Mittelfeld* (the part between the finite verb and the verb at the end) so your German sounds more precise, fluent, and native-like.
+
+*Examples:*
+
+- *Tomorrow I can finally explain the problem to the team in detail.*
+- *I sent it to her yesterday from the office.*
+- *We mainly talked about this point in the meeting.*
+
+---
+
+## TeKaMoLo as a neutral pattern
+
+TeKaMoLo (Temporal, Kausal, Modal, Lokal) is a strong default pattern for many neutral statements. It is not a rigid law, but it gives you a reliable starting point before you move elements for emphasis.
+
+| Slot | Question | Typical content |
+| --- | --- | --- |
+| {te}`Te` | Wann? | time phrase |
+| {ka}`Ka` | Warum? | reason phrase |
+| {mo}`Mo` | Wie? | manner phrase |
+| {lo}`Lo` | Wo? / Wohin? | place phrase |
+
+**Examples:**
+
+- Wir haben {te}`gestern` {ka}`wegen eines Serverfehlers` {mo}`nur kurz` {lo}`im Büro` gesprochen.  
+  *Yesterday, we spoke only briefly in the office because of a server error.*
+- Ich werde {te}`morgen` {ka}`aus Zeitgründen` {mo}`per Video` {lo}`aus Berlin` teilnehmen.  
+  *Tomorrow, I will take part from Berlin by video for time reasons.*
+- Das Team hat {te}`am Montag` {ka}`auf Wunsch der Kundin` {mo}`sehr detailliert` {lo}`über den Ablauf` diskutiert.  
+  *On Monday, the team discussed the process in great detail at the client’s request.*
+- Wir arbeiten {te}`dieses Jahr` {ka}`wegen der Umstrukturierung` {mo}`enger` {lo}`mit der Finanzabteilung` zusammen.  
+  *This year, we are working more closely with the finance department because of the restructuring.*
+
+:::{tip}
+
+When one element is the real message, move it later in the sentence. Later position often adds focus: neutral order first, marked order for emphasis second.
+
+:::
+
+### Practice: TeKaMoLo
+
+Use the following link to practice this section.
+
+---
+
+## Dativ and Akkusativ complements
+
+With two objects, German often places the dative object before the accusative object when both are full noun phrases. But pronouns change the order patterns, especially in fluent spoken and written B2 German.
+
+| Pattern | Typical order | Example |
+| --- | --- | --- |
+| Noun + noun | Dativ before Akkusativ | Ich erkläre {dativ}`dem neuen Kollegen` {akk}`den Ablauf`. |
+| Accusative pronoun + noun | Accusative pronoun before dative noun | Ich erkläre {akk}`ihn` {dativ}`dem neuen Kollegen`. |
+| Dative pronoun + noun | Dative pronoun often before accusative noun | Ich erkläre {dativ}`ihm` {akk}`den Ablauf`. |
+| Two pronouns | Often accusative pronoun before dative pronoun | Ich erkläre {akk}`es` {dativ}`ihm`. |
+
+**Examples:**
+
+- Die Assistentin hat {dativ}`dem Kunden` {akk}`den Entwurf` noch am selben Tag geschickt.  
+  *The assistant sent the client the draft the same day.*
+- Die Assistentin hat {akk}`ihn` {dativ}`dem Kunden` noch am selben Tag geschickt.  
+  *The assistant sent it to the client the same day.*
+- Kannst du {dativ}`mir` {akk}`die Datei` bis heute Abend weiterleiten?  
+  *Can you forward me the file by this evening?*
+- Wir haben {akk}`es` {dativ}`ihnen` bereits im letzten Gespräch erklärt.  
+  *We already explained it to them in the last meeting.*
+
+:::{warning}
+
+Do not memorize only one fixed formula. At B2, information structure matters too: known/short elements often come earlier, new/heavier elements later.
+
+:::
+
+### Practice: Dativ und Akkusativ
+
+Use the following link to practice this section.
+
+---
+
+## Position of prepositional complements
+
+Prepositional phrases can have different functions, and this affects placement. A verb-bound prepositional complement is usually kept close to the verb phrase, while optional adverbial prepositional phrases are more mobile and can be arranged by information focus.
+
+| Type | Typical behavior | Example |
+| --- | --- | --- |
+| Verb-bound prepositional complement | Stays close to the verbal core | Wir müssen uns {prep}`auf` die Frist konzentrieren. |
+| Optional adverbial PP | More flexible in the middle field | Wir haben gestern {prep}`über` das Budget gesprochen. |
+| Heavy/long PP | Often later for readability | Ich habe im Meeting lange über die Auswirkungen auf internationale Partner gesprochen. |
+
+**Examples:**
+
+- Wir haben gestern lange {prep}`über` die neue Preisstrategie gesprochen.  
+  *We talked for a long time yesterday about the new pricing strategy.*
+- Sie konnte sich trotz des Lärms kaum {prep}`auf` die Präsentation konzentrieren.  
+  *Despite the noise, she could hardly concentrate on the presentation.*
+- Ich habe den Vorschlag im Workshop {prep}`mit` mehreren Teams aus Österreich diskutiert.  
+  *I discussed the proposal in the workshop with several teams from Austria.*
+- Der Projektleiter hat heute im Call {prep}`mit` Blick auf die Frist {prep}`auf` eine schnelle Entscheidung gedrängt.  
+  *In today’s call, with the deadline in mind, the project manager pushed for a quick decision.*
+
+:::{note}
+
+When a sentence has many prepositional phrases, group related ones together and place the most important one later. This makes complex B2 sentences easier to process.
+
+:::
+
+### Practice: Präpositionalergänzungen
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- In main clauses, the finite verb stays in position 2; word order variation happens mostly in the *Mittelfeld*.
+- **TeKaMoLo** is a strong neutral default for adverbials: time before reason before manner before place.
+- With two objects, **Dativ + Akkusativ** is common for noun phrases, but pronouns often move left.
+- Prepositional complements are not all the same: verb-bound ones stay close to the verbal core, optional adverbials are more flexible.
+- At B2, order choices are often about information flow and emphasis, not only about strict grammar.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich habe gestern im Büro mit dem Team über den Plan lange gesprochen.* → Ich habe gestern im Büro lange **mit dem Team über den Plan gesprochen**. (Keep the verbal core and related complements together.)
+- *Kannst du erklären es mir?* → Kannst du **es mir** erklären? (Short pronoun objects usually come before the infinitive and in a fixed internal order.)
+- *Wir haben aus Zeitgründen gestern im Zug kurz gearbeitet.* → Wir haben **gestern aus Zeitgründen kurz im Zug** gearbeitet. (Use TeKaMoLo as neutral order first.)
+- *Sie konzentriert sich trotz Stress auf das Problem kaum.* → Sie konzentriert sich trotz Stress kaum **auf das Problem**. (Verb-bound prepositional complement is typically close to the verbal core.)
+
+:::
+
+---
+
+## Practice: Full review
+
+Click the link below to practice everything from this page with an interactive tutor.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Zustandspassiv](/b2/grammar/zustandspassiv.md)
+- [B2 > Grammar > Nomen, Verben und Adjektive mit Präpositionen](/b2/grammar/nomen-verben-adjektive-praepositionen.md)
+- [B1 > Grammar > Verben mit Präpositionen und Nebensatz](/b1/grammar/verben-mit-praepositionen.md)
+- [B1 > Grammar > Relativsätze](/b1/grammar/relativsaetze.md)
+- [A2 > Grammar > Verben mit Dativ und Akkusativ](/a2/grammar/cases/verben-mit-dativ-akkusativ.md)
+- [A2 > Grammar > Wechselpräpositionen](/a2/grammar/prepositions/wechselpraepositionen.md)

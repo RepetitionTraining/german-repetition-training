@@ -1,0 +1,180 @@
+---
+myst:
+  html_meta:
+    description: "B1 German grammar: how verbs with fixed prepositions connect to subordinate clauses using da(r)+Präposition and how to ask questions with wo(r)+Präposition."
+    keywords: "german, german learning, b1, grammar, verben mit präposition, da-compounds, darauf dass, pronominaladverbien, nebensatz, subordinate clause, worauf, womit, daran, damit, wofür"
+    "property=og:title": "Verben mit Präpositionen und Nebensatz – Verbs with prepositions and subordinate clauses"
+    "property=og:description": "B1 German grammar: how verbs with fixed prepositions connect to subordinate clauses using da(r)+Präposition and questions with wo(r)+Präposition."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Verben mit Präpositionen und Nebensatz
+
+> Verbs with prepositions and subordinate clauses
+
+Many German verbs come with a fixed preposition, such as warten auf, denken an, or sich freuen über. When that preposition is followed by a whole clause instead of a noun, German usually adds a linking form like darauf, daran, or damit. This lets you connect verbs with dass-clauses, questions, and zu-infinitive clauses in a natural B1 way.
+
+---
+
+## From noun to clause: da(r) + Präposition
+
+When the prepositional object is a noun, you use the noun directly. When the object is a full clause, German usually inserts a da(r)-compound in the main clause and then adds the subordinate clause.
+
+> main clause + da(r)+Präposition, dass + subject + ... + verb
+
+| Preposition | Da-compound | Question form |
+| --- | --- | --- |
+| auf | darauf | worauf |
+| an | daran | woran |
+| über | darüber | worüber |
+| mit | damit | womit |
+| für | dafür | wofür |
+| von | davon | wovon |
+| nach | danach | wonach |
+| um | darum | worum |
+
+- Er wartet auf eine Antwort.  
+  *He is waiting for an answer.*
+
+- Er wartet {prep}`darauf`, {conj}`dass` er eine Antwort bekommt.  
+  *He is waiting for the fact that he gets an answer.*
+
+- Sie ärgert sich über den Lärm.  
+  *She is annoyed by the noise.*
+
+- Sie ärgert sich {prep}`darüber`, {conj}`dass` es hier so laut ist.  
+  *She is annoyed that it is so loud here.*
+
+- Wir denken an den Urlaub.  
+  *We are thinking about the holiday.*
+
+- Wir denken {prep}`daran`, {conj}`dass` wir noch nichts gebucht haben.  
+  *We are thinking about the fact that we have not booked anything yet.*
+
+- Er interessiert sich für neue Technologien.  
+  *He is interested in new technologies.*
+
+- Er interessiert sich {prep}`dafür`, {conj}`dass` nachhaltige Lösungen entwickelt werden.  
+  *He is interested in sustainable solutions being developed.*
+
+- Sie kümmert sich um das Projekt.  
+  *She is taking care of the project.*
+
+- Sie kümmert sich {prep}`darum`, {conj}`dass` alles pünktlich fertig wird.  
+  *She makes sure that everything is finished on time.*
+
+:::{note}
+The da-compound can also come first for emphasis.
+
+- Darauf wartet er, dass er eine Antwort bekommt.
+- Er wartet darauf, dass er eine Antwort bekommt.
+
+The second sentence is the more neutral default.
+:::
+
+---
+
+## Asking questions: wo(r) + Präposition
+
+When you ask about things or events, replace the da-compound with the matching wo(r)-compound.
+
+| Preposition | Question form | Example |
+| --- | --- | --- |
+| auf | worauf | Worauf wartest du? |
+| an | woran | Woran denkst du? |
+| über | worüber | Worüber sprecht ihr? |
+| mit | womit | Womit hast du angefangen? |
+| um | worum | Worum bittet er? |
+
+- {prep}`Worauf` wartest du? - Ich warte {prep}`darauf`, dass der Zug ankommt.  
+  *What are you waiting for? - I am waiting for the train to arrive.*
+
+- {prep}`Worüber` sprechen sie? - Sie sprechen {prep}`darüber`, wie das Projekt läuft.  
+  *What are they talking about? - They are talking about how the project is going.*
+
+- {prep}`Woran` denkst du? - Ich denke {prep}`daran`, dass ich morgen einen Termin habe.  
+  *What are you thinking about? - I am thinking about the fact that I have an appointment tomorrow.*
+
+- {prep}`Worum` bittet er? - Er bittet {prep}`darum`, dass die Frist verlängert wird.  
+  *What is he asking for? - He is asking for the deadline to be extended.*
+
+- {prep}`Womit` hast du angefangen? - Ich habe {prep}`damit` angefangen, das Zimmer aufzuräumen.  
+  *What did you start with? - I started by tidying the room.*
+
+For people, do not use wo-compounds. Use the preposition with wen or wem instead.
+
+- Auf wen wartest du? - Ich warte auf meinen Freund.  
+  *Who are you waiting for? - I am waiting for my friend.*
+
+:::{tip}
+Use wo(r)-compounds only for things, events, and abstract ideas. For people, always use the normal preposition plus question word or pronoun.
+:::
+
+---
+
+## Same subject: shortening with zu + Infinitiv
+
+When the subject of both clauses is the same, you can often shorten the dass-clause to a zu-infinitive. This makes the sentence more compact and natural.
+
+> da(r)+Präposition + zu + infinitive
+
+- Ich freue mich {prep}`darauf`, zu reisen.  
+  *I am looking forward to travelling.*
+
+  (= Ich freue mich darauf, dass ich reise.)
+
+- Ich habe {prep}`damit` angefangen, Deutsch zu lernen.  
+  *I started learning German.*
+
+  (= Ich habe damit angefangen, dass ich Deutsch lerne.)
+
+- Sie hat sich {prep}`daran` gewöhnt, früh aufzustehen.  
+  *She has got used to getting up early.*
+
+  (= Sie hat sich daran gewöhnt, dass sie früh aufsteht.)
+
+If the subjects are different, keep the dass-clause.
+
+- Ich warte darauf, dass er anruft.  
+  *I am waiting for him to call.*
+
+- Ich warte darauf, anzurufen.  
+  *Wrong here, because it changes the meaning to "I am the one calling."*
+
+:::{warning}
+Only shorten to a zu-infinitive when the same person or thing is responsible for both actions.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Verbs with fixed prepositions often need a da(r)-compound when the object is a clause.
+- Use dar- before vowels and da- before consonants.
+- Use wo(r)-compounds to ask about things and events, but use preposition + wen/wem for people.
+- If both clauses share the same subject, a zu-infinitive is often more natural than a dass-clause.
+- In all dass-clauses, the finite verb goes to the end.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- Ich warte, dass der Bus kommt. -> Ich warte **darauf**, dass der Bus kommt. (the da-compound is required)
+- Ich freue mich auf es, dass du kommst. -> Ich freue mich **darauf**, dass du kommst. (do not use auf es here)
+- Woauf wartest du? -> **Worauf** wartest du? (insert -r- before a vowel)
+- Worauf wartest du? when asking about a person -> **Auf wen** wartest du? (wo-compounds are not used for people)
+- Er anfängt damit, das Zimmer aufzuräumen. -> Er **fängt** damit **an**, das Zimmer aufzuräumen. (anfangen is separable)
+- Ich freue mich darauf, dass ich reise. -> Ich freue mich darauf, **zu reisen**. (same subject: the zu-infinitive is more natural)
+:::
+
+---
+
+## Related articles
+
+- [B1 > Grammar > Pronominaladverbien](/b1/grammar/pronominaladverbien.md)
+- [A2 > Grammar > Verben mit Präposition](/a2/grammar/prepositions/verben-mit-praeposition.md)
+- [A2 > Grammar > W-Fragen mit Präposition](/a2/grammar/prepositions/w-fragen-mit-praeposition.md)
+- [A2 > Grammar > Nebensaetze](/a2/grammar/sub-clauses/index.md)

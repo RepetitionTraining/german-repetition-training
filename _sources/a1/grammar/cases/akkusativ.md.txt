@@ -1,0 +1,111 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the accusative case. The direct object, why only masculine articles change, and the everyday verbs that always take the accusative."
+    keywords: "german, german learning, a1, grammar, accusative, akkusativ, direct object, den, einen, keinen, cases"
+    "property=og:title": "Akkusativ – The Accusative Case"
+    "property=og:description": "A1 grammar: the accusative case. The direct object, why only masculine articles change, and the everyday verbs that always take the accusative."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# The Accusative Case
+
+:::{admonition} Prerequisites
+:class: note
+Before reading this article, make sure you are comfortable with:
+- [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)
+:::
+
+When a person or thing receives the action of the verb, it stands in the accusative: *Ich sehe **den** Bus.* The good news at A1 is that the accusative changes very little. Feminine, neuter, and plural forms look exactly like the nominative; only the masculine forms are new.
+
+## The direct object
+
+The direct object answers *wen?* (whom?) or *was?* (what?). Whoever does the action is nominative; whatever the action lands on is accusative.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich sehe {akk}`den Bus`.
+: I see the bus.
+
+Sie liest {akk}`ein Buch`.
+: She is reading a book.
+
+{subj}`Wer` fragt {akk}`wen`?
+: Who is asking whom?
+:::
+
+## Only the masculine changes
+
+Compare the two cases. Everything stays the same except the masculine column:
+
+| | Masculine | Feminine | Neuter | Plural |
+|---|---|---|---|---|
+| Nominative | der / ein / kein | die / eine / keine | das / ein / kein | die / – / keine |
+| Accusative | **den / einen / keinen** | die / eine / keine | das / ein / kein | die / – / keine |
+
+Possessive articles follow along: *mein* becomes **meinen**, *dein* becomes **deinen**, and so on.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich brauche {akk}`einen Stift`.
+: I need a pen.
+
+Sie sucht {akk}`ihren Schlüssel`.
+: She is looking for her key.
+
+Er hat {akk}`keinen Hunger`.
+: He is not hungry.
+:::
+
+## Verbs that take the accusative
+
+Most everyday verbs that act on something take the accusative: *haben, brauchen, kaufen, suchen, finden, sehen, essen, trinken, nehmen, kennen, besuchen*. If you can ask *was?* after the verb, the answer is accusative.
+
+**Examples:**
+
+:::{div} ol-examples
+Wir nehmen {akk}`den Bus`.
+: We take the bus.
+
+Kennst du {akk}`den Film`?
+: Do you know the film?
+:::
+
+:::{tip}
+*Es gibt* (there is) always takes the accusative: *Es gibt **einen** Park.* More on this in [es gibt](/a1/grammar/verbs/es-gibt.md).
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-1
+:track: akkusativ.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The accusative marks the direct object: ask *wen oder was?*
+- Only masculine forms change: *der* → *den*, *ein* → *einen*, *kein* → *keinen*, *mein* → *meinen*.
+- Feminine, neuter, and plural look exactly like the nominative.
+- Everyday verbs like *haben, brauchen, kaufen, sehen* take the accusative, and so does *es gibt*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich sehe der Mann.* → Ich sehe **den** Mann. (direct object, masculine)
+- *\*Ich habe ein Bruder.* → Ich habe **einen** Bruder. (*haben* takes the accusative)
+- *\*Sie hat keinen Zeit.* → Sie hat **keine** Zeit. (*Zeit* is feminine; only masculine takes -en)
+:::
+
+## Related articles
+
+- [A1 > Grammar > The Nominative Case](/a1/grammar/cases/nominativ.md)
+- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
+- [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)
+- [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)

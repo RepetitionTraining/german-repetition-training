@@ -1,0 +1,56 @@
+---
+myst:
+  html_meta:
+    description: "A1 vocabulary: pets and animals 1. The German words for pets and familiar animals, from der Hund and die Katze to füttern and der Käfig."
+    keywords: "german, german learning, a1, vocabulary, animals, pets, hund, katze, vogel, tier, füttern"
+    "property=og:title": "Pets and Animals 1"
+    "property=og:description": "A1 vocabulary: pets and animals 1. The German words for pets and familiar animals, from der Hund and die Katze to füttern and der Käfig."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Pets and animals 1
+
+Germans adore their pets, and animal talk is early small-talk gold: who has a dog, whose cat rules the flat, what the bird did this morning. This pack covers the household animals and the two words that keep them alive: *füttern* and *das Futter*.
+
+## The words
+
+| German | English |
+|---|---|
+| der Hund, die Hunde | dog |
+| die Katze, die Katzen | cat |
+| der Vogel, die Vögel | bird |
+| der Fisch, die Fische | fish |
+| das Pferd, die Pferde | horse |
+| die Maus, die Mäuse | mouse |
+| das Tier, die Tiere | animal |
+| das Haustier, die Haustiere | pet |
+| füttern | to feed |
+| das Futter | animal food |
+| der Käfig, die Käfige | cage |
+| spazieren gehen | to go for a walk |
+
+## Hear it in practice
+
+Every word appears in a sentence, and the most common animals return in the plural, so *der Hund* and *die Hunde* both settle in.
+
+:::{audio-examples}
+:album: a1/vocabulary/part-1
+:track: pets-and-animals-1.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The household five: *Hund, Katze, Vogel, Fisch, Maus*.
+- The umbrella words: *das Tier* and *das Haustier*.
+- Care vocabulary: *füttern, das Futter, der Käfig*.
+- The dog ritual: *mit dem Hund spazieren gehen*.
+:::
+
+## Related articles
+
+- [A1 > Grammar > Noun Gender and Plurals](/a1/grammar/other/nomen-genus-plural.md)
+- [On the farm 1](/a1/vocabulary/on-the-farm-1.md)
+- [Talking about family](/a1/concepts/talking-about-family.md)

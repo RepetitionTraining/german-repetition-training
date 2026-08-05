@@ -1,0 +1,93 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the pronoun man. General statements about what one does, may, and can, with the verb in the third person singular."
+    keywords: "german, german learning, a1, grammar, man, impersonal pronoun, wie sagt man, generalisation"
+    "property=og:title": "man – The Impersonal Pronoun"
+    "property=og:description": "A1 grammar: the pronoun man. General statements about what one does, may, and can, with the verb in the third person singular."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# The Pronoun man
+
+*Man* talks about people in general: what one does, what is allowed, how something works. English scatters this across "you", "one", "people", and "they"; German has one small word for all of it, and you meet it constantly in questions, rules, and signs.
+
+## How it works
+
+*Man* behaves like *er*: the verb takes the third person singular form. It never refers to a specific person, and it is not *der Mann*; one n, no article, no capital letter mid-sentence.
+
+**Examples:**
+
+:::{div} ol-examples
+In Deutschland spricht {pronoun}`man` Deutsch.
+: In Germany people speak German.
+
+{pronoun}`Man` braucht ein Ticket.
+: You need a ticket.
+
+Das sagt {pronoun}`man` nicht.
+: You don't say that.
+:::
+
+## The question chunks
+
+Two *man* questions belong to every learner's survival kit: *Wie sagt man ...?* and *Wie schreibt man ...?* Both ask how things are done in general, which is exactly what you want to know as a beginner.
+
+**Examples:**
+
+:::{div} ol-examples
+Wie sagt {pronoun}`man` das auf Deutsch?
+: How do you say that in German?
+
+Wie macht {pronoun}`man` das?
+: How do you do that?
+:::
+
+## With modal verbs
+
+*Man* pairs naturally with modals for rules and possibilities: what one can, must, and may do in a place.
+
+**Examples:**
+
+:::{div} ol-examples
+Hier darf {pronoun}`man` nicht rauchen.
+: Smoking is not allowed here.
+
+Wo kann {pronoun}`man` hier parken?
+: Where can you park here?
+
+{pronoun}`Man` muss den Bus nehmen.
+: You have to take the bus.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-3
+:track: man.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Man* = people in general; the verb takes the *er* form.
+- Survival questions: *Wie sagt man ...? Wie schreibt man ...?*
+- With modals it states rules: *Hier darf man nicht rauchen.*
+- One n: *man* is a pronoun, *der Mann* is a man.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Man sprechen Deutsch.* → Man **spricht** Deutsch. (third person singular)
+- *\*Der Man kommt.* → Der **Mann** kommt. (the noun has two n)
+- Translating every *man* as "one": English usually wants "you" or "people".
+:::
+
+## Related articles
+
+- [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
+- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
+- [A1 > Grammar > Modal Verbs dürfen and sollen](/a1/grammar/verbs/duerfen-sollen.md)

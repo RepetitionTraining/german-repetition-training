@@ -1,0 +1,180 @@
+---
+myst:
+  html_meta:
+    description: "A2 German grammar: use denn, deshalb, darum, deswegen, and trotzdem to connect main clauses and express cause, result, and contrast."
+    keywords: "german, german learning, a2, grammar, konnektoren, denn, deshalb, trotzdem, darum, deswegen, connectors, cause, result, contrast, word order, inversion, weil"
+    "property=og:title": "Konnektoren: denn, deshalb, trotzdem – Connectors in German"
+    "property=og:description": "A2 German grammar: use denn, deshalb, darum, deswegen, and trotzdem to connect main clauses and express cause, result, and contrast."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Konnektoren: denn, deshalb, trotzdem
+
+> Connecting main clauses: cause, result, and contrast
+
+:::{seealso}
+
+- [A2 > Grammar > Nebensatz mit weil](/a2/grammar/sub-clauses/nebensatz-weil.md)
+:::
+
+These three connectors let you join two statements and signal a logical relationship between them. **Denn** introduces a reason, **deshalb** (and its synonyms **darum** and **deswegen**) introduces a result, and **trotzdem** introduces a surprising or unexpected outcome. Each one affects word order differently, so learning how they work is an important step at A2 level.
+
+*Examples:*
+
+- *I'm tired because I got up early.*
+- *I got up early. That's why I'm tired.*
+- *I'm very tired. I'm still going to the party.*
+
+---
+
+## denn (because)
+
+**Denn** connects two main clauses by giving the reason for what was said first. It is a coordinating conjunction, which means it does **not** change word order, the verb in the second clause stays in its normal position 2, just like a regular main clause.
+
+> [Clause 1]**,** {conj}`denn` + subject + {verb}`verb` + rest of clause
+
+A comma always comes before **denn**. Because it is a coordinator, **denn** can never start a sentence.
+
+- Ich bleibe zu Hause, {conj}`denn` ich {verb}`bin` krank.  
+  *I'm staying home because I'm sick.*
+- Sie trinkt keinen Kaffee, {conj}`denn` er macht sie nervös.  
+  *She doesn't drink coffee because it makes her nervous.*
+- Wir gehen ins Café, {conj}`denn` draußen ist es zu kalt.  
+  *We're going to the café because it's too cold outside.*
+- Er lernt Deutsch, {conj}`denn` er {verb}`will` in Wien arbeiten.  
+  *He's learning German because he wants to work in Vienna.*
+- Das Konzert war toll, {conj}`denn` die Band {verb}`hat` super gespielt.  
+  *The concert was great because the band played brilliantly.*
+- Ich kann nicht mitkommen, {conj}`denn` ich {verb}`habe` heute einen Termin.  
+  *I can't come along because I have an appointment today.*
+
+:::{note}
+**Denn** and **weil** both mean "because", but they follow different word order rules. See the [denn vs. weil](#denn-vs-weil) section below for a direct comparison.
+:::
+
+:::{audio-examples}
+:album: a2/grammar/part-2
+:track: konnektor-denn.yml
+:::
+
+---
+
+## deshalb, darum, deswegen (therefore / that's why)
+
+**Deshalb** (and its synonyms **darum** and **deswegen**) introduces a consequence or result. It tells you what happens because of the first statement. All three words work identically, they are interchangeable in meaning.
+
+When one of these words begins a clause, it fills **position 1**. Because the verb must always be in position 2 in a German main clause, the subject is pushed to position 3. This is called **inversion**.
+
+> [Cause]. {conj}`Deshalb` + {verb}`verb` + subject + rest of clause
+
+- Ich bin krank. {conj}`Deshalb` {verb}`bleibe` ich zu Hause.  
+  *I'm sick. That's why I'm staying home.*
+- Das Restaurant ist sehr teuer. {conj}`Deshalb` {verb}`gehen` wir nicht hin.  
+  *The restaurant is very expensive. That's why we're not going there.*
+- Sie hat den Bus verpasst. {conj}`Darum` {verb}`kommt` sie zu spät.  
+  *She missed the bus. That's why she's late.*
+- Das Wetter ist schön. {conj}`Deswegen` {verb}`fahren` wir ans Meer.  
+  *The weather is nice. That's why we're going to the beach.*
+- Er hat die ganze Nacht gelernt. {conj}`Deshalb` {verb}`ist` er jetzt so müde.  
+  *He studied all night. That's why he's so tired now.*
+- Mein Fahrrad ist kaputt. {conj}`Deshalb` {verb}`nehme` ich den Bus.  
+  *My bike is broken. That's why I'm taking the bus.*
+
+:::{tip}
+**Deshalb**, **darum**, and **deswegen** all have the same meaning and are interchangeable. In everyday speech, **deshalb** and **darum** are the most common choices. Use whichever feels natural.
+:::
+
+:::{audio-examples}
+:album: a2/grammar/part-2
+:track: konnektor-deshalb.yml
+:::
+
+---
+
+## trotzdem (nevertheless / even so)
+
+**Trotzdem** introduces an unexpected or surprising result, something that happens despite what was just said. Listeners would normally expect the opposite to follow.
+
+Like **deshalb**, **trotzdem** takes position 1 and causes the same inversion: the verb comes before the subject.
+
+> [First fact]. {conj}`Trotzdem` + {verb}`verb` + subject + rest of clause
+
+- Es regnet. {conj}`Trotzdem` {verb}`gehen` wir spazieren.  
+  *It's raining. We're going for a walk anyway.*
+- Ich bin sehr müde. {conj}`Trotzdem` {verb}`lerne` ich noch eine Stunde.  
+  *I'm very tired. Nevertheless, I'm studying for another hour.*
+- Das Ticket ist sehr teuer. {conj}`Trotzdem` {verb}`kauft` er es.  
+  *The ticket is very expensive. He buys it anyway.*
+- Er mag kein Gemüse. {conj}`Trotzdem` {verb}`isst` er den Salat.  
+  *He doesn't like vegetables. He still eats the salad.*
+- Ich habe keinen Hunger. {conj}`Trotzdem` {verb}`esse` ich ein bisschen.  
+  *I'm not hungry. I eat a little anyway.*
+- Das Museum schließt in zehn Minuten. {conj}`Trotzdem` {verb}`wollen` wir noch kurz hinein.  
+  *The museum closes in ten minutes. We still want to pop in quickly.*
+
+:::{note}
+**Trotzdem** as a connector between two main clauses is similar in meaning to the subordinating conjunction **obwohl** (although). The key difference: **obwohl** creates a dependent clause with the verb at the end, while **trotzdem** simply starts a new main clause with normal inversion. Both are useful – **trotzdem** is more common at A2 level.
+:::
+
+:::{audio-examples}
+:album: a2/grammar/part-2
+:track: konnektor-trotzdem.yml
+:::
+
+---
+
+## denn vs. weil
+
+Both **denn** and **weil** mean "because" and introduce a reason. The only difference between them is **word order**.
+
+| | denn | weil |
+|---|---|---|
+| Type | Coordinating conjunction | Subordinating conjunction |
+| Verb position in reason clause | Position 2 (normal) | Final position (end) |
+| Can start a sentence? | No | Yes |
+| Register | Slightly more written/formal | Common in speech and writing |
+
+- Ich bleibe zu Hause, {conj}`denn` ich {verb}`bin` krank.  
+  *I'm staying home because I'm sick.* (verb stays in position 2)
+- Ich bleibe zu Hause, {conj}`weil` ich krank {verb}`bin`.  
+  *I'm staying home because I'm sick.* (verb moves to the end)
+
+Both sentences carry the same meaning. The difference is purely structural.
+
+- Er schläft nicht gut, {conj}`denn` er {verb}`hat` viel Stress.  
+  *He doesn't sleep well because he has a lot of stress.* (denn, verb position 2)
+- Er schläft nicht gut, {conj}`weil` er viel Stress {verb}`hat`.  
+  *He doesn't sleep well because he has a lot of stress.* (weil, verb at end)
+
+:::{tip}
+In everyday spoken German, **weil** is more natural and more frequent. **Denn** is fine too, but appears more often in writing. At A2 level, the most important thing is to keep the word order correct, and never put **denn** at the start of a sentence.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **denn** (because) is a coordinating conjunction: the verb after it stays in **position 2**. Always write a comma before **denn**. It cannot start a sentence.
+- **deshalb / darum / deswegen** (therefore / that's why) express a consequence. They fill position 1, so the **verb comes directly after** them and **before the subject** (inversion).
+- **trotzdem** (nevertheless / even so) expresses an unexpected result. It follows the same word order rule as **deshalb**: verb before subject (inversion).
+- **denn** and **weil** both mean "because", the only difference is that **denn** keeps normal word order while **weil** sends the verb to the end.
+
+| Connector | Logical meaning | Word order after connector |
+|---|---|---|
+| denn | cause (because) | subject + verb (position 2) |
+| deshalb / darum / deswegen | result (therefore) | verb + subject (inversion) |
+| trotzdem | unexpected contrast (nevertheless) | verb + subject (inversion) |
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Denn ich bin krank, bleibe ich zu Hause.* → Ich bleibe zu Hause, **denn** ich bin krank. (**denn** cannot start a sentence)
+- *\*Deshalb ich bleibe zu Hause.* → **Deshalb bleibe ich** zu Hause. (verb must come before subject after **deshalb**)
+- *\*Trotzdem ich gehe spazieren.* → **Trotzdem gehe ich** spazieren. (same inversion rule applies to **trotzdem**)
+- *\*Ich bleibe zu Hause, denn ich krank bin.* → denn ich **bin** krank. (**denn** keeps normal order, verb in position 2, not at the end)
+:::
+

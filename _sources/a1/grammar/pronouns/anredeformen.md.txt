@@ -1,0 +1,99 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: du, ihr, or Sie. Choosing the right form of address in German, the verb forms each one takes, and when to switch."
+    keywords: "german, german learning, a1, grammar, du, ihr, Sie, forms of address, anredeformen, formal, informal, duzen"
+    "property=og:title": "du, ihr oder Sie – Forms of Address"
+    "property=og:description": "A1 grammar: du, ihr, or Sie. Choosing the right form of address in German, the verb forms each one takes, and when to switch."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# du, ihr, or Sie
+
+English has one "you"; German has three, and picking the right one is a social decision as much as a grammatical one. The choice colours every question you ask a person, so it belongs early in your German, not late.
+
+## The three forms
+
+| Form | Who | Verb form | Example |
+|---|---|---|---|
+| du | one person, informal | -st | Kommst du aus Berlin? |
+| ihr | several people, informal | -t | Wo wohnt ihr? |
+| Sie | one or several, formal | -en | Kommen Sie aus Berlin? |
+
+*Sie* is always capitalised and always takes the *-en* form, whether you address one director or five.
+
+**Examples:**
+
+:::{div} ol-examples
+Bist {pronoun}`du` müde?
+: Are you tired? (one friend)
+
+Seid {pronoun}`ihr` fertig?
+: Are you ready? (several friends)
+
+Sind {pronoun}`Sie` Frau Weber?
+: Are you Mrs Weber? (formal)
+:::
+
+## Who gets which
+
+*Du* is for friends, family, children, and usually fellow students. *Ihr* is simply the plural of *du*. *Sie* is for adults you do not know, officials, shop staff, and anyone at work until offered otherwise. The rule of thumb from introducing yourself still holds: when unsure, start with *Sie*.
+
+**Examples:**
+
+:::{div} ol-examples
+Wie geht es {dativ}`dir`?
+: How are you? (du-person)
+
+Wie geht es {dativ}`euch`?
+: How are you? (ihr-people)
+
+Wie geht es {dativ}`Ihnen`?
+: How are you? (Sie-person)
+:::
+
+## Switching to *du*
+
+The move from *Sie* to *du* is usually offered by the older or more senior person: *Wir können du sagen* (we can switch to du). Accepting is easy and pleasant; offering upward yourself is the thing to avoid.
+
+**Examples:**
+
+:::{div} ol-examples
+Wir können du sagen.
+: We can switch to du.
+
+Sagen wir du?
+: Shall we use du?
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-2
+:track: anredeformen.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *du* = one informal person, *ihr* = several, *Sie* = formal, always capitalised.
+- Verb endings: du -st, ihr -t, Sie -en.
+- Default to *Sie* with adult strangers; wait for the offer to switch.
+- The chunks differ too: *dir / euch / Ihnen* in *Wie geht es ...?*
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Kommst Sie aus Berlin?* → **Kommen** Sie aus Berlin? (Sie takes the -en form)
+- Using *du* with officials or shop staff: stay with **Sie** until offered.
+- *\*Wie geht es du?* → Wie geht es **dir**? (the chunk uses the dative form)
+:::
+
+## Related articles
+
+- [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
+- [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
+- [A1 > Grammar > The Imperative](/a1/grammar/verbs/imperativ.md)

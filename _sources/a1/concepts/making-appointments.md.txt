@@ -1,0 +1,115 @@
+---
+myst:
+  html_meta:
+    description: "A1 concept: making appointments. Propose a time, check availability with Hast du Zeit and Passt dir, accept, decline, and confirm."
+    keywords: "german, a1, concepts, appointments, termin, hast du zeit, passt dir, treffen, availability"
+    "property=og:title": "Making appointments"
+    "property=og:description": "A1 concept: making appointments. Propose a time, check availability with Hast du Zeit and Passt dir, accept, decline, and confirm."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Making appointments
+
+After this page you can arrange a meeting: suggest a day and time, check whether it suits the other person, say yes or no with grace, and confirm. The time words from *Telling the time and days* finally get their main job.
+
+## When to use it
+
+- Booking a *Termin* at a doctor's office or agency
+- Arranging to meet friends
+- Accepting, declining, and rescheduling politely
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| Hast du am Freitag Zeit? | Do you have time on Friday? | informal |
+| Haben Sie morgen Zeit? | Do you have time tomorrow? | formal |
+| Passt dir / Ihnen ...? | Does ... suit you? | |
+| Das passt gut. | That works well. | accepting |
+| Das passt leider nicht. | Unfortunately that doesn't work. | declining |
+| Geht es um zehn Uhr? | Does ten o'clock work? | |
+| Ich möchte einen Termin machen. | I would like to make an appointment. | |
+
+## Proposing a time
+
+Two openers do most of the work: *Hast du ... Zeit?* with a day, and *Wollen wir ...?* with a plan. At an office, lead with *Ich möchte einen Termin machen.*
+
+**Examples:**
+
+:::{div} ol-examples
+Hast du am Freitag Zeit?
+: Do you have time on Friday?
+
+Wollen wir am Samstag ins Kino gehen?
+: Shall we go to the cinema on Saturday?
+
+Können Sie am Montag kommen?
+: Can you come on Monday?
+:::
+
+## Checking and answering
+
+*Passt dir ...?* and *Geht es um ...?* check a specific slot. Accept with *Das passt gut*, decline with *leider* and a reason, then offer an alternative.
+
+**Examples:**
+
+:::{div} ol-examples
+Passt {dativ}`Ihnen` vierzehn Uhr?
+: Does two o'clock suit you?
+
+Ja, das passt gut.
+: Yes, that works well.
+
+Ich kann erst am Abend.
+: I can only make it in the evening.
+:::
+
+## Confirming
+
+Repeat the slot, agree on a place, and close with a *bis* phrase: the appointment is made.
+
+**Examples:**
+
+:::{div} ol-examples
+Der Termin ist am Donnerstag um neun.
+: The appointment is on Thursday at nine.
+
+Wo treffen wir uns?
+: Where shall we meet?
+
+Bis Freitag dann!
+: See you Friday then!
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/concepts/part-2
+:track: making-appointments.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Propose with *Hast du ... Zeit?* or *Wollen wir ...?*; offices get *Ich möchte einen Termin machen.*
+- Check slots with *Passt dir/Ihnen ...?* and *Geht es um ...?*
+- Accept: *Das passt gut.* Decline: *leider* + reason + alternative.
+- Confirm by repeating day and time: *am Donnerstag um neun*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Hast du Zeit am Freitag?* is understandable, but the natural rhythm is *Hast du **am Freitag** Zeit?*
+- *\*Passt du Montag?* → Passt **dir** Montag? (the person is dative)
+- Declining with a bare *Nein*: add **leider** and offer another slot.
+:::
+
+## Related articles
+
+- Previous concept: [Talking about abilities](/a1/concepts/talking-about-abilities.md)
+- Next concept: [Expressing how you feel](/a1/concepts/expressing-how-you-feel.md)
+- [Telling the time and days](/a1/concepts/telling-the-time-and-days.md)
+- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)

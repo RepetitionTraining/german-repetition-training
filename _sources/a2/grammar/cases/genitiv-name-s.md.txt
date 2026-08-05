@@ -1,0 +1,181 @@
+---
+myst:
+  html_meta:
+    description: "A2 German grammar: Genitiv bei Namen, show possession with proper names by adding -s (Toms Buch), the apostrophe rule for names ending in s/ß/z/x, and the von + Dative alternative."
+    keywords: "german, german learning, a2, grammar, genitiv bei namen, genitive with names, possessive names german, toms buch, von dativ, name apostrophe german, genitiv eigennamen"
+    "property=og:title": "Genitiv bei Namen – Possessive with Proper Names"
+    "property=og:description": "A2 German grammar: show possession with proper names, adding -s, the apostrophe rule for names ending in s/ß/z/x, and the von + Dative alternative."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Genitiv bei Namen
+
+> Showing possession with proper names
+
+:::{seealso}
+
+- [A2 > Grammar > Possessivartikel im Dativ](/a2/grammar/cases/possessivartikel-dativ.md)
+- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
+:::
+
+You can show that something belongs to someone by placing their name directly in front of the object and adding **-s**. It works a lot like the English possessive (*Tom's book*), but with one key difference: in German you write the -s with **no apostrophe**.
+
+*Examples:*
+
+- *That is Tom's book.*
+- *Anna's car is outside.*
+- *Have you seen Max's phone?*
+
+---
+
+## Namen + -s
+
+To express possession, add **-s** to the name and place it before the object. The name always comes first, before the thing it belongs to.
+
+> **Name + s** + noun
+
+- Das ist **Toms** Buch.  
+  *That is Tom's book.*
+- **Annas** Auto steht vor dem Haus.  
+  *Anna's car is parked in front of the house.*
+- Ich habe **Lauras** Jacke gefunden.  
+  *I found Laura's jacket.*
+- **Michaels** Hund heißt Bello.  
+  *Michael's dog is called Bello.*
+- **Sarahs** Idee war sehr gut.  
+  *Sarah's idea was very good.*
+- Hier ist **Emmas** Rucksack.  
+  *Here is Emma's backpack.*
+
+:::{warning}
+In English you write *Tom's book*, with an apostrophe before the -s. In German, **no apostrophe** is used for regular names. Writing *Tom's Buch* is an error in standard German.
+:::
+
+---
+
+## Namen auf -s, -ß, -z, -x
+
+When a name already ends in **-s, -ß, -z**, or **-x**, you cannot add another -s. Instead, place an **apostrophe** directly after the name, nothing more.
+
+> **Name'** + noun  *(only when the name ends in s / ß / z / x)*
+
+- Das ist **Klaus'** Fahrrad.  
+  *That is Klaus's bicycle.*
+- Hast du **Max'** Nummer?  
+  *Do you have Max's number?*
+- Das ist **Felix'** Laptop.  
+  *That is Felix's laptop.*
+- **Lukas'** Wohnung ist in der Stadtmitte.  
+  *Lukas's apartment is in the city centre.*
+
+:::{note}
+Say these names aloud: *Klaus*, *Max*, *Felix*, *Lukas*, they all end with an /s/ sound. Adding another -s would create an awkward double sound, so the apostrophe stands alone as a possession marker. The apostrophe here is the **exception**, not the rule; for all other names, there is no apostrophe at all.
+:::
+
+---
+
+## Alternative: von + Dativ
+
+There is a second way to express possession with names: use **von** followed by the name. This phrase goes after the object rather than before it. Both forms carry the same meaning, and the *von* construction is very natural in everyday spoken German.
+
+| Name + -s | von + Name |
+|---|---|
+| Toms Buch | das Buch von Tom |
+| Annas Auto | das Auto von Anna |
+| Klaus' Wohnung | die Wohnung von Klaus |
+
+- Das Buch **von Tom** ist sehr interessant.  
+  *Tom's book is very interesting.*
+- Hast du das Handy **von Maria**?  
+  *Do you have Maria's phone?*
+- Die Wohnung **von Klaus** ist sehr zentral.  
+  *Klaus's apartment is very central.*
+- Der Hund **von Emma** ist sehr freundlich.  
+  *Emma's dog is very friendly.*
+
+:::{tip}
+When you are not sure whether a name needs an apostrophe, the *von* construction is a safe and natural-sounding alternative. It completely sidesteps the apostrophe question, and many speakers use it in conversation even when the name + -s form would be perfectly fine.
+:::
+
+---
+
+## Contrast with English possessive ('s)
+
+German and English both place a person name before the noun to show possession, but the spelling is different.
+
+- In English, you normally write **'s**: *Tom's book*.
+- In German, you normally write **-s without an apostrophe**: *Toms Buch*.
+- In German, an apostrophe appears only with names ending in s/ss/ß/z/x: *Klaus' Buch*, *Max' Handy*.
+
+| English | German |
+| --- | --- |
+| Tom's book | Toms Buch |
+| Anna's car | Annas Auto |
+| Max's phone | Max' Handy |
+
+- This is **Tom's** bike. -> Das ist **Toms** Fahrrad.
+  *The meaning is the same, but German usually has no apostrophe before -s.*
+- Is this **Anna's** bag? -> Ist das **Annas** Tasche?
+  *English uses 's, German uses -s.*
+- We saw **Max's** apartment. -> Wir haben **Max'** Wohnung gesehen.
+  *Because Max ends in -x, German uses apostrophe only.*
+
+:::{warning}
+Do not copy the English spelling into German. *Tom's Buch* looks natural to English speakers, but in standard German for this A2 pattern you write *Toms Buch*.
+:::
+
+---
+
+## What this page does not cover (B1 topic)
+
+This page teaches only the **simple A2 pattern with names**. It does **not** teach the full genitive system with articles and adjective endings.
+
+Not covered here:
+
+- forms like **des Mannes**, **der Frau**, **eines Kindes**
+- adjective forms in full genitive phrases, for example **des alten Hauses**
+- genitive after prepositions such as **wegen** and **trotz**
+
+You will learn these full genitive patterns at B1 level.
+
+:::{note}
+If you want to express possession now and full genitive feels difficult, keep using the A2-safe options from this page: **Toms Buch** and **das Buch von Tom**.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Add **-s** directly to a name to show possession: *Toms Buch*, *Annas Auto*
+- **No apostrophe** before -s for regular names, that is the English rule, not the German one
+- Names ending in **s, ß, z, or x**: add **only an apostrophe** – *Klaus'*, *Max'*, *Felix'*
+- The possessive name always comes **before** the object it belongs to
+- **von + name** works as an alternative and is very common in spoken German: *das Buch von Tom*
+- Full genitive with articles (*des Lehrers*, *der Frau*) is a B1 topic and is not covered here
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Tom's Buch* → **Toms Buch** (no apostrophe before -s for regular names)
+- *\*Klauss Buch* → **Klaus' Buch** (apostrophe only, no extra -s, when the name ends in -s)
+- *\*das Buch Tom* → **Toms Buch** (the possessive name must come before the object)
+- *\*das Buch Toms* → **Toms Buch** (the name + -s comes before the noun, not after)
+:::
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-1
+:track: genitiv-mit-namen.yml
+:::
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Possessivartikel im Dativ](/a2/grammar/cases/possessivartikel-dativ.md)
+- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)

@@ -1,0 +1,74 @@
+---
+myst:
+  html_meta:
+    description: "A1 writing: making plans by text message. A German chat exchange that proposes a plan, settles time and place, and confirms."
+    keywords: "german, a1, writing, sms, text message, plans, was machst du, treffen, chat, informal"
+    "property=og:title": "Making Plans"
+    "property=og:description": "A1 writing: making plans by text message. A German chat exchange that proposes a plan, settles time and place, and confirms."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Making Plans
+
+Most German chats exist to answer one question: what are we doing, and when? The exchange has a rhythm: propose, ask back, settle the details, confirm. Once you can ride that rhythm, your phone becomes the easiest place to practise German every single day.
+
+## Example: A Saturday at the pool
+
+Anna is organising a swimming trip and pulls Lena in.
+
+> **Anna:** Hallo Lena! Was machst du am Samstag? Wir wollen ins Schwimmbad gehen. Kommst du mit?
+>
+> **Lena:** Gute Idee! Um wie viel Uhr trefft ihr euch?
+>
+> **Anna:** Um elf am Eingang. Danach essen wir ein Eis in der Stadt.
+>
+> **Lena:** Perfekt, ich komme mit! Soll ich etwas mitbringen?
+>
+> **Anna:** Nein, du brauchst nur Badesachen. Jonas und seine Freundin kommen auch. Bis Samstag!
+
+What makes it work: the opener checks availability before proposing (*Was machst du am Samstag?*); the plan arrives with an invitation attached (*Kommst du mit?*); the details land as short facts (*Um elf am Eingang*); and the confirmation is unmistakable (*Perfekt, ich komme mit!*).
+
+### Hear it in practice
+
+:::{audio-examples}
+:album: a1/writing/part-1
+:track: sms-informal-3.yml
+:::
+
+## Building blocks
+
+| Slot | Options |
+|---|---|
+| Checking availability | Was machst du am ...? / Hast du am ... Zeit? |
+| The proposal | Wir wollen ... gehen. Kommst du mit? |
+| Asking details | Um wie viel Uhr? / Wo treffen wir uns? |
+| The details | Um ... am ... / Danach ... |
+| Confirming | Perfekt, ich komme mit! / Bin dabei! |
+| The close | Bis Samstag! / Bis dann! |
+
+*Danach* (afterwards) chains plans together in one word: pool, then ice cream, no conjunction gymnastics required.
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The rhythm: availability check, proposal, details, confirmation.
+- *Kommst du mit?* turns any plan into an invitation.
+- Details come as fragments of fact: *Um elf am Eingang.*
+- Confirm loudly: *Perfekt, ich komme mit!* leaves no doubt.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- Proposing without asking: *Wir gehen ins Schwimmbad!* alone is an announcement, not an invitation; add **Kommst du mit?**
+- Vague confirmations: *vielleicht* means the plan is not made; say **ich komme mit** or propose another day.
+- *\*Um elf Uhr am der Eingang* → um elf **am Eingang**. (the chunk contracts, no extra article)
+:::
+
+## Related articles
+
+- [Cancelling Plans](/a1/writing/sms-informal-1.md)
+- [Asking a Favour](/a1/writing/sms-informal-2.md)
+- [Making appointments](/a1/concepts/making-appointments.md)

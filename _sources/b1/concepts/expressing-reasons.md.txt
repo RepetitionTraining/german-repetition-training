@@ -1,0 +1,57 @@
+---
+myst:
+  html_meta:
+    description: "B1 concept: expressing reasons with weil, denn, wegen, aufgrund."
+    keywords: "german, b1, concept, reasons, weil, denn, wegen, aufgrund"
+---
+# Expressing reasons
+
+:::{seealso}
+
+- Grammar: /b1/grammar/connector-words.md
+- Grammar: /b1/grammar/nebensaetze.md
+- Grammar: [wegen und trotz (Genitiv)](/b1/grammar/wegen-trotz.md)
+- [B1 > Grammar > Kausal Nebensätze](/b1/grammar/kausal-nebensaetze.md)
+
+:::
+
+## What this helps you do
+
+Explain why something happens.
+
+## When to use it
+
+- Give short explanations in conversation.
+- Write clear reasons in emails/reports.
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| weil | because | subclause, verb at end |
+| denn | because/for | main clause, verb position 2 |
+| wegen + Genitiv | because of | noun phrase reason |
+| aufgrund + Genitiv | due to | formal/written |
+
+---
+
+## Examples
+
+- Ich bleibe zu Hause, **weil** ich krank bin.  
+  _I’m staying home because I’m sick._
+- Ich bleibe zu Hause, **denn** ich bin krank.  
+  _I’m staying home, because I’m sick._
+- **Wegen** des Wetters fällt das Spiel aus.  
+  _Because of the weather, the game is cancelled._
+- **Aufgrund** technischer Probleme beginnt die Sitzung später.  
+  _Due to technical problems, the meeting starts later._
+
+## Register and tone
+
+weil is most common in speech; denn is slightly formal; aufgrund is formal and often written.
+
+## Mini practice
+
+- Join two sentences with denn.
+- Replace weil with wegen + noun phrase.
+

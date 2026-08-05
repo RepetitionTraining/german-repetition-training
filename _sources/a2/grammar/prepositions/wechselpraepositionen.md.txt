@@ -1,0 +1,203 @@
+---
+myst:
+  html_meta:
+    description: "A2 grammar: Wechselpräpositionen, the nine German two-way prepositions and how to choose between accusative (Wohin?) and dative (Wo?) for direction and location."
+    keywords: "german, german learning, a2, grammar, Wechselpräpositionen, two-way prepositions, accusative, dative, wo, wohin, direction, location, in an auf neben zwischen über unter vor hinter, Akkusativ, Dativ"
+    "property=og:title": "Wechselpräpositionen – Two-Way Prepositions: Location vs. Direction"
+    "property=og:description": "A2 grammar: Wechselpräpositionen, the nine German two-way prepositions and how to choose between accusative (Wohin?) and dative (Wo?)."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Wechselpräpositionen
+
+> Two-way prepositions: location (Wo?) vs. direction (Wohin?)
+
+:::{note}
+:class: dropdown
+Before reading this article, make sure you are comfortable with:
+
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+:::
+
+Nine German prepositions can each take **either** the accusative or the dative case. The choice is not random, it depends on whether you are describing *where something is going* (direction) or *where something already is* (position). One simple question helps you decide every time: *Wohin?* (Where to?) or *Wo?* (Where?).
+
+---
+
+## Die neun Wechselpräpositionen
+
+These are the nine prepositions that work both ways:
+
+| Präposition | Meaning | Notes |
+|---|---|---|
+| **in** | in, into | rooms, buildings, enclosed spaces |
+| **an** | at, on | vertical surfaces, edges, water |
+| **auf** | on, onto | horizontal surfaces, tables, floors |
+| **neben** | next to, beside | |
+| **zwischen** | between | |
+| **über** | over, above | |
+| **unter** | under, below | |
+| **vor** | in front of, before | |
+| **hinter** | behind | |
+
+:::{tip}
+A good way to remember all nine: picture a room. You can place objects *in* it, *on* things, *next to* them, *between* them, *above* or *below* them, *in front of* or *behind* them, those are your nine Wechselpräpositionen.
+:::
+
+---
+
+## Wo? und Wohin? – Dativ oder Akkusativ
+
+The case depends on the **answer to one question**:
+
+- Ask **Wohin?** (Where to?), something is **moving** to a place → use **Akkusativ**
+- Ask **Wo?** (Where?), something is **staying** in a place → use **Dativ**
+
+The verb in the sentence usually gives this away: movement verbs like *gehen*, *legen*, *stellen*, and *hängen* (transitive, placing something) signal Wohin?; position verbs like *sein*, *liegen*, *stehen*, and *hängen* (intransitive, being somewhere) signal Wo?.
+
+Here is how the **definite article** changes with each Wechselpräposition:
+
+| Gender | Nominativ | Akkusativ (Wohin?) | Dativ (Wo?) |
+|---|---|---|---|
+| Maskulin (der) | der | **den** | **dem** |
+| Feminin (die) | die | die | **der** |
+| Neutrum (das) | das | das | **dem** |
+| Plural (die) | die | die | **den** |
+
+The following paired examples show every preposition. Each pair uses the same noun, first with movement (*Wohin?*), then with position (*Wo?*):
+
+**in**
+
+- Ich lege das Buch {prep}`in` {akk}`das` Regal.  
+  *I put the book on the shelf.* (Wohin? → Akkusativ)
+- Das Buch liegt {prep}`in` {dativ}`dem` Regal.  
+  *The book is on the shelf.* (Wo? → Dativ)
+
+**an**
+
+- Sie hängt das Bild {prep}`an` {akk}`die` Wand.  
+  *She hangs the picture on the wall.* (Wohin? → Akkusativ)
+- Das Bild hängt {prep}`an` {dativ}`der` Wand.  
+  *The picture hangs on the wall.* (Wo? → Dativ)
+
+**auf**
+
+- Er stellt die Tasse {prep}`auf` {akk}`den` Tisch.  
+  *He puts the cup on the table.* (Wohin? → Akkusativ)
+- Die Tasse steht {prep}`auf` {dativ}`dem` Tisch.  
+  *The cup is on the table.* (Wo? → Dativ)
+
+**neben**
+
+- Ich stelle die Lampe {prep}`neben` {akk}`das` Sofa.  
+  *I put the lamp next to the sofa.* (Wohin? → Akkusativ)
+- Die Lampe steht {prep}`neben` {dativ}`dem` Sofa.  
+  *The lamp is next to the sofa.* (Wo? → Dativ)
+
+**zwischen**
+
+- Er legt die Fernbedienung {prep}`zwischen` {akk}`die` Kissen.  
+  *He puts the remote between the cushions.* (Wohin? → Akkusativ)
+- Die Fernbedienung liegt {prep}`zwischen` {dativ}`den` Kissen.  
+  *The remote is between the cushions.* (Wo? → Dativ)
+
+**über**
+
+- Sie hängt die Lampe {prep}`über` {akk}`den` Tisch.  
+  *She hangs the lamp over the table.* (Wohin? → Akkusativ)
+- Die Lampe hängt {prep}`über` {dativ}`dem` Tisch.  
+  *The lamp hangs over the table.* (Wo? → Dativ)
+
+**unter**
+
+- Die Katze kriecht {prep}`unter` {akk}`das` Bett.  
+  *The cat crawls under the bed.* (Wohin? → Akkusativ)
+- Die Katze schläft {prep}`unter` {dativ}`dem` Bett.  
+  *The cat sleeps under the bed.* (Wo? → Dativ)
+
+**vor**
+
+- Wir stellen das Fahrrad {prep}`vor` {akk}`die` Tür.  
+  *We put the bike in front of the door.* (Wohin? → Akkusativ)
+- Das Fahrrad steht {prep}`vor` {dativ}`der` Tür.  
+  *The bike is in front of the door.* (Wo? → Dativ)
+
+**hinter**
+
+- Die Kinder laufen {prep}`hinter` {akk}`das` Haus.  
+  *The children run behind the house.* (Wohin? → Akkusativ)
+- Die Kinder spielen {prep}`hinter` {dativ}`dem` Haus.  
+  *The children are playing behind the house.* (Wo? → Dativ)
+
+:::{note}
+For feminine nouns in the accusative, the article stays *die*, it only changes to *der* in the dative:
+*an **die** Wand* (Akkusativ) → *an **der** Wand* (Dativ). This trips up a lot of learners because the accusative *die* looks identical to the nominative, so the dative *der* can seem surprising.
+:::
+
+---
+
+## Kurzformen: im, ins, am, ans
+
+In everyday German, four combinations are **always** contracted, you will rarely hear the uncontracted forms in normal speech or writing:
+
+| Full form | Contraction | Use |
+|---|---|---|
+| in + dem | **im** | location: *im* Zimmer, *im* Garten |
+| in + das | **ins** | movement: *ins* Zimmer, *ins* Kino |
+| an + dem | **am** | location: *am* Tisch, *am* Bahnhof |
+| an + das | **ans** | movement: *ans* Fenster, *ans* Meer |
+
+**Examples:**
+
+- Wir gehen heute Abend {prep}`ins` Kino.  
+  *We're going to the cinema tonight.* (Wohin? → in + das = ins)
+- Das Café ist {prep}`im` Erdgeschoss.  
+  *The café is on the ground floor.* (Wo? → in + dem = im)
+- Das Kind läuft {prep}`ans` Fenster und schaut hinaus.  
+  *The child runs to the window and looks out.* (Wohin? → an + das = ans)
+- Er wartet {prep}`am` Eingang auf mich.  
+  *He is waiting for me at the entrance.* (Wo? → an + dem = am)
+- Ich gehe {prep}`ins` Schwimmbad, kommst du mit?  
+  *I'm going to the swimming pool, are you coming?* (Wohin? → ins)
+- Sie sitzt {prep}`am` Schreibtisch und arbeitet.  
+  *She's sitting at the desk working.* (Wo? → am)
+
+:::{note}
+Other contractions also exist – *aufs*, *vors*, *hinters*, *übers*, *unters*, but these are mostly spoken shortcuts and less predictable. Focus on *im*, *ins*, *am*, and *ans* first. They are the ones you will see and hear most often.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Nine prepositions are **Wechselpräpositionen**: *in, an, auf, neben, zwischen, über, unter, vor, hinter*.
+- **Wohin?** (direction/movement) → **Akkusativ**: *den, die, das, die*
+- **Wo?** (location/position) → **Dativ**: *dem, der, dem, den*
+- Only **masculine** nouns change in the accusative (*der → den*). Feminine, neuter, and plural look the same in nominative and accusative.
+- Four contractions are standard: **im** (in+dem), **ins** (in+das), **am** (an+dem), **ans** (an+das).
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich bin \*in die Küche.* → Ich bin **in der** Küche. (*sein* describes a location → Wo? → Dativ)
+- *Ich gehe \*in der Schule.* → Ich gehe **in die** Schule. (*gehen* describes movement → Wohin? → Akkusativ)
+- *Das Buch liegt \*auf den Tisch.* → Das Buch liegt **auf dem** Tisch. (*liegen* = static position → Wo? → Dativ)
+- *Das Bild hängt \*an die Wand.* → Das Bild hängt **an der** Wand. (*hängen* intransitive = position → Wo? → Dativ)
+- *Ich gehe \*in dem Kino.* → Ich gehe **ins** Kino. (movement into a neuter noun → Wohin? → Akkusativ; use the contraction *ins*)
+:::
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-1
+:track: wechselprapositionen-wohin-und-wo.yml
+:::
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)

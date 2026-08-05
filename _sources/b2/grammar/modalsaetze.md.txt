@@ -1,0 +1,170 @@
+---
+myst:
+  html_meta:
+    description: "B2 German grammar: Modalsätze with dadurch ... dass and indem to express how something happens, including structure, meaning, and common confusions."
+    keywords: "german, german learning, b2, grammar, modalsaetze, modalsaetze, indem, dadurch dass, nebensaetze, art und weise, satzverbindung"
+    "property=og:title": "Modalsätze – Expressing Manner in German"
+    "property=og:description": "Learn B2 Modalsätze with dadurch ... dass and indem to express method, process, and manner clearly in German."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Modalsätze
+
+> Expressing how something happens with dadurch ... dass and indem
+
+:::{seealso}
+
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
+- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
+
+:::
+
+With Modalsätze, you explain the way an action happens. At B2, this helps you describe processes more precisely: not only what happened, but how it was done. Two key patterns are **dadurch ... dass** and **indem**.
+
+*Examples:*
+
+- *The team solved the problem by talking to users first.*
+- *Some families preserve a language by speaking it at home every day.*
+- *The project became more efficient by reducing unnecessary steps.*
+
+---
+
+## What Modalsätze do in communication
+
+A Modalsatz adds information about method, procedure, or manner. In many contexts, you can think of it as answering the question: "How did this happen?"
+
+| Function | Typical question | Example connector |
+| --- | --- | --- |
+| Method / strategy | Wie? Auf welche Weise? | {conj}`indem` |
+| Process-based explanation | Wodurch? Auf welche Art? | {conj}`dadurch ... dass` |
+
+**Examples:**
+
+- Das Team hat den Konflikt gelöst, {conj}`indem` es frühzeitig moderierte.  
+  *The team solved the conflict by moderating early.*
+- Viele Start-ups sparen Kosten, {conj}`dadurch`, {conj}`dass` sie Prozesse automatisieren.  
+  *Many start-ups reduce costs by automating processes.*
+- Die Stadt verbessert die Luftqualität, {conj}`indem` sie den Busverkehr ausbaut.  
+  *The city improves air quality by expanding bus transport.*
+- Er hat die Präsentation verständlicher gemacht, {conj}`dadurch`, {conj}`dass` er mehr Beispiele eingebaut hat.  
+  *He made the presentation clearer by adding more examples.*
+
+:::{tip}
+At B2, Modalsätze are very useful in reports, workplace communication, and argumentation because they let you describe a concrete strategy instead of a vague claim.
+:::
+
+### Practice: recognizing the modal meaning
+
+Use the following link to practice this section.
+
+---
+
+## Dadurch ... dass
+
+Use **dadurch ... dass** when you want to foreground the process itself: a change or result is presented as happening through a specific action. In writing, you will often see a comma after **dadurch**.
+
+> main clause + {conj}`dadurch`, {conj}`dass` + subordinate clause (verb at the end)
+
+You can also place the clause first:
+
+> {conj}`Dadurch`, {conj}`dass` + subordinate clause, main clause
+
+**Examples:**
+
+- Viele Kinder verlieren die Familiensprache {conj}`dadurch`, {conj}`dass` zu Hause fast nur Deutsch gesprochen wird.  
+  *Many children lose the family language because mostly German is spoken at home.*
+- Sprachwissen geht über Generationen {conj}`dadurch`, {conj}`dass` bestimmte Wörter nicht mehr aktiv verwendet werden, schrittweise verloren.  
+  *Language knowledge is gradually lost across generations because certain words are no longer actively used.*
+- Einige Familien stabilisieren ihre Herkunftssprache {conj}`dadurch`, {conj}`dass` sie feste Zeiten für Gespräche in dieser Sprache einführen.  
+  *Some families stabilize their heritage language by introducing fixed times for conversations in that language.*
+- Die Universität hat den Austausch verbessert, {conj}`dadurch`, {conj}`dass` sie Tandemprogramme mit Alumni aufgebaut hat.  
+  *The university improved exchange by setting up tandem programs with alumni.*
+- {conj}`Dadurch`, {conj}`dass` das Team Feedbackrunden verkürzt hat, wurden Entscheidungen schneller getroffen.  
+  *By shortening feedback rounds, the team made decisions faster.*
+
+:::{note}
+In everyday German, you may also hear looser alternatives with *weil* or *durch + Nomen* (for example: *durch mehr Training*). At B2, **dadurch ... dass** is useful when you want a clear clause-based explanation of process.
+:::
+
+### Practice: dadurch ... dass
+
+Use the following link to practice this section.
+
+---
+
+## Indem
+
+Use **indem** when you present a concrete method that someone actively uses to reach a goal. It is often close to English "by + -ing".
+
+> main clause + {conj}`indem` + subordinate clause (verb at the end)
+
+or
+
+> {conj}`Indem` + subordinate clause, main clause
+
+**Examples:**
+
+- Sie hat ihr Hörverstehen verbessert, {conj}`indem` sie täglich Nachrichtenausschnitte analysiert hat.  
+  *She improved her listening comprehension by analyzing news clips every day.*
+- Das Unternehmen reduziert Fehler, {conj}`indem` es Abläufe regelmäßig dokumentiert.  
+  *The company reduces errors by documenting procedures regularly.*
+- {conj}`Indem` wir Rollen im Projekt klar verteilen, vermeiden wir doppelte Arbeit.  
+  *By distributing roles clearly in the project, we avoid duplicated work.*
+- Er hat das Gespräch beruhigt, {conj}`indem` er zuerst die wichtigsten Sorgen zusammengefasst hat.  
+  *He calmed the conversation by first summarizing the main concerns.*
+- Die Schule stärkt Mehrsprachigkeit, {conj}`indem` sie Elternabende auch in Herkunftssprachen unterstützt.  
+  *The school strengthens multilingualism by supporting parent meetings in heritage languages as well.*
+
+:::{warning}
+Do not confuse **indem** (one-word conjunction) with **in dem** (preposition + article in relative constructions).
+
+- Modalsatz: *Sie spart Zeit, {conj}`indem` sie Termine bündelt.*  
+  *She saves time by bundling appointments.*
+- Relative construction: *Das ist der Zeitraum, **in dem** wir umgezogen sind.*  
+  *That is the period in which we moved.*
+:::
+
+### Practice: indem and the in dem distinction
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Modalsätze describe **how** an action happens (method, manner, process).
+- **dadurch ... dass** is useful when you frame a process that leads to a change or effect.
+- **indem** is a one-word connector for an active method, often similar to "by doing ...".
+- Both patterns create subordinate clauses with verb-final position.
+- Keep **indem** separate from **in dem**, which belongs to relative constructions.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Die Firma spart Kosten, indem sie Prozesse \*automatisiert hat regelmäßig.* -> Die Firma spart Kosten, indem sie Prozesse **regelmäßig automatisiert**. (Verb-final clause with natural adverb placement.)
+- *Viele Familien sichern Mehrsprachigkeit dadurch dass sie täglich lesen.* -> Viele Familien sichern Mehrsprachigkeit **dadurch, dass** sie täglich lesen. (Comma before *dass* in this construction.)
+- *\*In dem sie regelmäßig übt, wird sie sicherer.* -> **Indem** sie regelmäßig übt, wird sie sicherer. (Connector is one word.)
+- *Das ist der Weg, indem wir gegangen sind.* -> Das ist der Weg, **in dem** wir gegangen sind. (Relative construction needs two words.)
+- *Dadurch, dass wir früher starten, wir sind pünktlich.* -> Dadurch, dass wir früher starten, **sind wir** pünktlich. (Main-clause inversion after fronted subordinate clause.)
+
+:::
+
+---
+
+## Full practice
+
+Use the link below to practice the full topic interactively.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
+- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)

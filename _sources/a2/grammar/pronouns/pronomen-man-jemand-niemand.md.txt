@@ -1,0 +1,173 @@
+---
+myst:
+  html_meta:
+    description: "A2 grammar: Pronomen – man, jemand, niemand, learn how to use these indefinite pronouns for people in everyday German."
+    keywords: "german, german learning, a2, grammar, pronomen, indefinitpronomen, man, jemand, niemand, someone, no one, impersonal subject, accusative, dative"
+    "property=og:title": "Pronomen – man, jemand, niemand – Indefinite Pronouns for People"
+    "property=og:description": "A2 grammar: Pronomen – man, jemand, niemand, learn how to use these indefinite pronouns for people in everyday German."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Pronomen – man, jemand, niemand
+
+> Indefinite pronouns for people: one/you/people, someone, no one
+
+:::{seealso}
+
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)
+:::
+
+You use *man*, *jemand*, and *niemand* when you talk about people in a general or non-specific way. These words are very common in everyday German, and once you can separate their jobs clearly, your sentences become much more natural.
+
+*Examples:*
+
+- *People drink a lot of coffee here.*
+- *Someone is waiting outside.*
+- *No one knows the answer.*
+
+:::{important}
+
+- Use *man* for general statements like "one", "you", or "people" in general.
+- Use *jemand* for "someone/somebody" and *niemand* for "no one/nobody".
+- All three refer to people, not things.
+- At A2 level, treat *man* as a subject form only.
+:::
+
+---
+
+## *Man*: general, impersonal subject
+
+Use *man* when you mean people in general, not a specific person. English often translates this as "you", "one", or "people" depending on context. In German, the verb with *man* is always 3rd person singular.
+
+> **man** + verb (3rd person singular) + ...
+
+**Examples:**
+
+- **Man** sagt, dass dieses Restaurant sehr gut ist.  
+  *People say that this restaurant is very good.*
+- In Deutschland trinkt **man** viel Mineralwasser.  
+  *In Germany, people drink a lot of mineral water.*
+- Wie macht **man** das?  
+  *How do you do that?*
+- Im Sommer isst **man** oft Eis.  
+  *In summer, people often eat ice cream.*
+- Hier spricht **man** Deutsch und Englisch.  
+  *People speak German and English here.*
+- Nach der Arbeit ruht **man** sich aus.  
+  *After work, people rest.*
+
+:::{tip}
+*Man* does not mean "a man" (*ein Mann*). It is a pronoun for people in general.
+:::
+
+---
+
+## *Jemand* and *niemand*: someone vs. no one
+
+Use *jemand* for an unspecified person (someone). Use *niemand* as its negative opposite (no one). Both are singular in meaning and usually take a singular verb.
+
+| Pronoun | Core meaning | Typical verb form |
+|---|---|---|
+| **jemand** | someone, somebody | 3rd person singular |
+| **niemand** | no one, nobody | 3rd person singular |
+
+Both can appear with optional case endings.
+
+| Case | jemand | niemand |
+|---|---|---|
+| Nominativ | jemand | niemand |
+| Akkusativ | jemand / jemanden | niemand / niemanden |
+| Dativ | jemand / jemandem | niemand / niemandem |
+
+**Examples:**
+
+- **Jemand** hat an der Tür geklopft.  
+  *Someone knocked at the door.*
+- **Niemand** kennt die richtige Antwort.  
+  *No one knows the correct answer.*
+- Hat **jemand** meinen Schlüssel gesehen?  
+  *Has someone seen my key?*
+- Warum ruft **niemand** zurück?  
+  *Why is nobody calling back?*
+- Wenn **jemand** Hilfe braucht, kann er mich anrufen.  
+  *If someone needs help, they can call me.*
+- **Niemand** ist heute im Büro.  
+  *No one is in the office today.*
+
+:::{note}
+At A2 level, you will often see both forms (for example *jemand* and *jemanden*). In careful writing, the endings are common, especially in object positions.
+:::
+
+---
+
+## *Jemand* and *niemand* as objects
+
+You can use *jemand* and *niemand* as direct and indirect objects. In these roles, forms with endings (*jemanden, niemanden, jemandem, niemandem*) are very common.
+
+| Function | Question | Common forms |
+|---|---|---|
+| Direct object | Wen? | jemanden, niemanden |
+| Indirect object | Wem? | jemandem, niemandem |
+
+**Examples:**
+
+- Ich suche **jemanden** für das Projekt.  
+  *I'm looking for someone for the project.*
+- Ich habe **niemanden** im Zug getroffen.  
+  *I met no one on the train.*
+- Kannst du **jemandem** kurz helfen?  
+  *Can you help someone quickly?*
+- Von **niemandem** habe ich eine Nachricht bekommen.  
+  *I got a message from no one.*
+- **Niemanden** habe ich gestern gesehen.  
+  *I saw no one yesterday.*
+- Mit **jemandem** möchte ich noch sprechen.  
+  *I still want to speak with someone.*
+
+:::{warning}
+Do not use *man* as an object.
+
+- *Ich sehe **man*** ❌
+- Ich sehe **jemanden** ✅
+- Ich sehe **niemanden** ✅
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Use **man** for general statements about people; verb is always **3rd person singular**.
+- Use **jemand** for "someone" and **niemand** for "no one".
+- These pronouns are for **people**, not things.
+- **jemand** and **niemand** can appear as objects, often with endings: **jemanden/niemanden**, **jemandem/niemandem**.
+- At A2 level, treat **man** as a **subject** form only.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich sehe **man*** → Ich sehe **jemanden** / **niemanden**. (*man* is not an object at A2 level.)
+- *Man **sind** oft müde nach der Arbeit.* → Man **ist** oft müde nach der Arbeit. (*man* takes singular verb forms.)
+- *Ich habe mit **jemanden** gesprochen.* → Ich habe mit **jemandem** gesprochen. (Dative object after *mit*.)
+- *Jemand hat nicht angerufen.* → **Niemand** hat angerufen. (Use the negative pronoun for "no one".)
+:::
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-1
+:track: pronomen-man-jemand-und-niemand.yml
+:::
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+- [A2 > Concepts > Indirekte Fragen](/a2/concepts/indirect-questions.md)

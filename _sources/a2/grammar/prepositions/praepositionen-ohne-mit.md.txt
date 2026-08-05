@@ -1,0 +1,198 @@
+---
+myst:
+  html_meta:
+    description: "A2 German grammar: Präpositionen ohne und mit, learn the fixed case contrast ohne + accusative and mit + dative with everyday examples."
+    keywords: "german, german learning, a2, grammar, praepositionen, präpositionen, ohne, mit, accusative, dative, akkusativ, dativ, mit dem bus, ohne dich"
+    "property=og:title": "Präpositionen ohne und mit – Fixed Case Contrast"
+    "property=og:description": "A2 German grammar: Präpositionen ohne und mit, learn the fixed case contrast ohne + accusative and mit + dative with everyday examples."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Präpositionen ohne und mit
+
+> Fixed prepositions: *ohne* always takes accusative, *mit* always takes dative
+
+:::{seealso}
+
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)
+
+:::
+
+You use *ohne* and *mit* all the time in everyday German. They are especially useful because the rule is very stable: *ohne* always takes accusative, and *mit* always takes dative. If you learn this pair together, case choice becomes much easier.
+
+*Examples:*
+
+- *I go to work with the bus.*
+- *I drink coffee without sugar.*
+- *I go with you, not without you.*
+
+---
+
+## Ohne + Akkusativ
+
+The preposition *ohne* always takes the accusative case. This does not change with movement, place, or tense.
+
+| Pattern | Example |
+| --- | --- |
+| ohne + accusative noun phrase | ohne den Kaffee, ohne meine Tasche |
+| ohne + accusative pronoun | ohne mich, ohne dich, ohne ihn |
+
+**Examples:**
+
+- Ich trinke Tee {prep}`ohne` Zucker.  
+  *I drink tea without sugar.*
+- Ich gehe nie {prep}`ohne` {akk}`den` Regenschirm aus dem Haus.  
+  *I never leave the house without the umbrella.*
+- Wir fahren heute {prep}`ohne` {akk}`meine` Schwester.  
+  *Today we're going without my sister.*
+- Kommst du wirklich {prep}`ohne` {akk}`mich`?  
+  *Are you really coming without me?*
+- Er kann nicht {prep}`ohne` {akk}`dich` arbeiten.  
+  *He can't work without you.*
+
+:::{note}
+With pronouns, there is no article, only the pronoun form: *ohne mich, ohne dich, ohne ihn, ohne sie, ohne uns*.
+:::
+
+### Practice: Ohne + Akkusativ
+
+Use the following link to practice this section.
+
+---
+
+## Mit + Dativ
+
+The preposition *mit* always takes the dative case. This is also a fixed rule in all contexts.
+
+| Pattern | Example |
+| --- | --- |
+| mit + dative noun phrase | mit dem Bus, mit meiner Freundin |
+| mit + dative pronoun | mit mir, mit dir, mit ihm |
+
+**Examples:**
+
+- Ich fahre {prep}`mit` {dativ}`dem` Bus zur Arbeit.  
+  *I go to work by bus.*
+- Sie ist heute {prep}`mit` {dativ}`ihrer` Freundin in der Stadt.  
+  *Today she is in town with her friend.*
+- Er schneidet das Brot {prep}`mit` {dativ}`einem` Messer.  
+  *He cuts the bread with a knife.*
+- Kommst du {prep}`mit` {dativ}`mir` ins Kino?  
+  *Are you coming to the cinema with me?*
+- Wir gehen {prep}`mit` {dativ}`den` Kindern in den Park.  
+  *We're going to the park with the children.*
+
+:::{tip}
+Learn this mini pair as a memory anchor: **mit mir** (dative) and **ohne mich** (accusative).
+:::
+
+### Practice: Mit + Dativ
+
+Use the following link to practice this section.
+
+---
+
+## Mit in Everyday Usage
+
+At A2 level, *mit* appears very often in three common situations.
+
+| Use | Typical pattern | Example |
+| --- | --- | --- |
+| Transport | mit + vehicle | mit dem Bus, mit der U-Bahn |
+| Accompaniment | mit + person | mit meiner Freundin, mit den Kollegen |
+| Instrument / means | mit + tool | mit einem Messer, mit der Hand |
+
+**Examples:**
+
+- Wir fahren morgen {prep}`mit` {dativ}`dem` Zug nach Köln.  
+  *Tomorrow we're going to Cologne by train.*
+- Ich komme {prep}`mit` {dativ}`dem` Fahrrad.  
+  *I'm coming by bike.*
+- Sie wohnt {prep}`mit` {dativ}`ihrem` Bruder zusammen.  
+  *She lives together with her brother.*
+- Lernst du heute {prep}`mit` {dativ}`uns`?  
+  *Are you studying with us today?*
+- Er schreibt die Notiz {prep}`mit` {dativ}`einem` Stift.  
+  *He writes the note with a pen.*
+- Wir essen Suppe {prep}`mit` {dativ}`dem` Löffel.  
+  *We eat soup with a spoon.*
+
+### Practice: Mit in Everyday Usage
+
+Use the following link to practice this section.
+
+---
+
+## Der Kontrast: Ohne und Mit
+
+These two prepositions are natural opposites in meaning and very useful as a pair for memory.
+
+- Meaning opposite: **with** vs. **without**
+- Case opposite: **mit + dative** vs. **ohne + accusative**
+
+| mit + Dativ | ohne + Akkusativ | English meaning |
+| --- | --- | --- |
+| mit dem Bus | ohne den Bus | with/without the bus |
+| mit meiner Freundin | ohne meine Freundin | with/without my friend |
+| mit den Kindern | ohne die Kinder | with/without the children |
+| mit einem Regenschirm | ohne einen Regenschirm | with/without an umbrella |
+| mit mir | ohne mich | with/without me |
+
+**Examples:**
+
+- Ich fahre {prep}`mit` {dativ}`dem` Auto, aber heute gehe ich {prep}`ohne` {akk}`das` Auto zu Fuß.  
+  *I usually go by car, but today I'm going on foot without the car.*
+- Sie geht {prep}`mit` {dativ}`ihrer` Schwester ins Café, nicht {prep}`ohne` {akk}`ihre` Schwester.  
+  *She goes to the cafe with her sister, not without her sister.*
+- Wir kochen {prep}`mit` {dativ}`einem` Topf, aber nicht {prep}`ohne` {akk}`einen` Topf.  
+  *We cook with a pot, not without a pot.*
+- Kommst du {prep}`mit` {dativ}`uns` oder {prep}`ohne` {akk}`uns`?  
+  *Are you coming with us or without us?*
+
+:::{warning}
+Do not mix this with two-way prepositions (*Wechselpräpositionen*). For *ohne* and *mit*, the case is fixed every time.
+:::
+
+### Practice: Contrasting Ohne and Mit
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *ohne* always takes accusative: **ohne den Bus**, **ohne dich**.
+- *mit* always takes dative: **mit dem Bus**, **mit dir**.
+- Learn them as one pair: opposite meaning and opposite case.
+- Very common uses of *mit*: transport, accompaniment, instrument.
+- With pronouns, the contrast is very clear: **mit mir** vs. **ohne mich**.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich fahre mit \*den Bus.* → Ich fahre mit **dem** Bus. (*mit* needs dative)
+- *Ich komme ohne \*dem Schirm.* → Ich komme ohne **den** Schirm. (*ohne* needs accusative)
+- *Kommst du mit \*mich?* → Kommst du mit **mir**? (dative pronoun after *mit*)
+- *Ich gehe ohne \*dir.* → Ich gehe ohne **dich**. (accusative pronoun after *ohne*)
+
+:::
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-1
+:track: prapositionen-ohne-und-mit.yml
+:::
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Akkusativ – Grundlagen](/a2/grammar/cases/akkusativ.md)
+- [A2 > Grammar > Dativ – Grundlagen](/a2/grammar/cases/dativ.md)

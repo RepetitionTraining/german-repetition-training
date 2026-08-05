@@ -1,0 +1,86 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the verb in second position. Why the German verb stays second no matter what opens the sentence, and how inversion works."
+    keywords: "german, german learning, a1, grammar, word order, verb second, position 2, inversion, sentence structure"
+    "property=og:title": "Das Verb auf Position 2 – The Verb in Second Position"
+    "property=og:description": "A1 grammar: the verb in second position. Why the German verb stays second no matter what opens the sentence, and how inversion works."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# The Verb in Second Position
+
+German statements obey one iron rule: the conjugated verb stands in second position. Not the second word, the second slot. Whatever fills the first slot, subject or not, the verb comes right after, and everything else arranges itself behind.
+
+## The basic pattern
+
+With the subject up front, German looks like English:
+
+**Examples:**
+
+:::{div} ol-examples
+{subj}`Ich` {verb}`fahre` heute nach Berlin.
+: I am going to Berlin today.
+
+{subj}`Wir` {verb}`gehen` am Sonntag spazieren.
+: On Sunday we go for a walk.
+:::
+
+## Something else first: inversion
+
+Open with a time, a place, or anything you want to stress, and the subject slides behind the verb. The verb itself does not move; that is the whole trick.
+
+| Slot 1 | Slot 2 (verb) | Slot 3 | Rest |
+|---|---|---|---|
+| Ich | fahre | | heute nach Berlin. |
+| Heute | fahre | ich | nach Berlin. |
+| Nach der Arbeit | gehe | ich | nach Hause. |
+
+**Examples:**
+
+:::{div} ol-examples
+Heute {verb}`fahre` {subj}`ich` nach Berlin.
+: Today I am going to Berlin.
+
+Leider {verb}`habe` {subj}`ich` keine Zeit.
+: Unfortunately I have no time.
+
+Das {verb}`verstehe` {subj}`ich` nicht.
+: I don't understand that.
+:::
+
+:::{tip}
+Starting with time or place is not fancy German; it is normal German. *Heute fahre ich ...* sounds native. *Heute ich fahre ...* is the single most common word-order mistake at A1.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-3
+:track: verb-position-2.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The conjugated verb owns slot 2 in every statement.
+- Slot 1 is free: subject, time, place, or the thing you stress.
+- If slot 1 is not the subject, the subject follows the verb (inversion).
+- The verb never moves; everything else moves around it.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Heute ich fahre nach Berlin.* → Heute **fahre ich** nach Berlin. (verb stays second)
+- *\*Dann ich koche.* → Dann **koche ich**. (same rule after sequence words)
+- Counting words instead of slots: *Nach der Arbeit* is three words but one slot.
+:::
+
+## Related articles
+
+- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)
+- [A1 > Grammar > Yes/No Questions and W-Questions](/a1/grammar/sentence-structure/fragen.md)
+- [A1 > Grammar > Conjunctions und, oder, aber, denn](/a1/grammar/sentence-structure/konjunktionen.md)

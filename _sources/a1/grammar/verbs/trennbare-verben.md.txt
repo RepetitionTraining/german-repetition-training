@@ -1,0 +1,95 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: separable verbs. Why aufstehen splits into stehe ... auf, the everyday verbs that do this, and when the verb stays whole."
+    keywords: "german, german learning, a1, grammar, separable verbs, trennbare verben, aufstehen, anrufen, einkaufen, prefix"
+    "property=og:title": "Trennbare Verben – Separable Verbs"
+    "property=og:description": "A1 grammar: separable verbs. Why aufstehen splits into stehe ... auf, the everyday verbs that do this, and when the verb stays whole."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Separable Verbs
+
+Many everyday German verbs are built from a verb plus a small prefix: *auf + stehen*, *an + rufen*, *ein + kaufen*. In the present tense the prefix breaks off and moves to the very end of the sentence. The dictionary form looks like one word; the sentence shows two.
+
+## How the split works
+
+Conjugate the verb part as usual; park the prefix at the end. Whatever else the sentence contains sits in between.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich {verb}`stehe` um sieben Uhr {verb}`auf`.
+: I get up at seven o'clock. (aufstehen)
+
+Er {verb}`ruft` seine Mutter {verb}`an`.
+: He calls his mother. (anrufen)
+
+Der Kurs {verb}`fängt` um neun Uhr {verb}`an`.
+: The course starts at nine. (anfangen)
+:::
+
+In questions the same rule holds: verb up front, prefix at the end: *Kommst du mit?*
+
+## The A1 core set
+
+| Verb | Meaning | In a sentence |
+|---|---|---|
+| aufstehen | to get up | Ich stehe auf. |
+| anrufen | to call | Ich rufe dich an. |
+| einkaufen | to shop | Wir kaufen ein. |
+| fernsehen | to watch TV | Sie sehen fern. |
+| mitkommen | to come along | Kommst du mit? |
+| anfangen | to start | Der Film fängt an. |
+| aufmachen / zumachen | to open / close | Ich mache die Tür zu. |
+| abholen | to pick up | Ich hole dich ab. |
+| ankommen | to arrive | Der Zug kommt an. |
+| mitbringen | to bring along | Wir bringen Kuchen mit. |
+
+The stress falls on the prefix: **AUF**stehen, **AN**rufen. If you hear the stress on the prefix, the verb separates.
+
+## When the verb stays whole
+
+After a modal verb the separable verb goes to the end as one unbroken infinitive: *Ich muss noch **einkaufen***, *Ich möchte **mitkommen***.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich {verb}`muss` noch **einkaufen**.
+: I still have to do the shopping.
+
+Ich {verb}`möchte` morgen **mitkommen**.
+: I would like to come along tomorrow.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-2
+:track: trennbare-verben.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Present tense: verb in position 2, prefix at the very end.
+- The pattern survives questions: *Kommst du mit?*
+- After a modal, the verb stays whole at the end: *Ich muss einkaufen.*
+- Prefix stress marks a separable verb: *AUFstehen, ANrufen*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich aufstehe um sieben.* → Ich **stehe** um sieben **auf**. (the prefix must split off)
+- *\*Ich rufe an dich.* → Ich rufe dich **an**. (the prefix goes last, after everything)
+- *\*Ich muss kaufe ein.* → Ich muss **einkaufen**. (whole infinitive after a modal)
+:::
+
+## Related articles
+
+- [A1 > Grammar > Regular Verbs in the Present](/a1/grammar/verbs/regelmassige-verben.md)
+- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
+- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)

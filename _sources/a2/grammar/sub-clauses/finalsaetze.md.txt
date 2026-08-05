@@ -1,0 +1,177 @@
+---
+myst:
+  html_meta:
+    description: "A2 German grammar: Finalsätze with damit and um ... zu, learn how to express purpose and choose the right form based on same or different subjects."
+    keywords: "german, german learning, a2, grammar, finalsatz, zwecksatz, damit, um zu, purpose clause, subordinate clause, infinitive clause, same subject, different subject"
+    "property=og:title": "Finalsätze: damit und um ... zu – Purpose Clauses"
+    "property=og:description": "A2 German grammar: use damit and um ... zu to express purpose, with a clear rule for same vs. different subjects."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Finalsätze: damit und um ... zu
+
+> Purpose clauses: "so that" and "in order to"
+
+:::{seealso}
+
+- [A2 > Concepts > Indirekte Fragen (Indirect questions)](/a2/concepts/indirect-questions.md)
+- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
+
+:::
+
+Finalsätze help you say **why** you do something. In everyday English, this is often "so that" or "in order to". In German, you usually choose between two forms: **damit** and **um ... zu**.
+
+:::{important}
+
+- Use **damit** when the subject changes.
+- Use **um ... zu** when the subject stays the same.
+- In this A2 lesson, keep the purpose part after the main clause.
+
+:::
+
+*Examples:*
+
+- *I speak slowly so that you understand me.*
+- *I speak slowly in order to be understood better.*
+
+---
+
+## damit: purpose with different subjects
+
+Use {conj}`damit` when the person in the main clause is **not** the same as the person in the purpose clause.
+
+> Main clause, **{conj}`damit`** + subject + ... + **{verb}`finite verb`**.
+
+The {conj}`damit` clause is a subordinate clause, so the finite verb goes to the end.
+
+**Examples:**
+
+- Ich spreche langsam, {conj}`damit` du mich **verstehst**.  
+  *I speak slowly so that you understand me.*
+- Wir fahren früh los, {conj}`damit` ihr pünktlich **ankommt**.  
+  *We leave early so that you arrive on time.*
+- Sie erklärt die Regeln noch einmal, {conj}`damit` alle die Aufgabe **machen können**.  
+  *She explains the rules again so that everyone can do the task.*
+- Er schaltet das Licht an, {conj}`damit` seine Oma besser **sehen kann**.  
+  *He turns on the light so that his grandma can see better.*
+- Ich gebe dir meine Nummer, {conj}`damit` du mich später **anrufen kannst**.  
+  *I'm giving you my number so that you can call me later.*
+
+:::{tip}
+A quick check: if you can ask "Who does the second action?" and the answer is a different person, choose {conj}`damit`.
+:::
+
+### Practice: damit
+
+Use the following link to practice this section.
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-2
+:track: nebensatz-mit-damit.yml
+:::
+
+## um ... zu: purpose with the same subject
+
+Use {conj}`um` ... {verb}`zu` when the subject is the **same** in both parts.
+
+> Main clause, **{conj}`um`** + ... + **{verb}`zu`** + infinitive.
+
+This is an infinitive construction, so there is no conjugated verb inside the purpose part.
+
+**Examples:**
+
+- Ich lerne jeden Abend, {conj}`um` die Prüfung {verb}`zu` bestehen.  
+  *I study every evening in order to pass the exam.*
+- Er geht früh schlafen, {conj}`um` morgen fit {verb}`zu` sein.  
+  *He goes to bed early in order to be fit tomorrow.*
+- Wir nehmen ein Taxi, {conj}`um` schneller {verb}`anzukommen`.  
+  *We take a taxi in order to arrive faster.*
+- Sie spart Geld, {conj}`um` ein neues Handy {verb}`zu` kaufen.  
+  *She saves money in order to buy a new phone.*
+- Ich mache weniger Überstunden, {conj}`um` mehr Zeit für meine Familie {verb}`zu` haben.  
+  *I do less overtime in order to have more time for my family.*
+- Er versucht, mit dem Rauchen {verb}`aufzuhören`, {conj}`um` gesünder {verb}`zu` leben.  
+  *He is trying to stop smoking in order to live more healthily.*
+
+:::{note}
+With separable verbs, {verb}`zu` goes between prefix and verb stem: *aufhören* → *aufzuhören*, *ankommen* → *anzukommen*.
+:::
+
+### Practice: um ... zu
+
+Use the following link to practice this section.
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-2
+:track: um-zu-konstruktion.yml
+:::
+
+## Choosing between damit and um ... zu
+
+Use this rule every time:
+
+| Situation | Correct form | Example |
+| --- | --- | --- |
+| Same subject in both parts | **um ... zu** | Ich gehe in die Bibliothek, **um** ruhig **zu** lernen. |
+| Different subjects in both parts | **damit** | Ich gehe in die Bibliothek, **damit** meine Freundin in Ruhe lernen **kann**. |
+
+**More contrasts:**
+
+- Ich rufe früh an, {conj}`um` einen Termin {verb}`zu` bekommen.  
+  *I call early in order to get an appointment.*
+- Ich rufe früh an, {conj}`damit` du den Termin nicht **verpasst**.  
+  *I call early so that you don't miss the appointment.*
+- Wir kaufen Obst und Gemüse, {conj}`um` gesünder {verb}`zu` essen.  
+  *We buy fruit and vegetables in order to eat more healthily.*
+- Wir kaufen Obst und Gemüse, {conj}`damit` die Kinder mehr Vitamine **bekommen**.  
+  *We buy fruit and vegetables so that the children get more vitamins.*
+
+:::{warning}
+For this A2 pattern, do not start a sentence with a {conj}`damit` clause or an {conj}`um` ... {verb}`zu` clause. Keep the main clause first.
+:::
+
+### Practice: choosing the right form
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- {conj}`damit` + subordinate clause is for **different subjects**.
+- In {conj}`damit` clauses, the finite verb goes to the **end**.
+- {conj}`um` ... {verb}`zu` + infinitive is for the **same subject**.
+- In {conj}`um` ... {verb}`zu` structures, there is **no conjugated verb** in the purpose part.
+- For this A2 lesson, keep these purpose structures **after** the main clause.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ich spreche langsam, um du zu verstehen.* -> Ich spreche langsam, **damit du mich verstehst**. (different subjects -> use **damit**)
+- *Ich lerne viel, damit die Prüfung bestehen.* -> Ich lerne viel, **um die Prüfung zu bestehen**. (same subject -> use **um ... zu**)
+- *Ich kaufe Brot, damit ich morgen habe.* -> Ich kaufe Brot, damit ich morgen Brot **habe**. (finite verb at the end in the damit-clause)
+- *Wir fahren früher, um wir pünktlich zu sein.* -> Wir fahren früher, **um pünktlich zu sein**. (no extra subject in um...zu)
+- *Er macht das Fenster zu um besser zu schlafen.* -> Er macht das Fenster zu**, um** besser zu schlafen. (comma before **um**)
+
+:::
+
+---
+
+## Full practice
+
+Click the link below to practice everything from this page with an interactive tutor.
+
+## Related articles
+
+- [A2 > Concepts > Indirekte Fragen (Indirect questions)](/a2/concepts/indirect-questions.md)
+- [A2 > Concepts > Polite requests, wishes & advice](/a2/concepts/polite-requests-wishes-advice.md)
+- [A2 > Grammar > werden](/a2/grammar/verbs/verb-werden.md)

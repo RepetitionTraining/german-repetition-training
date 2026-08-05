@@ -1,0 +1,120 @@
+---
+myst:
+  html_meta:
+    description: "A1 concept: introducing yourself. Say your name, where you're from, where you live, and your age, and ask the same questions back."
+    keywords: "german, a1, concepts, introducing yourself, sich vorstellen, wie heißt du, woher kommst du, name age origin"
+    "property=og:title": "Introducing yourself"
+    "property=og:description": "A1 concept: introducing yourself. Say your name, where you're from, where you live, and your age, and ask the same questions back."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Introducing yourself
+
+After this page you can say who you are: your name, where you come from, where you live, and how old you are. You can also ask someone else the same questions, both formally (*Sie*) and informally (*du*).
+
+## When to use it
+
+- Meeting someone for the first time (course, work, neighbours)
+- Checking in somewhere and giving your details
+- Answering the most common first questions people ask a learner
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| Ich heiße … | My name is … | most common opener |
+| Mein Name ist … | My name is … | slightly more formal |
+| Ich komme aus … | I come from … | country or city |
+| Ich wohne in … | I live in … | city or district |
+| Ich bin … Jahre alt. | I am … years old. | with a number |
+| Wie heißen Sie? / Wie heißt du? | What is your name? | formal / informal |
+| Woher kommen Sie? / Woher kommst du? | Where are you from? | formal / informal |
+| Freut mich! | Nice to meet you! | fixed reply |
+
+## Saying who you are
+
+Three verbs do almost all the work: *heißen* (to be called), *kommen* (to come), and *wohnen* (to live). With *ich* they all end in **-e**.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich heiße Anna Schmidt.
+: My name is Anna Schmidt.
+
+Ich komme aus Spanien.
+: I come from Spain.
+
+Ich wohne in Hamburg.
+: I live in Hamburg.
+
+Ich bin 25 Jahre alt.
+: I am 25 years old.
+:::
+
+## Asking the questions back
+
+A conversation goes both ways. The question words are *wie* (how/what), *woher* (from where), and *wo* (where). Choose *Sie* or *du* and keep it consistent.
+
+| Formal (Sie) | Informal (du) | English |
+|---|---|---|
+| Wie heißen Sie? | Wie heißt du? | What's your name? |
+| Woher kommen Sie? | Woher kommst du? | Where are you from? |
+| Wo wohnen Sie? | Wo wohnst du? | Where do you live? |
+| Wie alt sind Sie? | Wie alt bist du? | How old are you? |
+
+**Examples:**
+
+:::{div} ol-examples
+Wie heißen Sie? – Ich heiße Müller.
+: What is your name? My name is Müller.
+
+Woher kommst du? – Ich komme aus der Türkei.
+: Where are you from? I'm from Turkey.
+
+Wo wohnst du? – Ich wohne in Berlin.
+: Where do you live? I live in Berlin.
+
+Und du?
+: And you? (the easiest way to return any question)
+:::
+
+:::{note}
+Use **Sie** with adults you don't know, at offices, and in shops. Use **du** with friends, family, children, and usually between students in a course. When unsure, start with *Sie*.
+:::
+
+## Register and tone
+
+Germans usually give surnames in formal settings (*Ich heiße Weber*) and first names in informal ones. *Freut mich!* is the safe, friendly response to any introduction. A handshake is common in formal contexts.
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/concepts/part-1
+:track: introducing-yourself.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Four sentences carry a full self-introduction: *Ich heiße … / Ich komme aus … / Ich wohne in … / Ich bin … Jahre alt.*
+- Return questions with *wie*, *woher*, and *wo*, or simply *Und du? / Und Sie?*
+- Pick *Sie* or *du* and stay consistent. Default to *Sie* with strangers.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich bin heiße Anna.* → Ich **heiße** Anna. (heißen is the verb, don't add bin)
+- *\*Ich habe 25 Jahre alt.* → Ich **bin** 25 Jahre alt. (age uses sein, not haben)
+- *\*Wo kommst du?* → **Woher** kommst du? (origin asks "from where")
+:::
+
+## Related articles
+
+- Previous concept: [Greetings and farewells](/a1/concepts/greetings-and-farewells.md)
+- Next concept: [Spelling and the alphabet](/a1/concepts/spelling-and-the-alphabet.md)
+- [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)
+- [A1 > Grammar > Personal Pronouns – Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
+- [A1 > Grammar > Question Words](/a1/grammar/question-words/fragewoerter-umstaende.md)

@@ -1,0 +1,166 @@
+---
+myst:
+  html_meta:
+    description: "A2 grammar: was für ein and welch-, learn how to ask 'What kind of?' and 'Which one?' in German with declension tables and examples."
+    keywords: "german, german learning, a2, grammar, was für ein, welcher, welche, welches, interrogative determiner, interrogativartikel, what kind of, which one, german questions"
+    "property=og:title": "Interrogativartikel: was für ein und welch- – What kind of? vs. Which?"
+    "property=og:description": "A2 grammar: was für ein and welch-, learn how to ask 'What kind of?' and 'Which one?' in German with declension tables and examples."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Interrogativartikel: was für ein und welch-
+
+> Asking "What kind of?" vs. "Which one?"
+
+Two German question words often confuse learners at this level: *was für ein* and *welch-*. They look similar and can both be translated as "what", but they ask very different things. Once you know the difference, you'll ask much more precise questions.
+
+---
+
+## Was für ein(e)...? – What kind of?
+
+Use *was für ein* when you want to know the **type or nature** of something. You have no particular set of options in mind, the question is open. It is the equivalent of "What kind of?" or "What sort of?".
+
+The word *ein* declines just like the indefinite article – *ein, eine, einen*, etc. The noun after *was für ein* takes the case determined by its role in the sentence.
+
+| Case | Masculine | Feminine | Neuter |
+|---|---|---|---|
+| Nom. | was für **ein** ... | was für **eine** ... | was für **ein** ... |
+| Akk. | was für **einen** ... | was für **eine** ... | was für **ein** ... |
+| Dat. | was für **einem** ... | was für **einer** ... | was für **einem** ... |
+
+:::{note}
+With **plural nouns** and **uncountable nouns** (things you cannot count), drop the *ein* entirely and use bare *was für*:
+
+- Was für **Bücher** liest du? – What kind of books do you read?
+- Was für **Musik** magst du? – What kind of music do you like?
+:::
+
+### Examples
+
+- Was für **ein** {noun}`Auto` hast du?  
+  *What kind of car do you have?*
+
+- Was für **eine** {noun}`Wohnung` suchst du?  
+  *What kind of apartment are you looking for?*
+
+- Was für **einen** {noun}`Beruf` hat sie?  
+  *What kind of job does she have?*
+
+- Was für **ein** {noun}`Film` war das?  
+  *What kind of film was that?*
+
+- Was für **ein** {noun}`Buch` liest du gerade?  
+  *What kind of book are you reading at the moment?*
+
+- Was für **Sprachen** sprichst du?  
+  *What kind of languages do you speak?*
+
+---
+
+## Welch-...? – Which one?
+
+Use *welch-* when you are asking about a **specific choice from a known set**. There are particular options already in view, on a menu, in a shop, on a list, and you want to know which one is meant or preferred.
+
+*Welch-* declines like the definite article (*der/die/das*). Match the ending to the gender and case of the noun.
+
+| Case | Masculine | Feminine | Neuter | Plural |
+|---|---|---|---|---|
+| Nom. | **welcher** | **welche** | **welches** | **welche** |
+| Dat. | **welchem** | **welcher** | **welchem** | **welchen** |
+| Akk. | **welchen** | **welche** | **welches** | **welche** |
+
+:::{tip}
+A quick way to remember the endings: they follow the same pattern as *der, die, das* → *welcher, welche, welches*. If you know the definite article for a noun, you know the nominative form of *welch-*.
+:::
+
+### Examples
+
+- **Welches** {noun}`Zimmer` ist frei?  
+  *Which room is free?*
+
+- **Welchen** {noun}`Zug` nimmst du?  
+  *Which train are you taking?*
+
+- **Welche** {noun}`Jacke` gefällt dir am besten?  
+  *Which jacket do you like best?*
+
+- Mit **welchem** {noun}`Bus` fährst du?  
+  *Which bus are you taking?*
+
+- **Welche** {noun}`Filme` habt ihr gesehen?  
+  *Which films did you watch?*
+
+- **Welchen** {noun}`Kaffee` möchtest du?  
+  *Which coffee would you like?*
+
+---
+
+## The difference at a glance
+
+The choice between the two question words depends on one thing: **do you have a specific set in mind?**
+
+- **No specific set → was für ein** (open question about type)
+- **Known set in view → welch-** (choosing from specific options)
+
+| Situation | Question | Translation |
+|---|---|---|
+| You see someone with a car you don't recognise | Was für ein Auto ist das? | What kind of car is that? |
+| You're at a car rental, choosing between three models | Welches Auto nimmst du? | Which car are you taking? |
+| You're curious about someone's taste | Was für Musik hörst du? | What kind of music do you listen to? |
+| You're holding up two concert tickets | Welches Konzert möchtest du? | Which concert would you like? |
+
+:::{note}
+In practice, the two words can sometimes overlap. Germans may occasionally use *welch-* where *was für ein* would be more natural, and vice versa. At A2 level, focus on the core contrast: **type/kind = was für ein**, **specific choice = welch-**.
+:::
+
+### More contrast examples
+
+- Was für **einen** Tee möchtest du? (open, you haven't seen the options yet)  
+  *What kind of tea would you like?*
+
+- **Welchen** Tee möchtest du? (a menu or tea box is in front of you)  
+  *Which tea would you like?*
+
+- Was für **ein** Hotel habt ihr gebucht?  
+  *What kind of hotel did you book?*
+
+- **Welches** Hotel habt ihr gebucht? (choosing from a shortlist you both know)  
+  *Which hotel did you book?*
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **was für ein(e)** asks about the **type or kind** of something, an open question with no specific set of options.
+  - The *ein* declines like the indefinite article to match gender and case.
+  - Plural and uncountable nouns: drop *ein*, just *was für* + noun.
+- **welch-** asks about a **specific choice** from a known or visible set of options.
+  - Declines like the definite article: *welcher / welche / welches / welche*.
+- The *für* in *was für ein* does **not** fix the case of the noun, the noun's case comes from its grammatical role in the sentence.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Was für \*welches Auto hast du?* → Use one or the other, not both: **Was für ein Auto hast du?**
+- *Was für **ein** Bücher liest du?* → Plural nouns drop the *ein*: **Was für Bücher liest du?**
+- *\*Welche Auto nimmst du?* (masculine noun, Akk) → **Welchen** Auto nimmst du?, match the ending to gender and case.
+- *Was für **einen** Film läuft im Kino?* → The film is the subject (Nom): **Was für ein Film** läuft im Kino?
+- Using *welch-* to ask about type when there are no visible options: prefer **was für ein** for open type questions.
+:::
+
+---
+
+:::{audio-examples}
+:album: a2/grammar/part-1
+:track: interrogativartikel-was-fur-ein-und-welcher.yml
+:::
+
+---
+
+## Related articles
+
+- [A2 > Concepts > Indirect questions](/a2/concepts/indirect-questions.md)

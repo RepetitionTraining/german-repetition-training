@@ -1,0 +1,97 @@
+---
+myst:
+  html_meta:
+    description: "A1 concept: spelling and the alphabet. Spell your name aloud, ask how a word is written, and follow letter-by-letter dictation in German."
+    keywords: "german, a1, concepts, alphabet, spelling, buchstabieren, wie schreibt man das, umlaut, letters"
+    "property=og:title": "Spelling and the alphabet"
+    "property=og:description": "A1 concept: spelling and the alphabet. Spell your name aloud, ask how a word is written, and follow letter-by-letter dictation in German."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Spelling and the alphabet
+
+After this page you can spell your name and other words aloud, ask someone to spell theirs, and follow when a German speaker dictates letters to you, umlauts included.
+
+## When to use it
+
+- Giving your name on the phone or at a reception desk
+- Filling in forms together with an official
+- Checking how an unfamiliar word or name is written
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| Wie schreibt man das? | How do you spell that? | literally "how does one write that" |
+| Können Sie das buchstabieren? | Can you spell that? | formal |
+| Ich buchstabiere: ... | I'll spell it: ... | then the letters |
+| mit Doppel-S | with double S | for ss |
+| mit Umlaut | with an umlaut | for ä, ö, ü |
+| Noch einmal, bitte. | Once again, please. | during dictation |
+| Langsamer, bitte. | Slower, please. | during dictation |
+
+## The letters that trip you up
+
+Most German letter names are close to English, but a handful sound misleading. These are worth drilling:
+
+| Letter | Sounds like | Watch out |
+|---|---|---|
+| E | "ay" | sounds like English A |
+| I | "ee" | sounds like English E |
+| V | "fow" | not "vee" |
+| W | "vay" | this one is "vee"-like |
+| Z | "tset" | never "zee" |
+
+German adds four letters of its own: **ä, ö, ü** (the umlauts) and **ß** (called *Eszett* or *scharfes S*).
+
+## Spelling a name
+
+Say the letters one by one. For clarity, Germans often anchor letters to first names: *A wie Anton, B wie Berta*. You will hear this on the phone constantly.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich buchstabiere: A, N, N, A.
+: I'll spell it: A, N, N, A.
+
+Mein Name ist Meyer: M, E, Y, E, R.
+: My name is Meyer: M, E, Y, E, R.
+
+Schreibt man das mit V oder mit F?
+: Is that written with V or with F?
+:::
+
+:::{tip}
+If dictation gets too fast, two short phrases save you: *Noch einmal, bitte* and *Langsamer, bitte*. No full sentence needed.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/concepts/part-1
+:track: spelling-and-the-alphabet.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Wie schreibt man das?* asks for spelling; *Ich buchstabiere* announces it.
+- Drill the misleading letters: E, I, V, W, Z.
+- Know the extras: *ä, ö, ü* (mit Umlaut) and *ß* (Eszett).
+- *A wie Anton* anchors a letter to a name and avoids mishearing.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- Saying English letter names: German *E* is "ay", German *I* is "ee". Mixing systems garbles the spelling.
+- Forgetting to mention the umlaut: *Müller* spelled without *mit Ü* becomes *Muller* on the form.
+- *\*Wie buchstabiert man das?* is understandable, but the everyday question is **Wie schreibt man das?**
+:::
+
+## Related articles
+
+- Previous concept: [Introducing yourself](/a1/concepts/introducing-yourself.md)
+- Next concept: [Numbers and personal data](/a1/concepts/numbers-and-personal-data.md)

@@ -1,0 +1,133 @@
+---
+myst:
+  html_meta:
+    description: "B1: German strong adjective declension, adjective endings when no article precedes the noun (Adjektive ohne Artikel)."
+    keywords: "german, german learning, b1, grammar, adjective declension, strong declension, starke Deklination, adjektive ohne artikel, adjective endings, viel wenig einige"
+    "property=og:title": "Adjektive ohne Artikel – Strong Adjective Declension"
+    "property=og:description": "B1: Learn the strong adjective endings used in German when no article precedes a noun."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Adjektive ohne Artikel
+
+> Strong adjective endings, when there is no article before the noun
+
+When a German noun stands alone, with no definite or indefinite article, the adjective before it has to do all the work. It must signal the gender, case, and number of the noun on its own. These endings are called **strong endings** (*starke Endungen*).
+
+You will encounter this pattern regularly: on menus and shopping lists, in recipes, after quantity words like *viel* and *einige*, and in natural everyday phrases like *frisches Brot* or *heißer Kaffee*.
+
+---
+
+## The strong endings
+
+When no article is present, the adjective takes on the job of the article, it carries the case marker. Compare the endings to the definite article forms you already know:
+
+| Case | Masculine | Feminine | Neuter | Plural |
+|---|---|---|---|---|
+| Nominative | -**er** | -**e** | -**es** | -**e** |
+| Accusative | -**en** | -**e** | -**es** | -**e** |
+| Dative | -**em** | -**er** | -**em** | -**en** |
+| Genitive | -**en** (\*) | -**er** | -**en** (\*) | -**er** |
+
+(\*) Genitive masculine and neuter use **-en**, not -es.
+
+**Full examples:**
+
+| Case | Masculine | Feminine | Neuter | Plural |
+|---|---|---|---|---|
+| Nominative | **frischer** Kaffee | **kalte** Milch | **frisches** Brot | **alte** Häuser |
+| Accusative | **frischen** Kaffee | **kalte** Milch | **frisches** Brot | **alte** Häuser |
+| Dative | **frischem** Kaffee | **kalter** Milch | **frischem** Brot | **alten** Häusern |
+| Genitive | **frischen** Kaffees | **kalter** Milch | **frischen** Brotes | **alter** Häuser |
+
+### Examples
+
+- **Schwarzer** Kaffee schmeckt mir am besten.  
+  _Black coffee tastes best to me._ (Nominative masculine)
+
+- Möchtest du **heißen** Tee oder **kalte** Milch?  
+  _Would you like hot tea or cold milk?_ (Accusative masculine / feminine)
+
+- Mit **frischem** Brot und **gutem** Käse ist das Frühstück perfekt.  
+  _With fresh bread and good cheese, breakfast is perfect._ (Dative neuter / masculine)
+
+- Der Duft **frischen** Brotes erfüllt die ganze Küche.  
+  _The smell of fresh bread fills the whole kitchen._ (Genitive neuter, note the -en ending, not -es)
+
+- Nach **langer** Reise bin ich wirklich müde.  
+  _After a long journey, I'm really tired._ (Dative feminine)
+
+- **Gute** Freunde muss man pflegen.  
+  _Good friends are worth keeping._ (Plural Nominative)
+
+:::{note}
+In the Genitive, masculine and neuter nouns already add **-s** or **-es** to the noun itself (e.g., *Kaffees*, *Brotes*). Because the noun already shows the Genitive, the adjective uses **-en** rather than -es to avoid over-marking the case.
+:::
+
+---
+
+## After quantity words
+
+Many German quantity words, like *viel*, *wenig*, *einige*, *mehrere*, and *andere*, do not carry a case ending of their own when used in certain contexts. In these situations, the adjective that follows them must still show the case, gender, and number, so it takes the strong ending.
+
+This happens most often:
+- with **viel** and **wenig** in singular (they are rarely declined in everyday speech)
+- with **einige**, **mehrere**, **andere**, and **manche** in plural
+- with **ein paar** (a couple of / a few), which is always undeclined
+- after **cardinal numbers** (zwei, drei, vier …)
+
+### Examples
+
+- Sie hat viel **freie** Zeit am Wochenende.  
+  _She has a lot of free time at the weekend._ (Nominative feminine after *viel*)
+
+- Ich trinke täglich viel **heißen** Kaffee.  
+  _I drink a lot of hot coffee every day._ (Accusative masculine after *viel*)
+
+- Mit wenig **frischem** Gemüse lässt sich trotzdem gut kochen.  
+  _You can still cook well with little fresh produce._ (Dative neuter after *wenig*)
+
+- Einige **nette** Kollegen haben mir beim Umzug geholfen.  
+  _Several nice colleagues helped me with the move._ (Nominative plural after *einige*)
+
+- Ich brauche ein paar **warme** Pullover für den Herbst.  
+  _I need a few warm sweaters for autumn._ (Accusative plural after *ein paar*)
+
+- Drei **lange** Meetings in einem Tag sind anstrengend.  
+  _Three long meetings in one day are exhausting._ (Nominative plural after a number)
+
+:::{tip}
+*Viel* and *wenig* in the singular are almost never declined in everyday spoken German. Treat them as invisible, the adjective that follows them always takes the strong ending.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+- Use strong endings when **no article** appears before the adjective and noun.
+- Strong endings are also required after *viel*, *wenig*, *einige*, *mehrere*, and similar quantity words that do not carry their own case marker.
+- The strong endings are **almost identical** to the endings of the definite article (*der*, *die*, *das*).
+- The only exceptions are the **Genitive masculine and neuter**: the adjective takes **-en** (not -es), because the noun itself already signals the Genitive with its own -s ending.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+- *\*frischen Kaffee* (Nominative) → **frischer Kaffee** (Nominative masculine needs -er, not -en)
+- *\*mit viel frischem Musik* → mit viel **frischer** Musik (Dative feminine is -er, not -em; only masculine and neuter Dative take -em)
+- *\*mit frisches Brot* → mit **frischem** Brot (Dative neuter takes -em, not -es)
+- *\*der Geschmack frisches Kaffees* → der Geschmack **frischen** Kaffees (Genitive masculine: use -en, not -es)
+- *\*der Geruch frisches Brotes* → der Geruch **frischen** Brotes (Genitive neuter: use -en, not -es)
+- Forgetting strong endings after *einige*: *\*einige netten Kollegen* → **einige nette Kollegen** (Nominative plural strong ending is -e)
+:::
+
+---
+
+## Related articles
+
+- [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)
+- [B1 > Grammar > Komparativ und Superlativ vor Nomen](/b1/grammar/komparativ-superlativ.md)
+- [B1 > Grammar > Adjektive als Nomen](/b1/grammar/adjektive-als-nomen.md)
+- [B1 > Grammar > Partizip als Adjektiv](/b1/grammar/partizip-als-adjektiv.md)
+- [B1 > Concepts > Expressing opinions](/b1/concepts/expressing-opinions.md)

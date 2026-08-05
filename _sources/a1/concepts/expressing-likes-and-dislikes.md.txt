@@ -1,0 +1,102 @@
+---
+myst:
+  html_meta:
+    description: "A1 concept: likes and dislikes. Say what you enjoy doing with gern and what you like or don't like with mögen."
+    keywords: "german, a1, concepts, likes, dislikes, gern, mögen, ich mag, hobbies, preferences"
+    "property=og:title": "Expressing likes and dislikes"
+    "property=og:description": "A1 concept: likes and dislikes. Say what you enjoy doing with gern and what you like or don't like with mögen."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Expressing likes and dislikes
+
+After this page you can talk about what you enjoy: activities with *gern*, things with *mögen*, and the negative of both. This unlocks hobby talk, food preferences, and most small talk beyond introductions.
+
+## When to use it
+
+- Answering *Was machst du gern?* about hobbies and free time
+- Saying what food and drink you like or avoid
+- Reacting to suggestions with a clear like or dislike
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| Ich koche gern. | I like cooking. | gern after the verb |
+| Ich arbeite nicht gern. | I don't like working. | nicht gern |
+| Ich mag Kaffee. | I like coffee. | mögen + thing |
+| Ich mag keinen Fisch. | I don't like fish. | mögen + kein |
+| Magst du ...? | Do you like ...? | informal |
+| Mögen Sie ...? | Do you like ...? | formal |
+| Das gefällt mir. | I like that. | fixed chunk |
+
+## Liking activities: *gern*
+
+German has no verb for "to like doing". Instead, take the activity verb and drop *gern* after it: *Ich koche gern*, literally "I cook gladly". The negative puts *nicht* before *gern*.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich spiele **gern** Fußball.
+: I like playing football.
+
+Sie tanzt **gern**.
+: She likes dancing.
+
+Ich arbeite **nicht gern** am Wochenende.
+: I don't like working at the weekend.
+:::
+
+## Liking things: *mögen*
+
+For nouns, use *mögen*: *Ich mag Kaffee*. The forms you need now: *ich mag, du magst, er/sie mag, Sie mögen*. The negative uses *kein*: *Ich mag keinen Fisch*.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich mag {akk}`den Sommer`.
+: I like summer.
+
+Er mag Tiere.
+: He likes animals.
+
+Ich mag {akk}`keinen Fisch`.
+: I don't like fish.
+:::
+
+:::{tip}
+*Gern* for doing, *mögen* for things. If there is an activity verb in the sentence, reach for *gern*; if only a noun, reach for *mögen*.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/concepts/part-1
+:track: expressing-likes-and-dislikes.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Activities: verb + *gern*. *Ich lese gern.*
+- Things: *mögen*. *Ich mag Kaffee.*
+- Negatives: *nicht gern* for activities, *mögen + kein* for things.
+- *Was machst du gern?* is the hobby question to expect and to ask.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich gern koche.* → Ich koche **gern**. (gern comes after the verb)
+- *\*Ich mag schwimmen gern.* → Ich schwimme **gern**. (activity: gern, not mögen)
+- *\*Ich mag nicht Fisch.* → Ich mag **keinen** Fisch. (nouns are negated with kein)
+:::
+
+## Related articles
+
+- Previous concept: [Talking about profession and origin](/a1/concepts/talking-about-profession-and-origin.md)
+- Next concept: [Talking about family](/a1/concepts/talking-about-family.md)
+- [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)
+- [A1 > Grammar > gern, lieber, am liebsten](/a1/grammar/adjectives/gern-lieber.md)

@@ -1,0 +1,104 @@
+---
+myst:
+  html_meta:
+    description: "A1 concept: time and days. Ask and tell the time, name the days of the week and months, and use um, am, and im correctly."
+    keywords: "german, a1, concepts, time, uhrzeit, wie spät, days of the week, wochentage, months, halb vier"
+    "property=og:title": "Telling the time and days"
+    "property=og:description": "A1 concept: time and days. Ask and tell the time, name the days of the week and months, and use um, am, and im correctly."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Telling the time and days
+
+After this page you can ask what time it is and understand the answer, name the days of the week and the months, and place events in time with the three little words *um*, *am*, and *im*. Everything here builds on the numbers you already know.
+
+## When to use it
+
+- Asking or giving the time
+- Arranging when something happens: appointments, opening hours, train times
+- Talking about your week and your plans
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| Wie spät ist es? | What time is it? | |
+| Es ist drei Uhr. | It is three o'clock. | |
+| Es ist halb vier. | It is half past THREE. | see below |
+| um sieben (Uhr) | at seven (o'clock) | clock times |
+| am Montag | on Monday | days |
+| im Juli | in July | months |
+| heute, morgen | today, tomorrow | |
+
+## Asking and telling the time
+
+*Wie spät ist es?* asks the time; the answer starts with *Es ist ...*. Full hours use *Uhr*: *Es ist drei Uhr*. Minutes work with *nach* (past) and *vor* (to): *zehn nach sechs*, *Viertel vor neun*.
+
+One form needs special care: **halb vier** means half past THREE, not half past four. German looks ahead to the coming hour.
+
+**Examples:**
+
+:::{div} ol-examples
+Es ist Viertel nach acht.
+: It is quarter past eight.
+
+Es ist halb vier.
+: It is half past three.
+
+Der Film beginnt um zwanzig Uhr.
+: The film starts at eight in the evening.
+:::
+
+Official times (transport, TV, opening hours) use the 24-hour clock: *zwanzig Uhr* is 8 pm.
+
+## Days, months, and the three little words
+
+The days: *Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag*. The months: *Januar* through *Dezember*, close cousins of their English names.
+
+Three prepositions place events in time, each locked to its own kind of time word: **um** + clock time, **am** + day, **im** + month.
+
+**Examples:**
+
+:::{div} ol-examples
+Am Montag arbeite ich.
+: On Monday I work.
+
+Im Juli habe ich Urlaub.
+: In July I am on holiday.
+
+Ich komme um sieben.
+: I am coming at seven.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/concepts/part-1
+:track: telling-the-time-and-days.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Wie spät ist es? Es ist ...* handles the time; *nach* is past, *vor* is to.
+- *Halb vier* = 3:30. German names the hour that is coming.
+- *um* + clock time, *am* + day, *im* + month.
+- Official Germany runs on the 24-hour clock.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- Hearing *halb vier* as 4:30 → it is **3:30**. (the most common time mistake there is)
+- *\*in Montag / an Juli* → **am** Montag, **im** Juli. (each time word has its preposition)
+- *\*Ich komme am sieben Uhr.* → Ich komme **um** sieben Uhr. (clock times take um)
+:::
+
+## Related articles
+
+- Previous concept: [Talking about family](/a1/concepts/talking-about-family.md)
+- Next concept: [Describing daily routine](/a1/concepts/describing-daily-routine.md)
+- [Numbers and personal data](/a1/concepts/numbers-and-personal-data.md)
+- [A1 > Grammar > Temporal Prepositions](/a1/grammar/prepositions/temporale-praepositionen.md)

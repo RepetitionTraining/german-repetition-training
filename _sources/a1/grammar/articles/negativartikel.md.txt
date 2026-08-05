@@ -1,0 +1,124 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: kein, keine. Negating nouns in German with the negative article in the nominative and accusative, with examples and common mistakes."
+    keywords: "german, german learning, a1, grammar, negative article, kein keine, negativartikel, negation, keinen"
+    "property=og:title": "Negativartikel – Negative Articles"
+    "property=og:description": "A1 grammar: kein, keine. Negating nouns in German with the negative article in the nominative and accusative, with examples and common mistakes."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Negative Articles
+
+:::{admonition} Prerequisites
+:class: note
+Before reading this article, make sure you are comfortable with:
+- [A1 > Grammar > Indefinite Articles](/a1/grammar/articles/unbestimmter-artikel.md)
+:::
+
+To negate a noun, German doesn't say *nicht ein*. It has its own word: **kein**. It covers English *not a*, *no*, and *not any*, and it takes the same endings as *ein*, plus a plural form that *ein* doesn't have.
+
+## The forms: *kein*, *keine*
+
+| | Masculine | Feminine | Neuter | Plural |
+|---|---|---|---|---|
+| Negative article | **kein** | **keine** | **kein** | **keine** |
+
+The endings mirror *ein/eine*, but unlike *ein*, kein has a plural: *keine*.
+
+**Examples:**
+
+:::{div} ol-examples
+Das ist {article}`kein` Bahnhof.
+: That is not a train station.
+
+Das ist {article}`keine` Straße.
+: That is not a street.
+
+Das ist {article}`kein` Rathaus.
+: That is not a town hall.
+
+Das sind {article}`keine` Autos.
+: Those are not cars. (plural)
+:::
+
+## Accusative: *kein* becomes *keinen*
+
+The same accusative pattern as *ein*: only the masculine form changes, *kein* becomes **keinen**.
+
+| | Masculine | Feminine | Neuter | Plural |
+|---|---|---|---|---|
+| Nominative | kein | keine | kein | keine |
+| Accusative | **keinen** | keine | kein | keine |
+
+**Examples:**
+
+:::{div} ol-examples
+Ich habe {akk}`keinen` Hunger.
+: I'm not hungry. (literally: I have no hunger)
+
+Er hat {akk}`keine` Zeit.
+: He has no time.
+
+Wir haben {akk}`kein` Auto.
+: We don't have a car.
+
+Sie hat {akk}`keine` Geschwister.
+: She has no siblings. (plural)
+:::
+
+:::{tip}
+Some very common chunks with accusative *kein*: *keinen Hunger*, *keinen Durst*, *keine Zeit*, *keine Lust*, *kein Geld*. Learn them as fixed phrases.
+:::
+
+## *kein* or *nicht*?
+
+**Kein** negates nouns (wherever you could say *ein*, or where there is no article at all). **Nicht** negates everything else: verbs, adjectives, and specific known things.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich habe {article}`kein` Auto.
+: I don't have a car. (noun, so kein)
+
+Das ist **nicht** das Rathaus.
+: That is not the town hall. (definite article, so nicht)
+
+Ich arbeite heute **nicht**.
+: I'm not working today. (verb, so nicht)
+:::
+
+:::{note}
+Full decision rules and word-order details are in [Negation: nicht und kein](/a1/grammar/sentence-structure/negation.md).
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-1
+:track: negativartikel.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **kein** means *not a* or *no*. The endings mirror *ein/eine*, plus plural **keine**.
+- Accusative: only masculine changes, *kein* becomes **keinen**.
+- *kein* negates nouns. *nicht* negates everything else.
+- Learn the chunks: *keinen Hunger, keine Zeit, kein Geld*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Das ist nicht ein Bahnhof.* → Das ist **kein** Bahnhof. (never *nicht ein*)
+- *\*Ich habe kein Hunger.* → Ich habe **keinen** Hunger. (Hunger is masculine, direct object)
+- *\*Das sind kein Autos.* → Das sind **keine** Autos. (plural)
+:::
+
+## Related articles
+
+- [A1 > Grammar > Indefinite Articles](/a1/grammar/articles/unbestimmter-artikel.md)
+- [A1 > Grammar > Negation: nicht und kein](/a1/grammar/sentence-structure/negation.md)

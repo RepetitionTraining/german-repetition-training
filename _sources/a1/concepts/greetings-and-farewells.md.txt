@@ -1,0 +1,104 @@
+---
+myst:
+  html_meta:
+    description: "A1 concept: greetings and farewells. Say hello and goodbye in German at any time of day, formally and informally, and reply naturally."
+    keywords: "german, a1, concepts, greetings, farewells, hallo, guten tag, tschüss, auf wiedersehen, hello, goodbye"
+    "property=og:title": "Greetings and farewells"
+    "property=og:description": "A1 concept: greetings and farewells. Say hello and goodbye in German at any time of day, formally and informally, and reply naturally."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Greetings and farewells
+
+After this page you can open and close any everyday encounter in German: greet someone at the right time of day, choose between formal and informal, and leave with a natural goodbye instead of an abrupt exit.
+
+## When to use it
+
+- Walking into a shop, office, or classroom
+- Meeting neighbours, colleagues, or friends
+- Ending a conversation, a phone call, or a visit
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| Hallo! | Hello! | informal, any time |
+| Guten Morgen! | Good morning! | until about 10-11 |
+| Guten Tag! | Good day! | the neutral daytime greeting |
+| Guten Abend! | Good evening! | from about 18:00 |
+| Gute Nacht! | Good night! | only when someone goes to bed |
+| Tschüss! | Bye! | informal, very common |
+| Auf Wiedersehen! | Goodbye! | formal |
+| Bis bald! / Bis morgen! | See you soon! / See you tomorrow! | friendly sign-offs |
+
+## Saying hello
+
+*Hallo* works with anyone you would call *du*. In formal settings, pick the greeting that matches the time of day. Adding the person's name makes any greeting warmer.
+
+**Examples:**
+
+:::{div} ol-examples
+Guten Morgen, Frau Weber.
+: Good morning, Mrs Weber.
+
+Guten Tag, Herr Schmidt.
+: Good day, Mr Schmidt.
+
+Hallo Anna, wie geht es dir?
+: Hello Anna, how are you?
+:::
+
+A short *Wie geht's?* (how are you?) often follows the greeting. The standard reply is *Danke, gut* and, if you like, the question back: *Und dir? Und Ihnen?*
+
+## Saying goodbye
+
+*Tschüss* is the everyday farewell; *Auf Wiedersehen* is its formal counterpart. The *bis* phrases promise a next time, and a good wish on top is common and always well received.
+
+**Examples:**
+
+:::{div} ol-examples
+Tschüss, bis morgen!
+: Bye, see you tomorrow!
+
+Schönen Tag noch!
+: Have a nice day!
+
+Danke, gleichfalls!
+: Thanks, same to you!
+:::
+
+:::{note}
+Regional greetings are everywhere in Germany: *Moin* in the north, *Grüß Gott* and *Servus* in the south. You do not need to use them, but recognising them helps.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/concepts/part-1
+:track: greetings-and-farewells.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Hallo* and *Tschüss* cover informal hello and goodbye.
+- Formal: *Guten Morgen / Guten Tag / Guten Abend* to greet, *Auf Wiedersehen* to leave.
+- *Gute Nacht* is only for bedtime, not for leaving in the evening.
+- *Bis bald, bis morgen, bis später* promise a next meeting.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Gute Nacht!* when leaving a restaurant → **Guten Abend!** or **Auf Wiedersehen!** (Gute Nacht is for going to bed)
+- *\*Guten Morgen* at 15:00 → **Guten Tag.** (Morgen ends mid-morning)
+- Leaving without a farewell: a quick **Tschüss!** is expected even after small transactions.
+:::
+
+## Related articles
+
+- Previous concept: [Formal and informal](/a1/concepts/formal-and-informal.md)
+- Next concept: [Introducing yourself](/a1/concepts/introducing-yourself.md)
+- [A1 > Grammar > du, ihr, or Sie](/a1/grammar/pronouns/anredeformen.md)

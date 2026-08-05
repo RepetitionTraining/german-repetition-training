@@ -1,0 +1,93 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: verbs with the accusative. The everyday verbs that always take a direct object, from haben and brauchen to kennen and besuchen."
+    keywords: "german, german learning, a1, grammar, accusative verbs, haben, brauchen, kaufen, suchen, kennen, direct object"
+    "property=og:title": "Verben mit Akkusativ – Verbs with the Accusative"
+    "property=og:description": "A1 grammar: verbs with the accusative. The everyday verbs that always take a direct object, from haben and brauchen to kennen and besuchen."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Verbs with the Accusative
+
+:::{admonition} Prerequisites
+:class: note
+Before reading this article, make sure you are comfortable with:
+- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+:::
+
+Some verbs are incomplete without a thing they act on: you cannot just "need", you need *something*. In German these verbs take their object in the accusative, every time. Learning the verb together with its case turns case choice from a puzzle into a habit.
+
+## The A1 accusative verbs
+
+| Verb | Meaning | In a sentence |
+|---|---|---|
+| haben | to have | Ich habe einen Hund. |
+| brauchen | to need | Ich brauche einen Regenschirm. |
+| kaufen | to buy | Er kauft einen Tisch. |
+| suchen | to look for | Sie sucht eine Wohnung. |
+| finden | to find | Ich finde den Bahnhof nicht. |
+| sehen | to see | Siehst du den Turm? |
+| essen / trinken | to eat / drink | Wir essen einen Salat. |
+| nehmen | to take | Ich nehme das Menü. |
+| kennen | to know (people, places) | Kennst du meinen Bruder? |
+| besuchen | to visit | Wir besuchen unsere Großeltern. |
+
+**Examples:**
+
+:::{div} ol-examples
+Ich brauche {akk}`einen Regenschirm`.
+: I need an umbrella.
+
+Sie sucht {akk}`eine Wohnung`.
+: She is looking for a flat.
+
+Kennst du {akk}`meinen Bruder`?
+: Do you know my brother?
+:::
+
+## The test: ask *wen oder was?*
+
+After each of these verbs you can ask *wen?* or *was?*, and whatever answers is accusative. Remember the contrast: *sein* is not on this list. After *sein* both sides stay nominative: *Das ist der Bahnhof*, never *den Bahnhof*.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich sehe {akk}`den Turm`.
+: I see the tower. (wen oder was sehe ich? den Turm)
+
+Das ist {subj}`der Turm`.
+: That is the tower. (sein: nominative on both sides)
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-2
+:track: verben-mit-akkusativ.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- These verbs always take a direct object in the accusative: *haben, brauchen, kaufen, suchen, finden, sehen, essen, trinken, nehmen, kennen, besuchen*.
+- Learn verb + case as one package.
+- The test is *wen oder was?* after the verb.
+- *Sein* stays nominative; it describes, it does not act on anything.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich brauche ein Regenschirm.* → Ich brauche **einen** Regenschirm. (masculine object)
+- *\*Kennst du mein Bruder?* → Kennst du **meinen** Bruder? (possessives take -en too)
+- *\*Das ist den Bahnhof.* → Das ist **der** Bahnhof. (sein takes no accusative)
+:::
+
+## Related articles
+
+- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [A1 > Grammar > Verbs with the Dative](/a1/grammar/verbs/verben-mit-dativ.md)
+- [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)

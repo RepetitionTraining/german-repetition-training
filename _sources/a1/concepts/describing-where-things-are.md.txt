@@ -1,0 +1,112 @@
+---
+myst:
+  html_meta:
+    description: "A1 concept: describing where things are. Location chunks like auf dem Tisch and im Kühlschrank, plus links, rechts, and in der Nähe."
+    keywords: "german, a1, concepts, location, where, auf dem tisch, im, links, rechts, in der nähe"
+    "property=og:title": "Describing where things are"
+    "property=og:description": "A1 concept: describing where things are. Location chunks like auf dem Tisch and im Kühlschrank, plus links, rechts, and in der Nähe."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Describing where things are
+
+After this page you can answer *Wo ist ...?* about anything: keys, people, shops. You will work with ready-made location chunks (*auf dem Tisch*, *im Kühlschrank*) and the direction words *links*, *rechts*, *oben*, *unten*.
+
+## When to use it
+
+- Finding and pointing out objects at home
+- Saying where a person is right now
+- Locating shops and places in the neighbourhood
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| Wo ist ...? | Where is ...? | |
+| auf dem Tisch | on the table | chunk |
+| in der Küche / im Büro | in the kitchen / office | im = in dem |
+| links / rechts | on the left / right | |
+| neben dem Bahnhof | next to the station | chunk |
+| in der Nähe | nearby | |
+| nicht weit | not far | |
+
+## Things and their places
+
+Learn these as whole chunks; each pairs a preposition with the dative article. The full grammar behind them arrives later; for now the chunk does the work.
+
+**Examples:**
+
+:::{div} ol-examples
+Der Schlüssel ist auf dem Tisch.
+: The key is on the table.
+
+Die Milch ist im Kühlschrank.
+: The milk is in the fridge.
+
+Die Katze ist unter dem Tisch.
+: The cat is under the table.
+:::
+
+## People and places
+
+The same pattern says where someone is: *im Büro, in der Küche, im Supermarkt*.
+
+**Examples:**
+
+:::{div} ol-examples
+Er ist im Büro.
+: He is in the office.
+
+Wir sind in der Küche.
+: We are in the kitchen.
+:::
+
+## Around the neighbourhood
+
+For places in town, add the direction words and two useful distance phrases: *in der Nähe* (nearby) and *nicht weit* (not far).
+
+**Examples:**
+
+:::{div} ol-examples
+Die Toilette ist links.
+: The toilet is on the left.
+
+Die Apotheke ist neben dem Bahnhof.
+: The pharmacy is next to the station.
+
+Es gibt einen Park in der Nähe.
+: There is a park nearby.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/concepts/part-2
+:track: describing-where-things-are.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Wo ist ...?* plus *sein* covers every location question.
+- Location chunks: *auf dem, in der, im, unter dem, neben dem, an der*.
+- Direction words: *links, rechts, oben, unten, hier, dort*.
+- *In der Nähe* and *nicht weit* handle distance without numbers.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Die Milch ist in Kühlschrank.* → Die Milch ist **im** Kühlschrank. (the chunk includes the article)
+- *\*Der Schlüssel ist auf den Tisch.* → auf **dem** Tisch. (location chunks use the dative form)
+- *\*Wohin ist die Apotheke?* → **Wo** ist die Apotheke? (location, not direction)
+:::
+
+## Related articles
+
+- Previous concept: [Ordering food and drink](/a1/concepts/ordering-food-and-drink.md)
+- Next concept: [Asking for and giving directions](/a1/concepts/asking-for-and-giving-directions.md)
+- [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)
+- [A1 > Grammar > Local Prepositions with Dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)

@@ -1,0 +1,93 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the question pronouns wer, wen, wem, and was. Asking about people in the right case and about things with was."
+    keywords: "german, german learning, a1, grammar, question pronouns, wer, wen, wem, was, cases"
+    "property=og:title": "Fragepronomen – Question Pronouns wer, wen, wem, was"
+    "property=og:description": "A1 grammar: the question pronouns wer, wen, wem, and was. Asking about people in the right case and about things with was."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Question Pronouns wer, wen, wem, was
+
+:::{admonition} Prerequisites
+:class: note
+Before reading this article, make sure you are comfortable with:
+- [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)
+:::
+
+Asking "who?" in German means choosing a case, because the question word plays a role in the answer's sentence: *wer* asks for a subject, *wen* for a direct object, *wem* for a receiver. *Was* asks about things and is mercifully lazy about case.
+
+## People: *wer*, *wen*, *wem*
+
+| Case | Pronoun | Asks for | Example |
+|---|---|---|---|
+| Nominative | wer | the subject | Wer kommt heute? |
+| Accusative | wen | the direct object | Wen siehst du? |
+| Dative | wem | the receiver | Wem gehört das? |
+
+The pronoun matches the case of the expected answer: *Wen siehst du? Ich sehe **den Lehrer**.* Question and answer wear the same case.
+
+**Examples:**
+
+:::{div} ol-examples
+{subj}`Wer` möchte Kaffee?
+: Who would like coffee?
+
+{akk}`Wen` besuchst du am Sonntag?
+: Whom are you visiting on Sunday?
+
+{dativ}`Wem` gehört das Fahrrad?
+: Whose is the bicycle?
+:::
+
+At A1, *wem* lives mostly with the dative verbs you know as chunks: *Wem gehört ...? Wem hilfst du? Wem schmeckt ...?*
+
+## Things: *was*
+
+*Was* covers "what" as both subject and object; it has no separate accusative form.
+
+**Examples:**
+
+:::{div} ol-examples
+{subj}`Was` ist das?
+: What is that?
+
+{akk}`Was` brauchst du?
+: What do you need?
+
+{akk}`Was` suchst du?
+: What are you looking for?
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-3
+:track: fragepronomen.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *wer* = who as subject, *wen* = whom as object, *wem* = to whom.
+- The question word wears the case of the expected answer.
+- *wem* pairs with the dative chunk verbs: *gehören, helfen, schmecken*.
+- *was* asks about things, same form in nominative and accusative.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Wer siehst du?* → **Wen** siehst du? (object question needs wen)
+- *\*Wen gehört das?* → **Wem** gehört das? (gehören takes the dative)
+- Answering a *wen* question in the nominative: *Wen? Den Lehrer*, not *der Lehrer*.
+:::
+
+## Related articles
+
+- [A1 > Grammar > Yes/No Questions and W-Questions](/a1/grammar/sentence-structure/fragen.md)
+- [A1 > Grammar > Question Words for Circumstances](/a1/grammar/question-words/fragewoerter-umstaende.md)
+- [A1 > Grammar > The Three Cases Compared](/a1/grammar/cases/kasus-ueberblick.md)

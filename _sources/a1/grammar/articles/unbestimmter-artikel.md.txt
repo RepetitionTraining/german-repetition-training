@@ -1,0 +1,116 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: ein, eine. The German indefinite article in the nominative and accusative, when to drop it, with examples and common mistakes."
+    keywords: "german, german learning, a1, grammar, indefinite article, ein eine, unbestimmter artikel, einen, no article"
+    "property=og:title": "Unbestimmter Artikel – Indefinite Articles"
+    "property=og:description": "A1 grammar: ein, eine. The German indefinite article in the nominative and accusative, when to drop it, with examples and common mistakes."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Indefinite Articles
+
+**Ein** and **eine** work like English *a/an*. You use them when you mention something for the first time, or when it doesn't matter which one you mean. German has no plural form of *ein*; plural nouns simply stand alone.
+
+## The forms: *ein*, *eine*
+
+| | Masculine | Feminine | Neuter | Plural |
+|---|---|---|---|---|
+| Indefinite article | **ein** | **eine** | **ein** | – |
+
+Masculine and neuter share **ein**. Feminine takes **eine**. In the plural there is no article at all.
+
+**Examples:**
+
+:::{div} ol-examples
+Das ist {article}`ein` Hafen.
+: That is a harbour.
+
+Das ist {article}`eine` Brücke.
+: That is a bridge.
+
+Das ist {article}`ein` Hotel.
+: That is a hotel.
+
+Das sind Schiffe.
+: Those are ships. (plural, no article)
+:::
+
+## Accusative: *ein* becomes *einen*
+
+Just like *der* becomes *den*, only the masculine form changes when the noun is a direct object: *ein* becomes **einen**.
+
+| | Masculine | Feminine | Neuter | Plural |
+|---|---|---|---|---|
+| Nominative | ein | eine | ein | – |
+| Accusative | **einen** | eine | ein | – |
+
+**Examples:**
+
+:::{div} ol-examples
+Ich habe {akk}`einen` Bruder.
+: I have a brother.
+
+Er kauft {akk}`einen` Apfel.
+: He buys an apple.
+
+Sie hat {akk}`eine` Idee.
+: She has an idea. (feminine, unchanged)
+
+Wir suchen {akk}`ein` Café.
+: We are looking for a café. (neuter, unchanged)
+:::
+
+## No article: professions and nationalities
+
+After *sein*, German drops the article for professions and nationalities. Where English says *a*, German says nothing.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich bin Lehrerin.
+: I am a teacher.
+
+Er ist Student.
+: He is a student.
+
+Sie ist Italienerin.
+: She is Italian.
+:::
+
+:::{note}
+This only applies after *sein/werden* with professions and nationalities. Everywhere else the article stays: *Ich habe **einen** Job.*
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-1
+:track: unbestimmter-artikel.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **ein** (masculine), **eine** (feminine), **ein** (neuter). There is no plural form.
+- Use *ein/eine* for new or unspecific things. Switch to *der/die/das* once the thing is known.
+- Accusative: only masculine changes, *ein* becomes **einen**.
+- No article after *sein* with professions and nationalities.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich habe ein Bruder.* → Ich habe **einen** Bruder. (direct object, masculine)
+- *\*Das sind eine Bücher.* → Das sind Bücher. (plural takes no indefinite article)
+- *\*Ich bin ein Lehrer.* → Ich bin **Lehrer**. (professions after sein take no article)
+:::
+
+## Related articles
+
+- [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
+- [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)
+- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [A1 > Grammar > es gibt](/a1/grammar/verbs/es-gibt.md)

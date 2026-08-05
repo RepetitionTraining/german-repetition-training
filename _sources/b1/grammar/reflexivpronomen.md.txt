@@ -1,0 +1,155 @@
+---
+myst:
+  html_meta:
+    description: "B1 German grammar: Reflexivpronomen im Akkusativ und Dativ - learn when to use mich/dich/sich and mir/dir/sich in everyday German."
+    keywords: "german, german learning, b1, grammar, reflexivpronomen, reflexive pronouns, akkusativ, dativ, echte reflexivverben, reflexive verbs, mich, mir, dich, dir, sich"
+    "property=og:title": "Reflexivpronomen - Akkusativ und Dativ"
+    "property=og:description": "B1 German grammar: Reflexivpronomen im Akkusativ und Dativ - learn when to use mich/dich/sich and mir/dir/sich in everyday German."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Reflexivpronomen
+
+> Reflexive pronouns in accusative and dative
+
+Reflexive pronouns help you describe actions where the subject and object are the same person. On this page, you will practice the key B1 choice: when to use accusative forms like *mich/dich* and when to switch to dative forms like *mir/dir*.
+
+---
+
+## Akkusativ: wenn kein weiteres Objekt da ist
+
+If a reflexive verb has no additional object, the reflexive pronoun is usually in the accusative. This is the most common pattern in everyday German.
+
+| Person | Reflexivpronomen (Akkusativ) |
+| --- | --- |
+| ich | {pronoun}`mich` |
+| du | {pronoun}`dich` |
+| er / sie / es | {pronoun}`sich` |
+| wir | {pronoun}`uns` |
+| ihr | {pronoun}`euch` |
+| sie / Sie | {pronoun}`sich` |
+
+### Akkusativ examples
+
+- Ich freue {pronoun}`mich` auf das lange Wochenende.  
+  *I'm looking forward to the long weekend.*
+- Konzentrierst du {pronoun}`dich` heute besser im Kurs?  
+  *Are you concentrating better in class today?*
+- Er beeilt {pronoun}`sich`, weil der Bus gleich kommt.  
+  *He's hurrying because the bus is about to arrive.*
+- Wir treffen {pronoun}`uns` nach der Arbeit im Cafe.  
+  *We're meeting at a cafe after work.*
+- Ihr habt {pronoun}`euch` gestern gut erholt.  
+  *You rested well yesterday.*
+- Haben Sie {pronoun}`sich` schon entschieden?  
+  *Have you decided already?*
+
+:::{tip}
+A prepositional phrase does not change this rule. In *Ich interessiere mich für Musik*, there is still no extra accusative object, so {pronoun}`mich` stays accusative.
+:::
+
+:::{audio-examples}
+:album: b1/grammar/core
+:track: reflexivpronomen-akkusativ.yml
+:::
+
+---
+
+## Dativ: wenn ein Akkusativobjekt im Satz steht
+
+When a sentence has both a reflexive pronoun and a separate accusative object, the reflexive pronoun goes into the dative. This often happens with body parts and everyday actions like buying or cooking something for yourself.
+
+| Person | Akkusativ | Dativ |
+| --- | --- | --- |
+| ich | {pronoun}`mich` | {pronoun}`mir` |
+| du | {pronoun}`dich` | {pronoun}`dir` |
+| er / sie / es | {pronoun}`sich` | {pronoun}`sich` |
+| wir | {pronoun}`uns` | {pronoun}`uns` |
+| ihr | {pronoun}`euch` | {pronoun}`euch` |
+| sie / Sie | {pronoun}`sich` | {pronoun}`sich` |
+
+### Dativ examples
+
+- Ich wasche {pronoun}`mir` die Hände vor dem Essen.  
+  *I wash my hands before eating.*
+- Putzt du {pronoun}`dir` jeden Abend die Zähne?  
+  *Do you brush your teeth every evening?*
+- Er zieht {pronoun}`sich` die Schuhe im Flur aus.  
+  *He takes off his shoes in the hallway.*
+- Wir kochen {pronoun}`uns` heute eine schnelle Suppe.  
+  *We're cooking ourselves a quick soup today.*
+- Ihr bestellt {pronoun}`euch` noch einen Kaffee.  
+  *You're ordering yourselves another coffee.*
+- Sie schreibt {pronoun}`sich` eine Notiz für das Meeting.  
+  *She writes herself a note for the meeting.*
+
+:::{warning}
+With body parts, German normally uses a dative reflexive pronoun plus a definite article: *Ich wasche mir die Hände* (not *meine Hände* in this structure).
+:::
+
+:::{audio-examples}
+:album: b1/grammar/core
+:track: reflexivpronomen-dativ.yml
+:::
+
+---
+
+## Echte Reflexivverben und Verben mit reflexiver Variante
+
+At B1, it helps to separate two groups: verbs that always need a reflexive pronoun, and verbs that can be reflexive in one sentence but non-reflexive in another.
+
+| Echte Reflexivverben (always reflexive) | Verben mit reflexiver Variante |
+| --- | --- |
+| sich beeilen | (sich) waschen |
+| sich erinnern (an) | (sich) rasieren |
+| sich interessieren (für) | (sich) vorstellen |
+| sich freuen (auf/über) | (sich) anziehen |
+| sich erkundigen (nach) | (sich) treffen |
+
+### Verb-type examples
+
+- Ich beeile {pronoun}`mich`, sonst verpasse ich den Zug.  
+  *I'm hurrying, otherwise I'll miss the train.*
+- Wir interessieren {pronoun}`uns` für neue Sprachkurse.  
+  *We're interested in new language courses.*
+- Ich wasche {pronoun}`mich` schnell und gehe dann los.  
+  *I'm washing quickly and then leaving.*
+- Ich wasche das Auto am Samstag.  
+  *I wash the car on Saturday.*
+- Wir stellen {pronoun}`uns` kurz vor.  
+  *We're introducing ourselves briefly.*
+- Die Chefin stellt den neuen Kollegen vor.  
+  *The boss introduces the new colleague.*
+
+:::{note}
+In plural sentences like *Wir treffen uns um acht*, {pronoun}`uns` can mean a true reflexive action or a reciprocal idea (*each other*). Usually the context makes this clear.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+- Reflexive pronouns refer back to the subject: *ich ... mich*, *du ... dich*, *wir ... uns*.
+- Use **accusative** when the reflexive pronoun is the only object.
+- Use **dative** when another accusative object is in the sentence.
+- Only *ich* and *du* change between the two cases: *mich/mir*, *dich/dir*.
+- Some verbs are always reflexive (*sich beeilen*), while others can be reflexive or non-reflexive (*waschen*).
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+- *Ich erinnere den Termin nicht.* -> Ich erinnere **mich** nicht **an** den Termin. (*sich erinnern an* is reflexive and needs the preposition)
+- *Ich wasche mich die Hände.* -> Ich wasche **mir** die Hände. (with an accusative object, reflexive pronoun is dative)
+- *Wir freust uns auf den Urlaub.* -> Wir **freuen** uns auf den Urlaub. (verb must agree with the subject)
+- *Du putzt dir deine Zähne.* -> Du putzt dir **die** Zähne. (body-part pattern with definite article)
+- *Er beeilt.* -> Er beeilt **sich**. (*sich beeilen* always needs the reflexive pronoun)
+:::
+
+---
+
+## Related articles
+
+- [B1 > Grammar > Artikelwörter als Pronomen](/b1/grammar/artikelwoerter-als-pronomen.md)
+- [B1 > Grammar > Pronominaladverbien](/b1/grammar/pronominaladverbien.md)

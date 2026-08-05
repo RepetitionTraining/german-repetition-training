@@ -1,0 +1,92 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the preposition für. Recipients, purposes, prices, and durations, always with the accusative: für dich, für zwei Euro."
+    keywords: "german, german learning, a1, grammar, für, preposition, accusative, for, für dich"
+    "property=og:title": "für – Purpose and Recipient"
+    "property=og:description": "A1 grammar: the preposition für. Recipients, purposes, prices, and durations, always with the accusative: für dich, für zwei Euro."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# The Preposition für
+
+*Für* (for) is the mirror image of *mit*: just as reliably one-cased, but on the accusative side. Presents, purposes, prices, and short durations all run through it, which makes it the most useful accusative preposition at A1.
+
+## For people: recipients
+
+Whoever benefits stands in the accusative: *für dich, für meinen Sohn, für die ganze Familie*. The question: *Für wen ...?*
+
+**Examples:**
+
+:::{div} ol-examples
+Das Geschenk ist {prep}`für` dich.
+: The present is for you.
+
+Die Blumen sind {prep}`für` meine Mutter.
+: The flowers are for my mother.
+
+{prep}`Für` wen ist das Paket?
+: Who is the parcel for?
+:::
+
+## For purposes and occasions
+
+What something serves or belongs to: *für die Arbeit, für den Kurs, für die Party*.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich brauche das {prep}`für` die Arbeit.
+: I need that for work.
+
+Der Kuchen ist {prep}`für` die Party.
+: The cake is for the party.
+:::
+
+## Prices and durations
+
+*Für* names a price (*für zwei Euro*) and a planned duration (*für eine Woche*).
+
+**Examples:**
+
+:::{div} ol-examples
+Ein Kilo Äpfel {prep}`für` zwei Euro.
+: A kilo of apples for two euros.
+
+Wir fahren {prep}`für` eine Woche nach Italien.
+: We are going to Italy for a week.
+:::
+
+*Für* also anchors the thanking pattern you know: *Danke für deine Hilfe, danke für die Erklärung.*
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-4
+:track: fuer-akkusativ.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *für* = for; always accusative.
+- Recipients (*für dich*), purposes (*für die Arbeit*), prices (*für zwei Euro*), durations (*für eine Woche*).
+- The question word: *Für wen?*
+- Thanks run on für: *Danke für ...*
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*für meinem Sohn* → für mein**en** Sohn. (accusative, not dative)
+- *\*Für wem ist das?* → Für **wen** ist das? (für forces the accusative question word)
+- *\*Danke für deiner Hilfe.* → Danke für dein**e** Hilfe. (accusative feminine)
+:::
+
+## Related articles
+
+- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+- [A1 > Grammar > The Preposition mit](/a1/grammar/prepositions/mit-dativ.md)
+- [A1 > Grammar > Personal Pronouns: Accusative](/a1/grammar/pronouns/personalpronomen-akkusativ.md)

@@ -1,0 +1,146 @@
+---
+myst:
+  html_meta:
+    description: "Learn the German Plusquamperfekt (past perfect) at B1 level: form it with hatte/war + Partizip II, and use it in nachdem clauses to sequence past events."
+    keywords: "german, german learning, b1, grammar, plusquamperfekt, past perfect, pluperfect, nachdem, hatte, war, partizip ii, vorvergangenheit, temporale Nebensätze"
+    "property=og:title": "Plusquamperfekt – German Past Perfect"
+    "property=og:description": "Learn the German Plusquamperfekt (past perfect) at B1 level: form it with hatte/war + Partizip II, and use it in nachdem clauses."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Plusquamperfekt (Past Perfect)
+
+German has three main past tenses that map to different points on the timeline.
+The **Präsens** describes now; the **Perfekt** and **Präteritum** describe earlier
+events; and the **Plusquamperfekt** steps back even further, to "the past before
+the past". You use it to make clear that one thing had already happened when
+something else occurred.
+
+*Examples:*
+- *I had already eaten when she arrived.*
+- *He had left before the meeting started.*
+- *By the time we got there, the concert had already begun.*
+
+---
+
+## Forming the Plusquamperfekt
+
+The *Plusquamperfekt* is built from two parts: the *Präteritum* form of **haben** or
+**sein**, followed by the **Partizip II** of the main verb. Because you already
+know the Partizip II from the Perfekt, the only new element here is switching the
+auxiliary to its Präteritum form.
+
+| Auxiliary | Ich | Du | Er/Sie/Es | Wir | Ihr | Sie/Sie |
+|---|---|---|---|---|---|---|
+| **haben** | hatte | hattest | hatte | hatten | hattet | hatten |
+| **sein** | war | warst | war | waren | wart | waren |
+
+The **Partizip II** comes at the end of the sentence (or clause).
+
+**Examples**
+
+- Ich {verb}`hatte` den Film schon {verb}`gesehen`, bevor er im Kino anlief.  
+  _I had already seen the film before it was released in cinemas._
+
+- Er {verb}`hatte` die Wohnung aufgeräumt und wartete auf die Gäste.  
+  _He had tidied the flat and was waiting for the guests._
+
+- Sie {verb}`hatte` das Formular {verb}`ausgefüllt` und abgegeben.  
+  _She had filled in the form and handed it in._
+
+- Das Konzert {verb}`hatte` schon {verb}`angefangen`, als wir ankamen.  
+  _The concert had already started when we arrived._
+
+- Wir {verb}`hatten` alles {verb}`vorbereitet`, aber das Wetter spielte nicht mit.  
+  _We had prepared everything, but the weather didn't cooperate._
+
+- Der Zug {verb}`war` schon {verb}`abgefahren`, als er den Bahnhof erreichte.  
+  _The train had already departed when he reached the station._
+
+- Sie {verb}`waren` früh {verb}`aufgestanden` und hatten Zeit für ein ruhiges Frühstück.  
+  _They had got up early and had time for a quiet breakfast._
+
+:::{tip}
+Choose **war + Partizip II** for verbs that express movement from one place to
+another (*fahren, gehen, kommen, ankommen, fliegen, reisen*) or a change of state
+(*aufwachen, einschlafen, aufstehen, werden*). All other verbs take **hatte**.
+This is identical to the *haben*/*sein* rule you already know from the *Perfekt*.
+:::
+
+---
+
+## Plusquamperfekt with "nachdem"
+
+One of the most important uses of the *Plusquamperfekt* is in **temporal clauses
+introduced by "nachdem"** (after). The rule is simple: the nachdem clause
+describes the earlier event, use the Plusquamperfekt there. The main clause
+describes what happened next, use the Präteritum or Perfekt there.
+
+> **{conj}`Nachdem`** + subject + ... + {verb}`Partizip II` + {verb}`hatte/war`,  
+> main clause in Präteritum or Perfekt.
+
+:::{note}
+In a *nachdem* clause the auxiliary (**hatte** or **war**) is always the last word.
+The *Partizip II* comes just before it: *...gegessen hatte*, *...angekommen war*.
+:::
+
+**Examples**
+
+- {conj}`Nachdem` er {verb}`gefrühstückt hatte`, fuhr er zur Arbeit.  
+  _After he had had breakfast, he drove to work._
+
+- {conj}`Nachdem` wir die Rechnung {verb}`bezahlt hatten`, verließen wir das Restaurant.  
+  _After we had paid the bill, we left the restaurant._
+
+- {conj}`Nachdem` das Kind {verb}`eingeschlafen war`, räumten die Eltern auf.  
+  _After the child had fallen asleep, the parents tidied up._
+
+- Er rief an, {conj}`nachdem` er die E-Mail {verb}`gelesen hatte`.  
+  _He called after he had read the email._
+
+- {conj}`Nachdem` sie {verb}`umgezogen war`, lernte sie viele neue Leute kennen.  
+  _After she had moved (house), she got to know many new people._
+
+- {conj}`Nachdem` wir alles {verb}`gepackt hatten`, konnten wir endlich losfahren.  
+  _After we had packed everything, we could finally set off._
+
+:::{tip}
+The *nachdem* clause can come at the start or the end of the sentence. When it
+comes first, the main clause begins with the verb (V2 word order still applies):
+*Nachdem er gegessen hatte, **ging** er spazieren.*
+When it comes second, the word order is normal:
+*Er ging spazieren, nachdem er gegessen hatte.*
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+- Form: **hatte** or **war** (*Präteritum* of *haben*/*sein*) + **Partizip II**
+- Use **hatte + Partizip II** for most verbs; use **war + Partizip II** for movement and change-of-state verbs (same rule as in the *Perfekt*)
+- The *Partizip II* is identical to the one you already know from the *Perfekt*, nothing new to learn
+- After *nachdem*, always use the *Plusquamperfekt*; the auxiliary (*hatte*/*war*) goes to the very end of the clause
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+- *Nachdem er \*gegessen hat, ging er schlafen.* → **gegessen hatte** (*Plusquamperfekt*, not *Perfekt*, is required after *nachdem*)
+- *Er \*hatte gegangen.* → Er **war gegangen**. (movement verbs take *war*, not *hatte*)
+- *Nachdem er hatte gegessen, ...* → Nachdem er gegessen **hatte**, ... (the auxiliary goes to the very end of the clause)
+- *Sie hatte das Buch \*lesen.* → Sie hatte das Buch **gelesen**. (*Partizip II*, not infinitive)
+- *Das Kind war \*geschlafen.* → Das Kind **hatte geschlafen**. (*schlafen* is a state, not a movement or change, it takes *hatte*)
+:::
+
+:::{audio-examples}
+:album: b1/grammar/core
+:track: plusquamperfekt.yml
+:::
+
+---
+
+## Related articles
+
+- [B1 > Grammar > Präteritum](/b1/grammar/praeteritum.md)
+- [B1 > Concepts > Order of events (past)](/b1/concepts/order-of-events-past.md)

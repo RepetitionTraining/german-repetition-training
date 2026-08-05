@@ -1,0 +1,101 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: regular verbs in the present tense. The six endings, the extra e after -t and -d stems, and the shortcut for -s stems."
+    keywords: "german, german learning, a1, grammar, regular verbs, present tense, conjugation, endings, regelmäßige verben"
+    "property=og:title": "Regelmäßige Verben – Regular Verbs in the Present"
+    "property=og:description": "A1 grammar: regular verbs in the present tense. The six endings, the extra e after -t and -d stems, and the shortcut for -s stems."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Regular Verbs in the Present
+
+Most German verbs follow one clean pattern in the present tense: take the stem, add the ending for the person. Learn the six endings once and you can conjugate hundreds of verbs, from *wohnen* to *spielen* to *lernen*.
+
+## The endings
+
+Chop *-en* off the infinitive to get the stem (*lernen* → *lern-*), then add:
+
+| Person | Ending | Example |
+|---|---|---|
+| ich | -e | ich lerne |
+| du | -st | du lernst |
+| er / sie / es | -t | er lernt |
+| wir | -en | wir lernen |
+| ihr | -t | ihr lernt |
+| sie / Sie | -en | Sie lernen |
+
+*Wir* and *sie/Sie* simply reuse the infinitive. That leaves only four forms to actually learn.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich {verb}`lerne` Deutsch.
+: I am learning German.
+
+Du {verb}`lernst` schnell.
+: You learn quickly.
+
+Die Kinder {verb}`spielen` im Park.
+: The children are playing in the park.
+:::
+
+## Stems ending in *-t* or *-d*
+
+If the stem ends in *-t* or *-d* (*arbeiten*, *warten*, *finden*), German inserts an **-e-** before *-st* and *-t* so the ending stays audible: *du arbeitest, er arbeitet, ihr wartet*.
+
+**Examples:**
+
+:::{div} ol-examples
+Du {verb}`arbeitest` zu viel.
+: You work too much.
+
+{verb}`Wartest` du auf den Bus?
+: Are you waiting for the bus?
+:::
+
+## Stems ending in *-s*, *-ß*, or *-z*
+
+If the stem already ends in an s-sound (*heißen*, *tanzen*), the *du* form adds only **-t** instead of -st: *du heißt*, *du tanzt*. The du and er forms then look identical.
+
+**Examples:**
+
+:::{div} ol-examples
+Du {verb}`heißt` Paul, oder?
+: Your name is Paul, right?
+
+Du {verb}`tanzt` gut.
+: You dance well.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-2
+:track: regelmassige-verben.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Stem + ending: -e, -st, -t, -en, -t, -en.
+- *Wir* and *sie/Sie* forms equal the infinitive.
+- Stems in -t/-d insert an e: *du arbeitest, er arbeitet*.
+- Stems in -s/-ß/-z: du form adds only -t: *du heißt*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*er lernst* → er lern**t**. (-st belongs to du, -t to er/sie/es)
+- *\*du arbeitst* → du arbeit**est**. (t-stems need the extra e)
+- *\*du heißst* → du heiß**t**. (s-stems drop the s of -st)
+:::
+
+## Related articles
+
+- [A1 > Grammar > Irregular Verbs in the Present](/a1/grammar/verbs/unregelmaessige-verben.md)
+- [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)
+- [A1 > Grammar > Separable Verbs](/a1/grammar/verbs/trennbare-verben.md)

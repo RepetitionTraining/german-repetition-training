@@ -1,0 +1,57 @@
+---
+myst:
+  html_meta:
+    description: "A1 vocabulary: on the farm 1. German farm life from die Kuh and das Huhn to der Traktor, with the early mornings that come with it."
+    keywords: "german, german learning, a1, vocabulary, farm, bauernhof, kuh, schwein, huhn, traktor"
+    "property=og:title": "On the Farm 1"
+    "property=og:description": "A1 vocabulary: on the farm 1. German farm life from die Kuh and das Huhn to der Traktor, with the early mornings that come with it."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# On the farm 1
+
+The farm is childhood-picture-book vocabulary, and that is exactly why it sticks: cows, pigs, chickens, and a tractor are images before they are words. This pack adds the farm's rhythm too, because *auf dem Bauernhof* the day starts early.
+
+## The words
+
+| German | English |
+|---|---|
+| der Bauernhof, die Bauernhöfe | farm |
+| der Bauer, die Bauern | farmer |
+| die Kuh, die Kühe | cow |
+| das Schwein, die Schweine | pig |
+| das Huhn, die Hühner | chicken |
+| das Schaf, die Schafe | sheep |
+| das Pferd, die Pferde | horse |
+| das Feld, die Felder | field |
+| der Traktor, die Traktoren | tractor |
+| das Ei, die Eier | egg |
+| die Milch | milk |
+| früh aufstehen | to get up early |
+| arbeiten | to work |
+
+## Hear it in practice
+
+A day on the farm, animal by animal, from the early alarm to the fresh eggs.
+
+:::{audio-examples}
+:album: a1/vocabulary/part-1
+:track: on-the-farm-1.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The animals: *Kuh, Schwein, Huhn, Schaf, Pferd*, mostly heard in the plural.
+- The workplace: *Bauernhof, Feld, Traktor*.
+- The produce: *Eier* and *Milch*.
+- The rhythm: *früh aufstehen* and *arbeiten*.
+:::
+
+## Related articles
+
+- [Pets and animals 1](/a1/vocabulary/pets-and-animals-1.md)
+- [Describing daily routine](/a1/concepts/describing-daily-routine.md)
+- [In the supermarket 1](/a1/vocabulary/in-the-supermarket-1.md)

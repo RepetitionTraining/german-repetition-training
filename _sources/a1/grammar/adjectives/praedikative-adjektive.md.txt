@@ -1,0 +1,99 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: predicate adjectives. Describing things with sein plus an endingless adjective, grading with sehr and zu, and opinions with finden."
+    keywords: "german, german learning, a1, grammar, adjectives, predicate, sein, sehr, zu, finden"
+    "property=og:title": "Adjektive mit sein – Predicate Adjectives"
+    "property=og:description": "A1 grammar: predicate adjectives. Describing things with sein plus an endingless adjective, grading with sehr and zu, and opinions with finden."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Predicate Adjectives
+
+The easiest way to describe anything in German is *sein* plus an adjective: *Das Haus ist groß.* Used this way, after the verb, the adjective takes no ending at all, ever. This page collects the core A1 adjectives and the small words that tune them.
+
+## The pattern: *sein* + adjective, no ending
+
+Singular or plural, masculine or feminine: the adjective after *sein* never changes.
+
+**Examples:**
+
+:::{div} ol-examples
+Das Haus ist {adj}`groß`.
+: The house is big.
+
+Die Äpfel sind {adj}`billig`.
+: The apples are cheap.
+
+Die Jacke ist {adj}`teuer`.
+: The jacket is expensive.
+:::
+
+The A1 core comes in opposite pairs, which makes them easy to drill: *groß/klein, neu/alt, heiß/kalt, teuer/billig, leicht/schwer, gut/schlecht, interessant/langweilig, schnell/langsam*.
+
+## Tuning: *sehr*, *zu*, *nicht*
+
+Three little words scale any adjective: *sehr* (very), *zu* (too, a complaint), *nicht* (not).
+
+**Examples:**
+
+:::{div} ol-examples
+Das Essen ist **sehr** {adj}`gut`.
+: The food is very good.
+
+Der Tee ist **zu** {adj}`heiß`.
+: The tea is too hot.
+
+Das ist **nicht** {adj}`schlecht`.
+: That is not bad.
+:::
+
+## Opinions with *finden*
+
+*Finden* + accusative + adjective states an opinion: *Ich finde den Film super.* Same endingless adjective, new flavour.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich finde das {adj}`gut`.
+: I think that is good.
+
+Ich finde {akk}`den Film` {adj}`super`.
+: I think the film is great.
+:::
+
+:::{note}
+Adjectives BEFORE a noun (*ein großes Haus*) take endings, and that system is A2 material. At A1, keep adjectives after the verb and they stay effortless.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-4
+:track: praedikative-adjektive.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- After *sein*, adjectives take no ending: *Das Haus ist groß.*
+- Learn adjectives in opposite pairs.
+- Grade with *sehr*, complain with *zu*, negate with *nicht*.
+- *Ich finde ... gut/super* turns descriptions into opinions.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Das Haus ist großes.* → Das Haus ist **groß**. (no ending after sein)
+- *\*Die Schuhe sind zu teuers.* → zu **teuer**. (zu changes nothing on the adjective)
+- Reaching for adjective endings before nouns: park that until A2.
+:::
+
+## Related articles
+
+- [A1 > Grammar > sein und haben](/a1/grammar/verbs/sein-und-haben.md)
+- [A1 > Grammar > gern, lieber, am liebsten](/a1/grammar/adjectives/gern-lieber.md)
+- [A1 > Grammar > Negation with nicht and kein](/a1/grammar/sentence-structure/negation.md)

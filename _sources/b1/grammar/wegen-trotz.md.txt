@@ -1,0 +1,190 @@
+---
+myst:
+  html_meta:
+    description: "B1 grammar: wegen (because of) and trotz (despite) with the genitive case in German, including adjective endings and spoken dative variants."
+    keywords: "german, german learning, b1, grammar, wegen, trotz, genitiv, genitive, prepositions, because of, despite, wegen trotz genitiv"
+    "property=og:title": "wegen und trotz – Because of and Despite (Genitive Prepositions)"
+    "property=og:description": "B1 grammar: wegen (because of) and trotz (despite) with the genitive case in German, including adjective endings and spoken dative variants."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# wegen und trotz
+
+> "Because of" and "despite", genitive prepositions
+
+Two of the most useful prepositions in German are {prep}`wegen` ("because of") and {prep}`trotz` ("despite"). Both take the **genitive case** in standard written German, which means the nouns and articles after them change form. Once you get the hang of the genitive endings, you can add more variety and precision to your writing and speech.
+
+---
+
+## wegen + Genitiv
+
+{prep}`wegen` explains the **reason or cause** of something, it answers the question "why?" by pointing to a person, thing, or circumstance. It corresponds to "because of" or "due to" in English.
+
+**Structure:**
+
+> {prep}`wegen` + **genitive noun phrase** (rest of sentence)
+
+The genitive article forms for the noun after **wegen**:
+
+| | Masculine | Feminine | Neuter | Plural |
+|---|---|---|---|---|
+| Definite article | **des** ...-(e)s | **der** | **des** ...-(e)s | **der** |
+| Indefinite article | **eines** ...-(e)s | **einer** | **eines** ...-(e)s | – |
+
+:::{note}
+Masculines and neuters add **-s** (or **-es** for single-syllable nouns) to the noun itself: *der Stau → des Stau**s***, *das Wetter → des Wetter**s***, *der Lärm → des Lärm**es***. Feminines and plurals do not change the noun.
+:::
+
+### Examples
+
+- {prep}`Wegen` {article}`des` Regens mussten wir den Ausflug absagen.  
+  *Because of the rain, we had to cancel the trip.*
+
+- Er kam zu spät, {prep}`wegen` {article}`des` Staus auf der Autobahn.  
+  *He arrived late because of the traffic jam on the motorway.*
+
+- {prep}`Wegen` ihrer Erkältung konnte sie nicht zur Arbeit gehen.  
+  *Because of her cold, she couldn't go to work.*
+
+- {prep}`Wegen` {article}`des` lauten Lärms konnte ich kaum schlafen.  
+  *Because of the loud noise, I could barely sleep.*
+
+- Er gab seinen Job {prep}`wegen` {article}`der` langen Arbeitszeiten auf.  
+  *He quit his job because of the long working hours.*
+
+- Die Veranstaltung wurde {prep}`wegen` eines technischen Problems verschoben.  
+  *The event was postponed because of a technical problem.*
+
+:::{tip}
+When the *wegen* phrase comes at the start of the sentence, the subject and verb swap positions, the verb must remain in second place:
+
+- *Wegen des Regens **bleibe ich** zu Hause.* (not: Wegen des Regens ich bleibe …)
+:::
+
+:::{audio-examples}
+:album: b1/grammar/core
+:track: praposition-wegen.yml
+:::
+
+---
+
+## trotz + Genitiv
+
+{prep}`trotz` introduces a **contradiction or concession**, it says that something happens even though there is an obstacle or opposing factor. It corresponds to "despite" or "in spite of" in English.
+
+**Structure:**
+
+> {prep}`trotz` + **genitive noun phrase** (rest of sentence)
+
+The genitive article forms are the same as for **wegen** (see table above).
+
+### Examples
+
+- {prep}`Trotz` {article}`des` Regens gingen wir spazieren.  
+  *Despite the rain, we went for a walk.*
+
+- Sie kam {prep}`trotz` ihrer Müdigkeit zur Party.  
+  *She came to the party despite her tiredness.*
+
+- {prep}`Trotz` {article}`des` hohen Preises haben wir die Karte gekauft.  
+  *Despite the high price, we bought the ticket.*
+
+- Wir haben das Projekt {prep}`trotz` aller Schwierigkeiten abgeschlossen.  
+  *We finished the project despite all the difficulties.*
+
+- {prep}`Trotz` {article}`der` schlechten Nachrichten blieb sie optimistisch.  
+  *Despite the bad news, she remained optimistic.*
+
+- Er schaffte die Prüfung {prep}`trotz` seiner kurzen Vorbereitungszeit.  
+  *He passed the exam despite his short preparation time.*
+
+:::{note}
+Do not confuse {prep}`trotz` + Genitiv with the adverb *trotzdem* ("nevertheless" / "anyway"). They are related in meaning but work very differently: *Trotz des Regens ...* (preposition + noun phrase) vs. *Es regnet. Ich gehe trotzdem.* (adverb in the main clause).
+:::
+:::{audio-examples}
+:album: b1/grammar/core
+:track: praposition-trotz.yml
+:::
+
+---
+
+## wegen versus weil
+
+Both {prep}`wegen` and {conj}`weil` give a reason, but they work differently. {prep}`wegen` is a **preposition** followed by a noun phrase; {conj}`weil` is a **subordinating conjunction** that introduces a full clause with the verb at the end.
+
+| | Structure | Example |
+|---|---|---|
+| **wegen** | preposition + genitive noun phrase | *Ich bleibe zu Hause **wegen meiner Erkältung**.* |
+| **weil** | conjunction + subject + … + verb (end) | *Ich bleibe zu Hause, **weil ich krank bin**.* |
+
+Both sentences mean the same thing. Use **wegen** when you have a noun phrase; use **weil** when you have a full subject + verb clause.
+
+### Examples
+
+- Ich bleibe zu Hause {prep}`wegen` meiner Erkältung.  
+  *I'm staying home because of my cold.*
+- Ich bleibe zu Hause, {conj}`weil` ich krank bin.  
+  *I'm staying home because I'm sick.*
+
+- Das Konzert wurde {prep}`wegen` eines Sturms abgesagt.  
+  *The concert was cancelled because of a storm.*
+- Das Konzert wurde abgesagt, {conj}`weil` ein Sturm drohte.  
+  *The concert was cancelled because a storm was approaching.*
+
+- {prep}`Wegen` des Streiks fahren keine Züge.  
+  *Because of the strike, no trains are running.*
+- Keine Züge fahren, {conj}`weil` die Mitarbeiter streiken.  
+  *No trains are running because the employees are on strike.*
+
+:::{tip}
+In everyday speech, *weil* is more common. Use *wegen* when you want to keep things short and noun-based, for example in news headlines, formal emails, or official notices.
+:::
+
+---
+
+## Spoken German: dative variant
+
+In colloquial speech, especially in southern Germany, Austria, and Switzerland, both {prep}`wegen` and {prep}`trotz` are very often followed by the **dative** rather than the genitive:
+
+| Spoken (dative) | Standard written (genitive) |
+|---|---|
+| wegen dem Regen | wegen des Regens |
+| trotz dem Schnee | trotz des Schnees |
+| wegen der Arbeit | wegen der Arbeit *(same, feminine!)* |
+
+:::{note}
+For **feminine and plural nouns**, the dative and genitive article forms happen to look the same (*der* in both cases), so the distinction only shows up clearly with masculine and neuter nouns. In formal writing and exams, always use the **genitive**.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *wegen + Genitiv* = because of (gives a reason)
+- *trotz + Genitiv* = despite / in spite of (introduces a contrasting fact)
+- Masculine and neuter nouns add **-(e)s** in the genitive: *des Regen**s***, *des Wetter**s***
+- Adjectives after a definite or indefinite article in the genitive **always end in -en**: *wegen des schlechten Wetters*
+- In spoken German, dative is widely used instead: *wegen dem Regen*, *trotz dem Schnee*
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *wegen dem Regen* (in writing) → **wegen des Regens** (genitive in standard German; dative is only for speech)
+- *trotz dem schlechten Wetter* (in writing) → **trotz des schlechten Wetters** (genitive required)
+- *wegen des schlechte Wetter* → **wegen des schlechten Wetters** (adjective must end in **-en** after a genitive article)
+- *wegen des Regen* → **wegen des Regens** (masculine noun needs the **-s** ending in the genitive)
+- *Es regnet, wegen des Regens* → **Wegen des Regens** …  (*wegen* is a preposition, not a connector between two clauses, use *weil* for a clause)
+- *Wegen des Regens, ich bleibe zu Hause.* → **Wegen des Regens bleibe ich zu Hause.** (verb stays in second position, no comma after the preposition phrase)
+:::
+
+---
+
+## Related articles
+
+- [B1 > Concepts > Expressing reasons](/b1/concepts/expressing-reasons.md)
+- [B1 > Grammar > Genitiv](/b1/grammar/genitiv.md)
+- [B1 > Grammar > Konzessiv Nebensätze](/b1/grammar/konzessiv-nebensaetze.md)

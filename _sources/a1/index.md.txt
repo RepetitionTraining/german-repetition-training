@@ -1,21 +1,29 @@
+---
+html_theme.sidebar_secondary.remove:
+---
+
 # A1
 
-Beginner level German language learning materials.
-
 ```{toctree}
 :maxdepth: 2
-:caption: A1 Grammar
 
+grammar/index
+concepts/index
+writing/index
+vocabulary/index
 ```
 
-```{toctree}
-:maxdepth: 2
-:caption: A1 Topics
+## Additional reading
 
-```
+External resources that complement this level.
 
-```{toctree}
-:maxdepth: 2
-:caption: A1 Vocabulary
-
-```
+- [Goethe-Institut: Prüfungsziele Goethe-Zertifikat A1 (Start Deutsch 1)](https://www.goethe.de/pro/relaunch/prf/de/Pruefungsziele_Testbeschreibung_A1_SD1.pdf), the official syllabus of what the A1 exam tests
+- [Goethe-Institut: A1 Start Deutsch 1 Wortliste](https://www.goethe.de/pro/relaunch/prf/de/A1_SD1_Wortliste_02.pdf), the official A1 vocabulary list
+- [Deutsche Welle: Nicos Weg A1 Grammatikübersicht (DE)](https://static.dw.com/downloads/59835913/grammatikuebersicht-nicos-weg-a1.pdf), a free video course with a lesson-by-lesson grammar overview
+- [Deutsche Welle: Nicos Weg A1 Grammar Overview (EN)](https://learngerman.dw.com/downloads/52650199/grammar-overview-nicos-weg-a1.pdf), the same overview in English
+- [Hueber: Menschen A1 Grammatikübersicht](https://www.hueber.de/media/36/Menschen-a1-grammatik-uebersicht.pdf), the grammar summary of a widely used A1 coursebook
+- [StudyGerman.io: A1 Grammar](https://studygerman.io/grammar/a1), a concise overview of A1 grammar topics
+- [Lingolia: German Grammar](https://deutsch.lingolia.com/en/grammar), reference explanations with exercises
+- [Mein-Deutschbuch: Niveau A1](https://mein-deutschbuch.de/niveau-a1.html), free A1 practice exercises
+- [Council of Europe: CEFR level descriptions](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions), what A1 means in the European framework
+- [Council of Europe: CEFR self-assessment grid](https://www.coe.int/en/web/common-european-framework-reference-languages/table-2-cefr-3.3-common-reference-levels-self-assessment-grid), check your own level by skill

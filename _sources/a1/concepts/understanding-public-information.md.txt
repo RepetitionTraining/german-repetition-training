@@ -1,0 +1,112 @@
+---
+myst:
+  html_meta:
+    description: "A1 concept: understanding public information. Signs, opening hours, station announcements, and the short official phrases you meet every day."
+    keywords: "german, a1, concepts, signs, schilder, geöffnet, geschlossen, verboten, announcements, gleis"
+    "property=og:title": "Understanding public information"
+    "property=og:description": "A1 concept: understanding public information. Signs, opening hours, station announcements, and the short official phrases you meet every day."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Understanding public information
+
+After this page the signs, notices, and loudspeaker announcements around you start making sense: shop hours, station platforms, and the little imperatives on every door. This is a listening and reading skill; you rarely need to produce these phrases, only to catch them.
+
+## When to use it
+
+- Reading signs on shops, doors, and machines
+- Catching announcements at stations and on trains
+- Understanding notices about hours, closures, and prohibitions
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| geöffnet / geschlossen | open / closed | shop doors |
+| Eingang / Ausgang | entrance / exit | |
+| drücken / ziehen | push / pull | on doors |
+| ... verboten | ... prohibited | Rauchen verboten |
+| Achtung! / Vorsicht! | Attention! / Careful! | |
+| das Gleis | the platform | stations |
+| die Verspätung | the delay | |
+
+## Doors, shops, and signs
+
+Signs compress language to its bones: no articles, no full sentences. Opening hours run *von ... bis ...*, prohibitions end in *verboten*.
+
+**Examples:**
+
+:::{div} ol-examples
+Geöffnet von neun bis achtzehn Uhr.
+: Open from nine to six.
+
+Heute geschlossen.
+: Closed today.
+
+Rauchen verboten.
+: Smoking prohibited.
+:::
+
+## At the station
+
+Announcements recycle the same handful of patterns with different numbers. Listen for the platform (*Gleis*), the delay (*Verspätung*), and the stop (*Halt*).
+
+**Examples:**
+
+:::{div} ol-examples
+Der Zug nach München fährt von Gleis fünf.
+: The train to Munich leaves from platform five.
+
+Der Zug hat zehn Minuten Verspätung.
+: The train is ten minutes late.
+
+Nächster Halt: Hauptbahnhof.
+: Next stop: main station.
+:::
+
+## Short official requests
+
+*Bitte* plus an infinitive is the polite official voice: *Bitte hier warten. Bitte drücken.* You will see it on machines, counters, and doors everywhere.
+
+**Examples:**
+
+:::{div} ol-examples
+Bitte hier warten.
+: Please wait here.
+
+Der Aufzug ist kaputt.
+: The lift is out of order.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/concepts/part-2
+:track: understanding-public-information.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Signs drop articles and verbs: *geöffnet, geschlossen, Eingang, Ausgang*.
+- *von ... bis ...* frames opening hours; *verboten* ends prohibitions.
+- Station survival: *Gleis*, *Verspätung*, *Nächster Halt*.
+- *Bitte* + infinitive is the official request form: *Bitte drücken.*
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- Confusing *drücken* (push) and *ziehen* (pull): the daily door lottery; learn the pair.
+- Hearing *Gleis fünf* but running to platform four: numbers under pressure need the drill from the numbers track.
+- *Kein Trinkwasser* means the water is NOT drinkable; *kein* on a sign always warns.
+:::
+
+## Related articles
+
+- Previous concept: [Talking about past events](/a1/concepts/talking-about-past-events.md)
+- Next concept: [Asking for help and clarification](/a1/concepts/asking-for-help-and-clarification.md)
+- [Numbers and personal data](/a1/concepts/numbers-and-personal-data.md)
+- [Telling the time and days](/a1/concepts/telling-the-time-and-days.md)

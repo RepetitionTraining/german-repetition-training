@@ -1,0 +1,97 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: personal pronouns in the accusative. mich, dich, ihn and friends as direct objects, and how ihn, sie, es track gender."
+    keywords: "german, german learning, a1, grammar, personal pronouns, accusative, mich, dich, ihn, uns, euch"
+    "property=og:title": "Personalpronomen im Akkusativ – Personal Pronouns: Accusative"
+    "property=og:description": "A1 grammar: personal pronouns in the accusative. mich, dich, ihn and friends as direct objects, and how ihn, sie, es track gender."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Personal Pronouns: Accusative
+
+:::{admonition} Prerequisites
+:class: note
+Before reading this article, make sure you are comfortable with:
+- [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
+- [A1 > Grammar > The Accusative Case](/a1/grammar/cases/akkusativ.md)
+:::
+
+When a pronoun is the direct object, it changes form, just as English *I* becomes *me*: *Ich liebe **dich**.* The accusative pronouns power everyday sentences about seeing, knowing, calling, and loving people.
+
+## The forms
+
+| Nominative | Accusative | English |
+|---|---|---|
+| ich | mich | me |
+| du | dich | you |
+| er | **ihn** | him |
+| sie | sie | her |
+| es | es | it |
+| wir | uns | us |
+| ihr | euch | you (plural) |
+| sie / Sie | sie / Sie | them / you (formal) |
+
+The big change is *er* → **ihn**. Most of the rest either match English logic or do not change at all.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich liebe {akk}`dich`.
+: I love you.
+
+Kennst du {akk}`ihn`?
+: Do you know him?
+
+Der Lehrer fragt {akk}`uns`.
+: The teacher asks us.
+:::
+
+## Things are *ihn*, *sie*, *es* too
+
+Like the nominative pronouns, the accusative ones track grammatical gender. A masculine thing is *ihn*: *Wo ist der Schlüssel? Ich finde **ihn** nicht.*
+
+**Examples:**
+
+:::{div} ol-examples
+Wo ist der Schlüssel? Ich finde {akk}`ihn` nicht.
+: Where is the key? I can't find it.
+
+Die Jacke ist schön. Ich kaufe {akk}`sie`.
+: The jacket is nice. I am buying it.
+
+Das Buch? Ich lese {akk}`es` gerade.
+: The book? I am reading it right now.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-3
+:track: personalpronomen-akkusativ.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *mich, dich, ihn, sie, es, uns, euch, sie/Sie*.
+- The headline change: *er* becomes **ihn**.
+- Thing-pronouns follow gender: *der Schlüssel* → *ihn*.
+- *sie/Sie* and *es* look the same in both cases; the verb and context decide.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Kennst du er?* → Kennst du **ihn**? (object form needed)
+- *\*Ich sehe du.* → Ich sehe **dich**.
+- *\*Der Schlüssel? Ich finde es nicht.* → Ich finde **ihn** nicht. (Schlüssel is masculine)
+:::
+
+## Related articles
+
+- [A1 > Grammar > Personal Pronouns: Nominative](/a1/grammar/pronouns/personalpronomen-nominativ.md)
+- [A1 > Grammar > Personal Pronouns: Dative](/a1/grammar/pronouns/personalpronomen-dativ.md)
+- [A1 > Grammar > Verbs with the Accusative](/a1/grammar/verbs/verben-mit-akkusativ.md)

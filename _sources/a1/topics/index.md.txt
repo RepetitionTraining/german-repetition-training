@@ -1,5 +1,0 @@
-# A1 Topics
-
-```{toctree}
-:maxdepth: 1
-```

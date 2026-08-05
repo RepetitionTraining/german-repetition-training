@@ -1,0 +1,58 @@
+---
+myst:
+  html_meta:
+    description: "A1 vocabulary: the human body 1. The German words for the body from der Kopf to der Fuß, and saying what hurts with wehtun."
+    keywords: "german, german learning, a1, vocabulary, body, körper, kopf, auge, hand, bein, wehtun"
+    "property=og:title": "The Human Body 1"
+    "property=og:description": "A1 vocabulary: the human body 1. The German words for the body from der Kopf to der Fuß, and saying what hurts with wehtun."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# The human body 1
+
+Body words earn their keep the day something hurts and a pharmacist asks where. This pack maps the body from head to foot and pairs it with *wehtun*, the verb that turns any body part into a sentence a doctor understands.
+
+## The words
+
+| German | English |
+|---|---|
+| der Kopf, die Köpfe | head |
+| das Auge, die Augen | eye |
+| das Ohr, die Ohren | ear |
+| die Nase, die Nasen | nose |
+| der Mund, die Münder | mouth |
+| die Hand, die Hände | hand |
+| der Arm, die Arme | arm |
+| das Bein, die Beine | leg |
+| der Fuß, die Füße | foot |
+| der Bauch, die Bäuche | belly, stomach |
+| der Rücken, die Rücken | back |
+| die Haare | hair (usually plural) |
+| wehtun | to hurt |
+
+The paired parts (*Augen, Ohren, Hände, Arme, Beine, Füße*) live mostly in the plural, so the track serves several of them that way.
+
+## Hear it in practice
+
+One sentence per word, with *wehtun* returning across different body parts, exactly as it will at the doctor's.
+
+:::{audio-examples}
+:album: a1/vocabulary/part-1
+:track: the-human-body-1.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The head set: *Kopf, Auge, Ohr, Nase, Mund, Haare*.
+- The limbs: *Hand, Arm, Bein, Fuß*, usually in pairs and plural.
+- The torso: *Bauch, Rücken*.
+- The pain pattern: *Mein ... tut weh. Meine ... tun weh.*
+:::
+
+## Related articles
+
+- [Expressing how you feel](/a1/concepts/expressing-how-you-feel.md)
+- [A1 > Grammar > Noun Gender and Plurals](/a1/grammar/other/nomen-genus-plural.md)

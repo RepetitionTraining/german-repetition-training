@@ -1,0 +1,74 @@
+---
+myst:
+  html_meta:
+    description: "A1 writing: a birthday greeting. A German birthday card with the wishing formulas alles Gute, ich wünsche dir, and a personal line."
+    keywords: "german, a1, writing, birthday, geburtstag, alles gute, glückwunsch, karte, greeting"
+    "property=og:title": "A Birthday Greeting"
+    "property=og:description": "A1 writing: a birthday greeting. A German birthday card with the wishing formulas alles Gute, ich wünsche dir, and a personal line."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# A Birthday Greeting
+
+Birthday wishes in German are built from fixed formulas plus one personal line, and it is the personal line that makes the card. The formulas you learn once and reuse for life; this page gives you both halves.
+
+## Example: A card for Grandpa
+
+Anna's grandfather has a birthday, and a card is on its way.
+
+> Lieber Opa,
+>
+> alles Gute zum Geburtstag! Ich wünsche dir Gesundheit und viel Glück.
+>
+> Wie feierst du heute? Feierst du mit der ganzen Familie? Hoffentlich gibt es einen großen Kuchen! Ich denke an dich und besuche dich im August. Dann feiern wir zusammen, und ich bringe dir ein Geschenk mit.
+>
+> Bleib gesund und hab einen schönen Tag!
+>
+> Deine Anna
+
+What makes it work: the double formula opens (*alles Gute zum Geburtstag* + *ich wünsche dir ...*); the personal middle asks about the day and promises a visit; and the sign-off *Deine Anna* (a man writes *Dein*) is the warm register reserved for family and close friends.
+
+### Hear it in practice
+
+:::{audio-examples}
+:album: a1/writing/part-1
+:track: postcard-2.yml
+:::
+
+## Building blocks
+
+| Slot | Options |
+|---|---|
+| The formula | Alles Gute zum Geburtstag! / Herzlichen Glückwunsch! |
+| The wishes | Ich wünsche dir Gesundheit / viel Glück / viel Freude. |
+| The personal line | Wie feierst du? / Ich denke an dich. |
+| The promise | Ich besuche dich im ... / Wir feiern zusammen. |
+| The close | Bleib gesund! / Hab einen schönen Tag! |
+| Sign-off (close family) | Deine Anna / Dein Jonas |
+
+*Ich wünsche dir ...* takes plain nouns, no article: *Gesundheit, Glück, Freude*. Stack two or three and the formula is complete.
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The two formulas: *Alles Gute zum Geburtstag!* and *Herzlichen Glückwunsch!*
+- Wishes with *ich wünsche dir* + bare nouns: *Gesundheit und viel Glück*.
+- One personal line turns a formula into a card.
+- Family sign-off: *Deine/Dein* + name.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Alles Gute zum Geburtstag am nachhinein* for late wishes → **nachträglich alles Gute zum Geburtstag**. (learn the adverb whole)
+- *\*Ich wünsche dir eine Gesundheit.* → Ich wünsche dir **Gesundheit**. (wishes drop the article)
+- Formula-only cards: add one personal sentence, or the card reads like a form letter.
+:::
+
+## Related articles
+
+- [A Postcard from Holiday](/a1/writing/postcard-1.md)
+- [Telling the time and days](/a1/concepts/telling-the-time-and-days.md)
+- [A1 > Grammar > Ordinal Numbers and Dates](/a1/grammar/other/ordinalzahlen-datum.md)

@@ -1,0 +1,172 @@
+---
+myst:
+  html_meta:
+    description: "B2 German grammar: Irreale Vergleichssätze mit als, als ob und als wenn, inklusive Konjunktiv II, Satzstellung und typischer Verben."
+    keywords: "german, german learning, b2, grammar, irreale vergleichssaetze, als, als ob, als wenn, konjunktiv ii, nebensatz, satzstellung"
+    "property=og:title": "Irreale Vergleichssätze mit als, als ob, als wenn – B2 German Grammar"
+    "property=og:description": "Learn how to use als, als ob, and als wenn with Konjunktiv II for unreal comparisons at B2 level."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Irreale Vergleichssätze mit als, als ob, als wenn
+
+> Describe unreal comparisons naturally in B2 German
+
+:::{seealso}
+
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B2 > Grammar > Vergleichssätze](/b2/grammar/vergleichssaetze.md)
+- [B2 > Grammar > Indirekte Rede](/b2/grammar/indirekte-rede.md)
+- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)
+
+:::
+
+With irreale Vergleichssätze, you compare reality with something imagined. In German, that comparison is usually marked by {conj}`als`, {conj}`als ob`, or {conj}`als wenn` plus **Konjunktiv II**. At B2, this helps you sound more precise when describing impressions, feelings, and behavior.
+
+*Examples:*
+
+- *She talks as if she knew the answer already.*
+- *It looks as if the meeting had already started.*
+- *He reacted as if nothing had happened.*
+
+---
+
+## Vergleichssätze mit als
+
+With {conj}`als` in unreal comparisons, German usually uses a condensed clause with **Konjunktiv II**. The finite verb often comes directly after {conj}`als`, then the subject.
+
+> Hauptsatz + Komma + {conj}`als` + {verb}`Konjunktiv II` + Subjekt + ...
+
+| Pattern | Example |
+| --- | --- |
+| als + verb-first clause | Er tut so, als {verb}`wäre` er der Chef. |
+| als + perfect Konjunktiv II | Sie sah mich an, als {verb}`hätte` ich sie belogen. |
+
+**Examples:**
+
+- Der Chef behandelt uns, als {verb}`wären` wir gleichberechtigte Partner.  
+  *The boss treats us as if we were equal partners.*
+- Er spricht mit mir, als {verb}`kennte` er mich seit Jahren.  
+  *He talks to me as if he had known me for years.*
+- Sie lächelte, als {verb}`hätte` sie die Lösung längst gefunden.  
+  *She smiled as if she had found the solution long ago.*
+- Er reagierte, als {verb}`wäre` das alles völlig normal.  
+  *He reacted as if all of this were completely normal.*
+- Die Mannschaft spielte, als {verb}`gäbe` es keinen Druck.  
+  *The team played as if there were no pressure.*
+
+:::{tip}
+This short {conj}`als` structure is common in spoken and written German. If you are unsure, you can usually reformulate with {conj}`als ob`.
+:::
+
+### Practice: als
+
+Use the following link to practice this section:
+
+---
+
+## Irreale Vergleichssätze mit als ob und als wenn
+
+{conj}`als ob` and {conj}`als wenn` introduce a full subordinate clause. In this clause, the finite verb goes to the end, and you normally use **Konjunktiv II** (present or past, depending on meaning).
+
+> Hauptsatz + Komma + {conj}`als ob` / {conj}`als wenn` + ... + {verb}`Konjunktiv II` (am Ende)
+
+| Connector | Typical word order | Example |
+| --- | --- | --- |
+| als ob | subordinate clause (verb at end) | Sie tut so, als ob sie alles {verb}`wüsste`. |
+| als wenn | subordinate clause (verb at end) | Es klingt, als wenn er nicht kommen {verb}`könnte`. |
+
+**Examples:**
+
+- Die Kollegen tun immer so, als ob sie alle perfekt {verb}`wären`.  
+  *The colleagues always act as if they were all perfect.*
+- Es scheint so, als wenn wir uns schon lange kennen {verb}`würden`.  
+  *It seems as if we had known each other for a long time.*
+- Er antwortet, als ob ihn die Kritik nicht {verb}`interessieren würde`.  
+  *He answers as if the criticism did not interest him.*
+- Die Nachbarin schaut mich an, als wenn ich etwas falsch gemacht {verb}`hätte`.  
+  *The neighbor looks at me as if I had done something wrong.*
+- Das Kind redet, als ob es schon erwachsen {verb}`wäre`.  
+  *The child talks as if it were already an adult.*
+
+:::{note}
+In modern usage, {conj}`als ob` is generally more frequent than {conj}`als wenn`, but both are correct at B2 level.
+:::
+
+### Practice: als ob und als wenn
+
+Use the following link to practice this section:
+
+---
+
+## Position and typical main-clause verbs
+
+Irreale Vergleichssätze usually follow a main clause with verbs of perception, feeling, appearance, or behavior. Typical patterns include: *es scheint*, *es wirkt*, *so tun*, *sich fühlen*, *aussehen*, *klingen*.
+
+At B2 level, an important restriction is: this comparison clause is normally **not** placed before the main clause.
+
+| Typical main verb/expression | Example with unreal comparison |
+| --- | --- |
+| es scheint | Es scheint, als ob niemand Bescheid {verb}`wüsste`. |
+| so tun | Er tut so, als hätte er davon nie etwas gehört. |
+| sich fühlen | Ich fühlte mich, als wäre ich in einem falschen Film. |
+| aussehen | Es sieht so aus, als wenn ein Sturm kommen {verb}`würde`. |
+
+**Examples:**
+
+- Es wirkt, als ob das Team ohne klaren Plan arbeiten {verb}`würde`.  
+  *It seems as if the team were working without a clear plan.*
+- Ich fühlte mich, als {verb}`hätte` jemand den Boden unter mir weggezogen.  
+  *I felt as if someone had pulled the ground out from under me.*
+- Sie tut so, als wenn sie von dem Problem nichts {verb}`wüsste`.  
+  *She acts as if she knew nothing about the problem.*
+- Es klingt, als ob ihr euch schon lange {verb}`kennen würdet`.  
+  *It sounds as if you had known each other for a long time.*
+
+:::{warning}
+Do not front this type of clause:
+
+- Unnatural/incorrect in this context: *Als ob er alles wüsste, er spricht mit allen.*
+- Natural: *Er spricht mit allen, als ob er alles wüsste.*
+:::
+
+### Practice: position and trigger verbs
+
+Use the following link to practice this section:
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- {conj}`als`, {conj}`als ob`, and {conj}`als wenn` can express an **unreal comparison**.
+- The comparison clause normally uses **Konjunktiv II**.
+- With {conj}`als`, German often uses a shorter verb-first clause.
+- With {conj}`als ob` and {conj}`als wenn`, you get a subordinate clause with the finite verb at the end.
+- These clauses usually come **after** the main clause, often after verbs like *scheinen*, *wirken*, or *so tun*.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Er tut so, als ob er ist krank.* -> Er tut so, als ob er **krank wäre**. (Use Konjunktiv II, not Indikativ.)
+- *Es klingt, als wenn wir kennen uns lange.* -> Es klingt, als wenn wir uns lange **kennen würden**. (Verb goes to the end in als-wenn clauses.)
+- *Als ob alles einfach wäre, sie spricht darüber.* -> Sie spricht darüber, als ob alles einfach wäre. (This comparison clause is normally not preposed.)
+- *Sie lacht, als hätte sie hat gewonnen.* -> Sie lacht, als **hätte** sie gewonnen. (No second finite verb after hätte.)
+
+:::
+
+---
+
+## Full practice
+
+Use the link below to practice the full topic interactively.
+
+## Related articles
+
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B2 > Grammar > Indirekte Rede](/b2/grammar/indirekte-rede.md)
+- [B1 > Grammar > Konjunktiv II](/b1/grammar/konjunktiv-ii.md)

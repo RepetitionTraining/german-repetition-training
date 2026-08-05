@@ -1,0 +1,91 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: two-way prepositions as location chunks. in der Stadt, auf dem Tisch, an der Ecke: learn the places, save the case rule for A2."
+    keywords: "german, german learning, a1, grammar, two-way prepositions, wechselpräpositionen, in, auf, an, location chunks"
+    "property=og:title": "Wechselpräpositionen – Two-Way Prepositions"
+    "property=og:description": "A1 grammar: two-way prepositions as location chunks. in der Stadt, auf dem Tisch, an der Ecke: learn the places, save the case rule for A2."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Two-Way Prepositions
+
+*In*, *auf*, and *an* answer *wo?* in almost every everyday location phrase: *in der Stadt*, *auf dem Tisch*, *an der Ecke*. At A1, learn these as fixed chunks, place by place. The full system behind them (they switch case with direction, hence "two-way") is A2 material; the chunks work perfectly without it.
+
+## The chunks by preposition
+
+*In* for enclosed spaces, *auf* for surfaces and open areas, *an* for edges and points of contact:
+
+| Preposition | Chunk | English |
+|---|---|---|
+| in | in der Stadt, im Kino, im Büro | in town, at the cinema, at the office |
+| auf | auf dem Tisch, auf dem Markt | on the table, at the market |
+| an | an der Ecke, an der Wand, am Bahnhof | on the corner, on the wall, at the station |
+
+*Im* is *in dem*; *am* is *an dem*. You have met both since your first location sentence.
+
+**Examples:**
+
+:::{div} ol-examples
+Wir sind {prep}`in` der Stadt.
+: We are in town.
+
+Das Auto steht {prep}`auf` dem Parkplatz.
+: The car is in the car park.
+
+Sie wartet {prep}`an` der Haltestelle.
+: She is waiting at the stop.
+:::
+
+## Using them in sentences
+
+Location chunks slot into any sentence pattern you know: with *sein*, with activity verbs, or up front with inversion.
+
+**Examples:**
+
+:::{div} ol-examples
+Wir essen {prep}`im` Restaurant.
+: We are eating at the restaurant.
+
+{prep}`Am` Bahnhof gibt es ein Café.
+: At the station there is a café.
+
+{prep}`Im` Zug ist es voll.
+: The train is crowded.
+:::
+
+## A look ahead
+
+These same prepositions can also express direction (*ins Kino gehen*), and then the case changes. That switch is the A2 lesson. For now: if you are saying where something IS, the chunks on this page are always right.
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-4
+:track: wechselpraepositionen.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *in* = inside, *auf* = on/at open places, *an* = at edges and points.
+- Learn locations as chunks: *in der Stadt, auf dem Tisch, an der Ecke*.
+- *im* = in dem, *am* = an dem.
+- The direction/case switch waits at A2; location chunks never mislead you.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*auf dem Kino* → **im** Kino. (enclosed space takes in)
+- *\*in dem Tisch* → **auf** dem Tisch. (surfaces take auf)
+- Worrying about the case rule now: at A1 the chunk IS the rule.
+:::
+
+## Related articles
+
+- [Describing where things are](/a1/concepts/describing-where-things-are.md)
+- [A1 > Grammar > Local Prepositions with Dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)
+- [A1 > Grammar > Contracted Prepositions](/a1/grammar/prepositions/kurzformen.md)

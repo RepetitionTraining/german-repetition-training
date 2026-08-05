@@ -1,0 +1,102 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the local prepositions zu, bei, aus, and von. Going to places and people, being at someone's, and coming from somewhere."
+    keywords: "german, german learning, a1, grammar, local prepositions, zu, bei, aus, von, nach, nach Hause"
+    "property=og:title": "Lokale Präpositionen – zu, bei, aus und von"
+    "property=og:description": "A1 grammar: the local prepositions zu, bei, aus, and von. Going to places and people, being at someone's, and coming from somewhere."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Local Prepositions with Dative
+
+:::{admonition} Prerequisites
+:class: note
+Before reading this article, make sure you are comfortable with:
+- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
+:::
+
+Four of your dative prepositions do heavy local work: *zu* takes you somewhere, *bei* keeps you there, *aus* and *von* bring you back. Together with *nach* for cities and countries, they cover the everyday geography of going, staying, and returning.
+
+## Going: *zu* and *nach*
+
+*Zu* heads toward people, shops, and buildings: *zum Arzt, zur Schule, zu Anna*. *Nach* is reserved for cities, most countries, and the special case *nach Hause* (homewards).
+
+**Examples:**
+
+:::{div} ol-examples
+Ich gehe {prep}`zum` Arzt.
+: I am going to the doctor.
+
+Gehst du heute {prep}`zu` Anna?
+: Are you going to Anna's today?
+
+Wir fahren {prep}`nach` Berlin.
+: We are going to Berlin.
+:::
+
+## Staying: *bei*
+
+*Bei* means at someone's place or at an employer: *bei meinen Eltern, bei Oma, bei einer Bank*. Its opposite number for your own place is the pair *zu Hause* (at home) versus *nach Hause* (homewards).
+
+**Examples:**
+
+:::{div} ol-examples
+Ich wohne {prep}`bei` meinen Eltern.
+: I live with my parents.
+
+Wir sind {prep}`bei` Oma.
+: We are at grandma's.
+
+Bist du {prep}`zu` Hause?
+: Are you at home?
+:::
+
+## Coming from: *aus* and *von*
+
+*Aus* comes out of an enclosed origin: a country, a town, a building. *Von* comes from a point, a person, or an activity: *von der Arbeit, vom Markt, von meiner Oma*.
+
+**Examples:**
+
+:::{div} ol-examples
+Sie kommt gerade {prep}`aus` dem Haus.
+: She is just coming out of the house.
+
+Er kommt gerade {prep}`von` der Arbeit.
+: He is just coming from work.
+
+Der Zug kommt {prep}`aus` Hamburg.
+: The train comes from Hamburg.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-4
+:track: lokale-praepositionen-dativ.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *zu* for people and buildings, *nach* for cities, countries, and *nach Hause*.
+- *bei* = at someone's place or employer.
+- *aus* = out of an origin; *von* = from a point, person, or activity.
+- All of them take the dative, as always.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich gehe nach dem Arzt.* → Ich gehe **zum** Arzt. (people and buildings take zu)
+- *\*Ich bin in Hause.* → Ich bin **zu** Hause. (fixed chunk)
+- *\*Ich komme von Italien.* → Ich komme **aus** Italien. (origin countries take aus)
+:::
+
+## Related articles
+
+- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
+- [A1 > Grammar > Contracted Prepositions](/a1/grammar/prepositions/kurzformen.md)
+- [Asking for and giving directions](/a1/concepts/asking-for-and-giving-directions.md)

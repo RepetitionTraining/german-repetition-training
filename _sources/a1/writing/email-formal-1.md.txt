@@ -1,0 +1,80 @@
+---
+myst:
+  html_meta:
+    description: "A1 writing: emailing your boss. A formal German email requesting time off, with the Sie-register frame for workplace correspondence."
+    keywords: "german, a1, writing, email, formal, Sie, sehr geehrte, mit freundlichen grüßen, urlaub, boss"
+    "property=og:title": "Emailing Your Boss"
+    "property=og:description": "A1 writing: emailing your boss. A formal German email requesting time off, with the Sie-register frame for workplace correspondence."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Emailing Your Boss
+
+Workplace email runs on the *Sie* register: a formal greeting, one clear request stated early and politely, a reason, and a fixed sign-off. German workplace culture expects directness wrapped in courtesy, and the frame below delivers exactly that. Once it sits, only the request in the middle ever changes.
+
+## Example: Requesting time off
+
+Anna needs two weeks off in August and writes to Frau Weber.
+
+> **Betreff:** Urlaub im August
+>
+> Sehr geehrte Frau Weber,
+>
+> ich möchte gern vom vierten bis zum fünfzehnten August Urlaub nehmen. Meine Familie in Polen feiert ein großes Fest, und ich möchte gern dabei sein.
+>
+> Ich habe noch zwölf Urlaubstage. Frau Schmidt kann in dieser Zeit meine Arbeit machen. Ich habe schon mit ihr gesprochen, und sie ist einverstanden.
+>
+> Ist das für Sie in Ordnung? Vielen Dank für Ihre Antwort.
+>
+> Mit freundlichen Grüßen
+> Anna Kowalska
+
+What makes it work: the request comes first, politely framed with *ich möchte gern*; the middle paragraph removes the boss's biggest worry (who covers the work); and the closing question hands the decision over respectfully. No small talk: formal German emails get to the point.
+
+### Hear it in practice
+
+:::{audio-examples}
+:album: a1/writing/part-1
+:track: email-formal-1.yml
+:::
+
+## Building blocks
+
+The formal frame, ready to reuse with any request:
+
+| Slot | Options |
+|---|---|
+| Greeting | Sehr geehrte Frau Weber, / Sehr geehrter Herr Braun, |
+| The request | ich möchte gern ... / ich habe eine Frage: ... |
+| The reason | Meine Familie ... / Ich habe am ... einen Termin. |
+| Asking | Ist das für Sie in Ordnung? / Können Sie mir bitte antworten? |
+| Thanks | Vielen Dank für Ihre Antwort. / Ich danke Ihnen im Voraus. |
+| Sign-off | Mit freundlichen Grüßen |
+
+*Mit freundlichen Grüßen* is the one and only standard formal sign-off; learn it as a single unchangeable chunk. The greeting comma rule holds here too: continue in lowercase (*ich möchte ...*).
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Formal frame: *Sehr geehrte/r ...* to open, *Mit freundlichen Grüßen* to close.
+- The point comes first, softened with *ich möchte gern*.
+- Anticipate the practical question (who covers the work) before it is asked.
+- Hold *Sie* through every verb and pronoun: *Ihnen, Ihre*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Hallo Frau Weber* in a formal request: use **Sehr geehrte Frau Weber**.
+- *\*Wie geht es Ihnen?* as an opener: formal emails skip small talk entirely.
+- *\*Mit freundlichen Grüße* → Mit freundlichen Grüße**n**. (fixed chunk, fixed ending)
+- Burying the request in paragraph three: in German business style it leads.
+:::
+
+## Related articles
+
+- [An Email to a Friend](/a1/writing/email-informal-1.md)
+- [Making and responding to requests](/a1/concepts/making-and-responding-to-requests.md)
+- [A1 > Grammar > du, ihr, or Sie](/a1/grammar/pronouns/anredeformen.md)

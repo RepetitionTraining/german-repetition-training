@@ -1,0 +1,239 @@
+---
+myst:
+  html_meta:
+    description: "Learn the German Präteritum (simple past) at B1 level, weak, strong, and mixed verb formation, plus auxiliaries and modal verbs."
+    keywords: "german, german learning, b1, grammar, präteritum, simple past, imperfekt, weak verbs, strong verbs, mixed verbs, schwache verben, starke verben, gemischte verben, german past tense"
+    "property=og:title": "Präteritum – Simple Past Tense"
+    "property=og:description": "Learn the German Präteritum (simple past) at B1 level, weak, strong, and mixed verb formation, plus auxiliaries and modal verbs."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Präteritum
+
+> Simple past tense
+
+The *Präteritum* is the simple past tense you encounter whenever you read German, in novels, newspapers, fairy tales, and formal reports. While spoken German generally prefers the *Perfekt* for completed actions, the *Präteritum* is the standard written narrative tense, and a small but important group of verbs (*sein*, *haben*, *werden*, modals) use it in everyday speech too.
+
+---
+
+## Präteritum in written and spoken German
+
+The most important thing to know about *Präteritum* is when to use it. In spoken, everyday German the *Perfekt* is used for most past actions. The *Präteritum* belongs primarily to written and formal language.
+
+| Register | Preferred tense | Example |
+|---|---|---|
+| Written / formal | Präteritum | _Sie **schrieb** täglich in ihr Tagebuch._ |
+| Spoken / casual | Perfekt | _Sie **hat** täglich in ihr Tagebuch **geschrieben**._ |
+| Spoken (exceptions) | Präteritum | _Ich **war** gestern müde. Er **konnte** nicht kommen._ |
+
+The following verbs are so common that their *Präteritum* forms simply feel more natural, even in conversation: *sein → war*, *haben → hatte*, *werden → wurde*, and all six modal verbs.
+
+- Das Buch {verb}`war` spannend, aber ich {verb}`hatte` keine Zeit, es zu lesen.  
+  _The book was gripping, but I didn't have time to read it._
+- Sie {verb}`berichtete` über den Unfall. _(written, newspaper article)_  
+  _She reported on the accident._
+- Der König {verb}`lebte` in einem großen Schloss. _(written, fairy tale)_  
+  _The king lived in a large castle._
+- Als Kind {verb}`spielte` er jeden Tag Fußball auf der Straße. _(written, memoir)_  
+  _As a child he played football in the street every day._
+
+:::{note}
+In southern Germany, Austria, and Switzerland, spoken German uses *Perfekt* even more broadly, sometimes even for *sein* and *haben*. If you learn in those regions, you may rarely hear *Präteritum* in speech at all. Central and northern German speakers, however, do use _war_ and _hatte_ freely in conversation.
+:::
+
+---
+
+## Weak (regular) verbs
+
+Most German verbs are weak (regular). To form the Präteritum, add **-te** to the verb stem and then the person ending.
+
+> **Stem + -te + ending**
+
+| Person | Ending | _spielen_ | _kaufen_ |
+|---|---|---|---|
+| ich | **-te** | spiel**te** | kauf**te** |
+| du | **-test** | spiel**test** | kauf**test** |
+| er / sie / es | **-te** | spiel**te** | kauf**te** |
+| wir | **-ten** | spiel**ten** | kauf**ten** |
+| ihr | **-tet** | spiel**tet** | kauf**tet** |
+| sie / Sie | **-ten** | spiel**ten** | kauf**ten** |
+
+:::{note}
+If the verb stem ends in **-d** or **-t**, insert an extra **-e-** before the endings to keep the word pronounceable: _arbeiten → arbeit**ete**_, _warten → wart**ete**_, _reden → red**ete**_. The same applies to stems ending in a consonant cluster with **-m** or **-n**, like _atmen → atm**ete**_.
+:::
+
+- Ich {verb}`spielte` Gitarre, während sie {verb}`kochte`.  
+  _I played guitar while she cooked._
+- Sie {verb}`arbeitete` den ganzen Tag im Büro.  
+  _She worked in the office all day._
+- Wir {verb}`kauften` frisches Brot und Käse auf dem Markt.  
+  _We bought fresh bread and cheese at the market._
+- Er {verb}`wartete` fast eine Stunde auf den Bus.  
+  _He waited for nearly an hour for the bus._
+- Das Kind {verb}`redete` nicht mit dem fremden Mann.  
+  _The child did not talk to the stranger._
+- Sie {verb}`schickten` uns eine Einladung zur Hochzeit.  
+  _They sent us an invitation to the wedding._
+
+---
+
+## Strong (irregular) verbs
+
+Strong verbs form their Präteritum by changing the stem vowel. No **-te** is added. The ich and er/sie/es forms are identical and end in nothing, no extra letter.
+
+> **Changed stem (no -te)**
+
+| Person | Ending | _schreiben_ (→ schrieb) | _fahren_ (→ fuhr) |
+|---|---|---|---|
+| ich | – | schrieb | fuhr |
+| du | **-st** | schrieb**st** | fuhr**st** |
+| er / sie / es | – | schrieb | fuhr |
+| wir | **-en** | schrieb**en** | fuhr**en** |
+| ihr | **-t** | schrieb**t** | fuhr**t** |
+| sie / Sie | **-en** | schrieb**en** | fuhr**en** |
+
+The stem vowel change differs for every strong verb, you need to learn each one individually. Here are the most useful strong verbs at B1:
+
+| Infinitive | Präteritum (ich) | English |
+|---|---|---|
+| bleiben | blieb | stayed |
+| fahren | fuhr | drove / travelled |
+| finden | fand | found |
+| gehen | ging | went |
+| geben | gab | gave |
+| kommen | kam | came |
+| laufen | lief | ran |
+| lesen | las | read |
+| nehmen | nahm | took |
+| sehen | sah | saw |
+| schreiben | schrieb | wrote |
+| sprechen | sprach | spoke |
+| stehen | stand | stood |
+| treffen | traf | met |
+| trinken | trank | drank |
+
+- Sie {verb}`schrieb` einen langen Brief an ihre Eltern.  
+  _She wrote a long letter to her parents._
+- Wir {verb}`fuhren` mit dem Zug nach Hamburg.  
+  _We travelled to Hamburg by train._
+- Er {verb}`sah` ein Licht am Ende des Tunnels.  
+  _He saw a light at the end of the tunnel._
+- Die Kinder {verb}`liefen` durch den Park nach Hause.  
+  _The children ran home through the park._
+- Ich {verb}`fand` meinen Schlüssel unter dem Sofa.  
+  _I found my key under the sofa._
+- Sie {verb}`sprachen` die ganze Nacht über ihre Pläne.  
+  _They talked all night about their plans._
+
+:::{tip}
+The *ich* and *er/sie/es* forms of strong verbs are always identical in *Präteritum*, both have no ending: _ich sah / er sah_, _ich fuhr / sie fuhr_. Use this as a quick check: if you know the *ich* form, you automatically know the *er/sie/es* form.
+:::
+
+---
+
+## Mixed verbs
+
+A small group of verbs, called *gemischte Verben* (mixed verbs), combine features of both weak and strong verbs. They change the stem vowel like strong verbs, but also add the -te endings like weak verbs.
+
+| Infinitive | Präteritum (ich) | English |
+|---|---|---|
+| bringen | brachte | brought |
+| denken | dachte | thought |
+| kennen | kannte | knew (a person/place) |
+| nennen | nannte | named / called |
+| rennen | rannte | ran |
+| senden | sandte | sent |
+| wissen | wusste | knew (a fact) |
+
+The person endings are the same as for weak verbs: -te, -test, -te, -ten, -tet, -ten.
+
+- Er {verb}`dachte` lange über das Problem nach.  
+  _He thought about the problem for a long time._
+- Ich {verb}`kannte` ihn schon seit Jahren.  
+  _I had known him for years._
+- Sie {verb}`brachte` selbstgemachten Kuchen zur Party.  
+  _She brought homemade cake to the party._
+- Das Team {verb}`wusste` nicht, wie es weitergehen sollte.  
+  _The team didn't know how to proceed._
+- Der Moderator {verb}`nannte` drei Beispiele.  
+  _The presenter named three examples._
+
+:::{tip}
+Mixed verbs form a short, fixed list, unlike strong verbs, there are only around a dozen of them. It is worth learning them as a group so you don't accidentally use a regular -te ending on a verb that also needs a vowel change.
+:::
+
+---
+
+## Sein, haben, werden und Modalverben
+
+These verbs use *Präteritum* in both written and spoken German, you will need them constantly. *Sein* and *haben* you know from A2; *werden* is new at B1.
+
+### Sein, haben, werden
+
+| | sein (to be) | haben (to have) | werden (to become) |
+|---|---|---|---|
+| ich | war | hatte | wurde |
+| du | warst | hattest | wurdest |
+| er / sie / es | war | hatte | wurde |
+| wir | waren | hatten | wurden |
+| ihr | wart | hattet | wurdet |
+| sie / Sie | waren | hatten | wurden |
+
+### Modal verbs
+
+Modal verbs drop the umlaut in *Präteritum* and follow the weak verb endings:
+
+| Infinitive | ich / er / sie / es | English |
+|---|---|---|
+| können | konnte | could |
+| müssen | musste | had to |
+| wollen | wollte | wanted to |
+| sollen | sollte | was supposed to |
+| dürfen | durfte | was allowed to |
+| mögen | mochte | liked |
+
+- Gestern {verb}`war` das Wetter wunderschön.  
+  _Yesterday the weather was wonderful._
+- Ich {verb}`hatte` leider keine Zeit, dich anzurufen.  
+  _Unfortunately I didn't have time to call you._
+- Das Dorf {verb}`wurde` nach dem Erdbeben wieder aufgebaut.  
+  _The village was rebuilt after the earthquake._
+- Sie {verb}`konnte` nicht schlafen, weil es zu laut war.  
+  _She couldn't sleep because it was too loud._
+- Wir {verb}`mussten` lange am Bahnhof warten.  
+  _We had to wait a long time at the station._
+- Er {verb}`wollte` die Stelle, aber er {verb}`durfte` sich nicht bewerben.  
+  _He wanted the job, but he wasn't allowed to apply._
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+- *Präteritum* is the default past tense in **written German**: stories, news, formal prose.
+- In **spoken German**, only *sein*, *haben*, *werden*, and **modal verbs** regularly appear in *Präteritum*. For other verbs, speakers use *Perfekt*.
+- **Weak verbs** form *Präteritum* with **-te** added to the stem: _machen → machte_.
+- **Strong verbs** change the **stem vowel** and add no -te: _schreiben → schrieb_.
+- **Mixed verbs** do both, change the vowel and add **-te**: _bringen → brachte_.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+- *Ich **gehte** ins Büro.* → Ich **ging** ins Büro. (*gehen* is strong, use vowel change, never add -te)
+- *Er **saht** mich nicht.* → Er **sah** mich nicht. (strong verbs: er/sie/es form has no ending)
+- *Sie **bringte** die Unterlagen.* → Sie **brachte** die Unterlagen. (*bringen* is mixed, stem changes to _brach-_ plus -te)
+- *Das Kind **wartte** auf die Mutter.* → Das Kind **wartete** auf die Mutter. (stem ends in -t: use -ete, not -te)
+- *Ich **mögte** das Essen nicht.* → Ich **mochte** das Essen nicht. (*mögen* has an irregular *Präteritum*, not *mögte*)
+- *Er **würde** gleich Arzt.* → Er **wurde** gleich Arzt. (*wurde* = became; *würde* is *Konjunktiv II* and means something quite different)
+:::
+
+:::{audio-examples}
+:album: b1/grammar/core
+:track: prateritum.yml
+:::
+
+---
+
+## Related articles
+
+- [B1 > Grammar > Plusquamperfekt](/b1/grammar/plusquamperfekt.md)
+- [B1 > Grammar > Temporal Nebensätze](/b1/grammar/temporal-nebensaetze.md)

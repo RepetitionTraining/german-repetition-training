@@ -1,0 +1,56 @@
+---
+myst:
+  html_meta:
+    description: "A1 vocabulary: at the park 1. A German afternoon outdoors, from der Baum and der Spielplatz to spazieren gehen and sitzen."
+    keywords: "german, german learning, a1, vocabulary, park, baum, blume, spielplatz, fahrrad, spazieren"
+    "property=og:title": "At the Park 1"
+    "property=og:description": "A1 vocabulary: at the park 1. A German afternoon outdoors, from der Baum and der Spielplatz to spazieren gehen and sitzen."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# At the park 1
+
+The park is where German cities breathe: children on the playground, bikes on the paths, someone on every bench. This pack furnishes a green afternoon, with three verbs that do most of the lounging: *spazieren gehen*, *spielen*, and *sitzen*.
+
+## The words
+
+| German | English |
+|---|---|
+| der Park, die Parks | park |
+| der Baum, die Bäume | tree |
+| die Blume, die Blumen | flower |
+| der Spielplatz, die Spielplätze | playground |
+| die Bank, die Bänke | bench |
+| der Weg, die Wege | path |
+| das Gras | grass |
+| der Ball, die Bälle | ball |
+| das Fahrrad, die Fahrräder | bicycle |
+| spazieren gehen | to go for a walk |
+| spielen | to play |
+| sitzen | to sit |
+
+## Hear it in practice
+
+One green afternoon in seventeen sentences: trees and flowers, the playground, a bench with a view.
+
+:::{audio-examples}
+:album: a1/vocabulary/part-1
+:track: at-the-park-1.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The scenery: *Park, Baum, Blume, Gras, Weg*.
+- The action spots: *Spielplatz, Bank*.
+- The gear: *Ball, Fahrrad*.
+- The verbs of a slow day: *spazieren gehen, spielen, sitzen*.
+:::
+
+## Related articles
+
+- [In the garden 1](/a1/vocabulary/in-the-garden-1.md)
+- [Sports and games 1](/a1/vocabulary/sports-and-games-1.md)
+- [Talking about the weather](/a1/concepts/talking-about-the-weather.md)

@@ -1,0 +1,115 @@
+---
+myst:
+  html_meta:
+    description: "A1 concept: requests. Ask for help politely with können and bitte, soften commands, and accept or decline requests naturally."
+    keywords: "german, a1, concepts, requests, kannst du, können sie, bitte, helfen, polite, responses"
+    "property=og:title": "Making and responding to requests"
+    "property=og:description": "A1 concept: requests. Ask for help politely with können and bitte, soften commands, and accept or decline requests naturally."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Making and responding to requests
+
+After this page you can ask people to do things for you without sounding rude, get attention politely, and answer requests aimed at you: yes gladly, or no with an excuse. A learner who can ask for help is never truly stuck.
+
+## When to use it
+
+- Asking for help, repetition, or a small favour
+- Getting a stranger's attention with *Entschuldigung*
+- Saying yes or no when someone asks you for something
+
+## Key phrases
+
+| German | English | Notes |
+|---|---|---|
+| Kannst du mir helfen? | Can you help me? | informal |
+| Können Sie mir helfen? | Can you help me? | formal |
+| Entschuldigung, ... | Excuse me, ... | opens any request to a stranger |
+| ..., bitte. | ..., please. | softens everything |
+| Ja, gern. / Natürlich. | Gladly. / Of course. | saying yes |
+| Tut mir leid, ... | I'm sorry, ... | saying no politely |
+| Danke für deine Hilfe. | Thanks for your help. | |
+
+## Asking with *Kannst du ...? / Können Sie ...?*
+
+The polite workhorse is a question with *können*: name the person, then what you want, with the action verb at the very end. Add *bitte* anywhere in the middle and the request cannot sound harsh.
+
+**Examples:**
+
+:::{div} ol-examples
+Kannst du das Fenster öffnen?
+: Can you open the window?
+
+Können Sie das bitte wiederholen?
+: Can you repeat that, please?
+
+Kann ich eine Frage stellen?
+: Can I ask a question?
+:::
+
+## Direct requests with *bitte*
+
+Short commands are fine in German when *bitte* rides along, especially for small everyday things. You will meet the full imperative in its own grammar article; for now use these as fixed patterns.
+
+**Examples:**
+
+:::{div} ol-examples
+Einen Moment, bitte.
+: One moment, please.
+
+Machst du bitte die Tür zu?
+: Will you close the door, please?
+
+Hilf mir bitte!
+: Help me, please!
+:::
+
+## Saying yes and saying no
+
+Accepting is short: *Ja, gern. Natürlich. Kein Problem.* Declining pairs an apology with a reason: *Tut mir leid, ich habe keine Zeit.* A reason, even a small one, keeps the no friendly.
+
+**Examples:**
+
+:::{div} ol-examples
+Das mache ich gern.
+: I'll gladly do that.
+
+Tut mir leid, ich habe keine Zeit.
+: I'm sorry, I don't have time.
+
+Leider geht das nicht.
+: Unfortunately that's not possible.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/concepts/part-1
+:track: making-and-responding-to-requests.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Kannst du / Können Sie ... ?* plus the verb at the end makes any polite request.
+- *Bitte* softens; *Entschuldigung* opens requests to strangers.
+- Yes: *Ja, gern. Natürlich. Kein Problem.*
+- No: *Tut mir leid* plus a short reason.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Kannst du helfen mir?* → Kannst du **mir helfen**? (the action verb goes to the end)
+- Requests without *bitte* or *können*: *Öffnen Sie das Fenster* alone sounds like an order.
+- A bare *Nein.* as an answer: add *Tut mir leid* and a reason.
+:::
+
+## Related articles
+
+- Previous concept: [Describing daily routine](/a1/concepts/describing-daily-routine.md)
+- Next concept: [Shopping and paying](/a1/concepts/shopping-and-paying.md)
+- [A1 > Grammar > Modal Verbs können, müssen, wollen](/a1/grammar/verbs/koennen-muessen-wollen.md)
+- [A1 > Grammar > The Imperative](/a1/grammar/verbs/imperativ.md)

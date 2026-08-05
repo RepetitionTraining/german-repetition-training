@@ -1,0 +1,75 @@
+---
+myst:
+  html_meta:
+    description: "A1 writing: a thank-you note. A German card thanking for a weekend visit and a present, with danke für plus accusative and warm closings."
+    keywords: "german, a1, writing, thank you, danke, dankeskarte, geschenk, note"
+    "property=og:title": "A Thank-You Note"
+    "property=og:description": "A1 writing: a thank-you note. A German card thanking for a weekend visit and a present, with danke für plus accusative and warm closings."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# A Thank-You Note
+
+A short written thank-you carries more weight than a text ever will, and in German it needs exactly three ingredients: name what you are thanking for, say why it was lovely, and open the door for the next visit. The engine of the whole genre is *danke für* plus the accusative.
+
+## Example: Thanks for the weekend
+
+Anna spent a weekend at her aunt's and sends a card after getting home.
+
+> Liebe Tante Petra,
+>
+> vielen Dank für das schöne Wochenende bei dir! Das Essen war lecker, und der Ausflug an den See war super. Ich habe viel gelacht und sehr gut geschlafen.
+>
+> Auch danke für das Geschenk. Das Buch gefällt mir sehr, ich lese es jeden Abend.
+>
+> Komm uns bald besuchen! Wir freuen uns auf dich.
+>
+> Liebe Grüße
+> Anna
+
+What makes it work: the thanks come first and name their object (*für das schöne Wochenende*); each thank-you gets one concrete detail as proof it was noticed (*der Ausflug an den See*, *ich lese es jeden Abend*); and the invitation back (*Komm uns bald besuchen!*) turns gratitude into the next plan.
+
+### Hear it in practice
+
+:::{audio-examples}
+:album: a1/writing/part-1
+:track: postcard-3.yml
+:::
+
+## Building blocks
+
+| Slot | Options |
+|---|---|
+| The thanks | Vielen Dank für ... / Danke für ... |
+| The proof | Das Essen war lecker. / Der Tag war super. |
+| Second thanks | Auch danke für ... |
+| The detail | Das Buch gefällt mir sehr. / Ich benutze es jeden Tag. |
+| The invitation back | Komm uns bald besuchen! / Bis zum nächsten Mal! |
+| The close | Liebe Grüße / Wir freuen uns. |
+
+*Danke für* always takes the accusative: *für das Wochenende, für den schönen Tag, für die Blumen*. One preposition, one case, endless gratitude.
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Name the thing: *Vielen Dank für das schöne Wochenende.*
+- Prove you noticed: one concrete detail per thank-you.
+- *Danke für* + accusative, every time.
+- Close by inviting back: *Komm uns bald besuchen!*
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Danke für dem Geschenk.* → Danke für **das** Geschenk. (für takes the accusative)
+- Generic thanks: *danke für alles* says less than one named detail.
+- *\*Ich bedanke mich herzlichst ...* at A1: stay simple; **Vielen Dank für ...** is warm and correct.
+:::
+
+## Related articles
+
+- [A Birthday Greeting](/a1/writing/postcard-2.md)
+- [A1 > Grammar > The Preposition für](/a1/grammar/prepositions/fuer-akkusativ.md)
+- [Talking about past events](/a1/concepts/talking-about-past-events.md)

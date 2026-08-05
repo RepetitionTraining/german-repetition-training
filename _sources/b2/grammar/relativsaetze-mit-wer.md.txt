@@ -1,0 +1,191 @@
+---
+myst:
+  html_meta:
+    description: "B2 German grammar: Relativsätze mit wer, wen, wem, use free relative clauses with matching or mixed case patterns in precise statements."
+    keywords: "german, german learning, b2, grammar, relativsaetze mit wer, wer der, wen den, wem der, freie relativsaetze, relativpronomen, kasus"
+    "property=og:title": "Relativsätze mit wer – Free Relative Clauses at B2"
+    "property=og:description": "Learn B2 patterns like wer ..., der ..., wen ..., den ..., and wem ..., der/dem ... with clear case logic and natural usage."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Relativsätze mit wer
+
+> Use patterns like wer ..., der ... to make general statements about people
+
+:::{seealso}
+
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B2 > Grammar > Indefinitpronomen](/b2/grammar/indefinitpronomen.md)
+- [B1 > Grammar > Relativsätze](/b1/grammar/relativsaetze.md)
+- [B1 > Grammar > Relativsätze mit "was" und "wo"](/b1/grammar/relativsaetze-was-wo.md)
+- [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)
+
+:::
+
+With *wer/wen/wem* clauses, you do not refer to one specific noun like *der Mann* or *die Frau*. Instead, you make a general statement about people, often with a structure like *Wer ..., der ...*. At B2, this helps you sound concise in arguments, comments, and proverb-like sentences.
+
+*Examples:*
+
+- *Whoever takes responsibility earns trust.*
+- *Whoever you invite should get clear information.*
+- *Whoever you help usually helps you later.*
+
+---
+
+## Satzbildung mit wer: the core pattern
+
+In this structure, the first clause is a free relative clause with {pronoun}`wer`, {pronoun}`wen`, or {pronoun}`wem`. The second clause usually has a correlating pronoun like {pronoun}`der`, {pronoun}`den`, or {pronoun}`dem`.
+
+The key B2 rule: the case in the first clause and the case in the second clause are independent. Each case comes from its own clause function.
+
+| First clause role | Start | Typical second-clause correlate | Example frame |
+| --- | --- | --- | --- |
+| Subject in first clause | {pronoun}`Wer` | der / den / dem | Wer ..., der/den/dem ... |
+| Direct object in first clause | {pronoun}`Wen` | der / den / dem | Wen ..., der/den/dem ... |
+| Indirect object in first clause | {pronoun}`Wem` | der / den / dem | Wem ..., der/den/dem ... |
+
+**Examples:**
+
+- **Wer** offen kommuniziert, **der** löst viele Konflikte schneller.  
+  *Whoever communicates openly solves many conflicts faster.*
+- **Wen** wir einstellen, **den** schulen wir in den ersten Wochen intensiv.  
+  *Whoever we hire, we train intensively in the first weeks.*
+- **Wem** du vertraust, **dem** gibst du oft auch mehr Verantwortung.  
+  *Whoever you trust, you often also give more responsibility.*
+- **Wem** wir heute schreiben, **der** antwortet meistens noch am selben Tag.  
+  *Whoever we write to today usually replies the same day.*
+
+:::{tip}
+If you are unsure about the case, split the sentence into two simple clauses and ask case questions in each clause separately.
+:::
+
+### Practice: Satzbildung mit wer
+
+Use the following link to practice this section.
+
+---
+
+## Wer ..., der ... (Nominativ)
+
+Use this pattern when the free relative pronoun is the subject in the first clause. It is very common in general truths, recommendations, and formal advice.
+
+> {pronoun}`Wer` + ... + verb, {pronoun}`der` + ...
+
+**Examples:**
+
+- **Wer** regelmäßig Feedback einholt, **der** entwickelt sich schneller.  
+  *Whoever gets feedback regularly develops faster.*
+- **Wer** im Team klar priorisiert, **der** spart viel Zeit.  
+  *Whoever prioritizes clearly in a team saves a lot of time.*
+- **Wer** gut vorbereitet ist, **der** wirkt in Gesprächen souveräner.  
+  *Whoever is well prepared appears more confident in conversations.*
+- **Wer** Verantwortung übernimmt, **der** gewinnt oft das Vertrauen der anderen.  
+  *Whoever takes responsibility often gains others' trust.*
+
+:::{note}
+In modern German, the correlate can be omitted in many contexts: *Wer gut vorbereitet ist, wirkt souveräner.* At B2, both versions are useful; with *der* the contrast sounds more explicit.
+:::
+
+### Practice: Wer und der pattern
+
+Use the following link to practice this section.
+
+---
+
+## Wer ..., den ... and Wen ..., der ... (Akkusativ patterns)
+
+In B2 usage, accusative often appears because the person from the first clause becomes a direct object in the second clause, or because the first clause itself needs an accusative object.
+
+> {pronoun}`Wer` + ... , {pronoun}`den` + subject + ...
+> {pronoun}`Wen` + subject + ... , {pronoun}`der` + ...
+
+**Examples:**
+
+- **Wer** zu spät absagt, **den** berücksichtigen wir beim nächsten Termin später.  
+  *Whoever cancels late, we consider later for the next appointment.*
+- **Wer** gute Fragen stellt, **den** nehmen Personalverantwortliche oft positiv wahr.  
+  *Whoever asks good questions is often perceived positively by hiring managers.*
+- **Wen** das Thema interessiert, **der** kann sich für das Seminar anmelden.  
+  *Whoever is interested in the topic can register for the seminar.*
+- **Wen** wir nominieren, **der** muss die Entscheidung gut begründen.  
+  *Whoever we nominate must justify the decision well.*
+- **Wer** die Frist ignoriert, **den** informiert das System automatisch erneut.  
+  *Whoever ignores the deadline gets automatically informed again by the system.*
+
+:::{warning}
+Do not force the same case in both halves. *Wer ..., den ...* is often correct, because the second clause may require an accusative object.
+:::
+
+### Practice: Akkusativ patterns
+
+Use the following link to practice this section.
+
+---
+
+## Wem ..., der ... (Dativ in the first clause)
+
+This pattern appears when the first clause needs dative, often with verbs like *vertrauen*, *helfen*, *antworten*, or *zuhören*. In your target pattern, the second clause can still be nominative: *Wem ..., der ...*.
+
+> {pronoun}`Wem` + ... , {pronoun}`der` + ...
+
+**Examples:**
+
+- **Wem** man früh Verantwortung überträgt, **der** wächst oft schnell in die Rolle hinein.  
+  *Whoever you give responsibility to early often grows into the role quickly.*
+- **Wem** wir langfristig vertrauen, **der** bekommt strategische Projekte.  
+  *Whoever we trust long-term gets strategic projects.*
+- **Wem** du aufmerksam zuhörst, **der** fühlt sich ernst genommen.  
+  *Whoever you listen to attentively feels taken seriously.*
+- **Wem** das Angebot wirklich hilft, **der** soll sich direkt bei uns melden.  
+  *Whoever the offer really helps should contact us directly.*
+- **Wem** der Vorschlag nicht passt, **dem** bieten wir eine Alternative an.  
+  *Whoever the proposal does not suit, we offer an alternative.*
+
+:::{tip}
+The pattern *Wem ..., der ...* is fully normal. You can also get *Wem ..., dem ...* when the second clause also needs dative.
+:::
+
+### Practice: Wem with der or dem
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *Relativsätze mit wer* are free relative clauses used for general statements about people.
+- Main patterns include **Wer ..., der ...**, **Wer ..., den ...**, **Wen ..., der ...**, and **Wem ..., der/dem ...**.
+- Case in the first clause and case in the second clause are decided separately.
+- The correlate (*der/den/dem*) is common and helps clarity, but can sometimes be omitted.
+- This structure is frequent in arguments, recommendations, and proverb-like statements.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Wer wir einstellen, der ...* -> **Wen** wir einstellen, der ... (In this clause the pronoun is a direct object, so accusative is needed.)
+- *Wem ich vertraue, dem ist sehr kompetent.* -> Wem ich vertraue, **der** ist sehr kompetent. (Second clause needs nominative subject, not dative.)
+- *Wer pünktlich ist, dern respektieren wir.* -> Wer pünktlich ist, **den** respektieren wir. (The correlate is object in the second clause.)
+- *Wen das betrifft der soll sich melden.* -> Wen das betrifft, **der** soll sich melden. (Use a comma before the second clause.)
+- *Wer Hilfe braucht, wir unterstützen.* -> Wer Hilfe braucht, **den** unterstützen wir. (In German, the correlate is typically expressed.)
+
+:::
+
+---
+
+## Full practice
+
+Click the link below to practice everything from this page with an interactive tutor.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B1 > Grammar > Relativsätze](/b1/grammar/relativsaetze.md)
+- [B1 > Grammar > Relativsätze mit "was" und "wo"](/b1/grammar/relativsaetze-was-wo.md)
+- [A2 > Grammar > Relativsätze](/a2/grammar/sub-clauses/relativsaetze.md)

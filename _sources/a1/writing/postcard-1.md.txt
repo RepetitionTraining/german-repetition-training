@@ -1,0 +1,73 @@
+---
+myst:
+  html_meta:
+    description: "A1 writing: a postcard from holiday. A German holiday postcard with the greeting-from formula, weather, activities, and a warm close."
+    keywords: "german, a1, writing, postcard, postkarte, urlaub, viele grüße aus, holiday"
+    "property=og:title": "A Postcard from Holiday"
+    "property=og:description": "A1 writing: a postcard from holiday. A German holiday postcard with the greeting-from formula, weather, activities, and a warm close."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# A Postcard from Holiday
+
+Germans still send holiday postcards, and the genre has rules a haiku would envy: greetings from the place, weather, two activities, one superlative moment, a promise, done. The space is tiny, so every sentence earns its spot. That constraint makes postcards perfect A1 writing practice.
+
+## Example: Greetings from Italy
+
+Anna is at the seaside in Italy and writes to her grandmother.
+
+> Liebe Oma,
+>
+> viele Grüße aus Italien! Das Wetter ist super, die Sonne scheint jeden Tag. Wir schwimmen im Meer und essen viel Eis. Das Hotel ist klein, aber sehr schön. Abends gehen wir am Strand spazieren. Gestern waren wir in Rom. Die Stadt ist wunderschön, aber sehr voll.
+>
+> Morgen fahren wir ans Meer zurück. Ich bringe dir etwas mit!
+>
+> Bis bald und liebe Grüße
+> Anna
+
+What makes it work: *Viele Grüße aus ...* is the postcard's licence plate, always first; the present tense carries the holiday, with one *waren* flashback for the excursion; and *Ich bringe dir etwas mit!* is the little promise that makes grandmothers keep postcards forever.
+
+### Hear it in practice
+
+:::{audio-examples}
+:album: a1/writing/part-1
+:track: postcard-1.yml
+:::
+
+## Building blocks
+
+| Slot | Options |
+|---|---|
+| The formula | Viele Grüße aus ...! / Herzliche Grüße aus ...! |
+| The weather | Das Wetter ist super. / Die Sonne scheint. / Es regnet leider. |
+| The activities | Wir schwimmen / wandern / besuchen ... |
+| The highlight | Gestern waren wir in ... / Die Stadt ist wunderschön. |
+| The promise | Ich bringe dir etwas mit! / Ich erzähle dir alles! |
+| The close | Bis bald und liebe Grüße |
+
+Postcards allow one luxury email does not: exclamation marks in quantity. The genre is enthusiasm on cardboard; let the punctuation show it.
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Open with the formula: *Viele Grüße aus ...!*
+- Weather, activities, one highlight: the holy trinity of postcard content.
+- Present tense throughout, *waren* for the day trip.
+- Close with a promise and *Bis bald*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Viele Grüße von Italien* → Viele Grüße **aus** Italien. (from inside a place: aus)
+- Writing a novel: the card has six lines of space; the skill is compression.
+- Forgetting the address side exists: name and city of the recipient still matter more than your prose.
+:::
+
+## Related articles
+
+- [Talking about the weather](/a1/concepts/talking-about-the-weather.md)
+- [Talking about past events](/a1/concepts/talking-about-past-events.md)
+- [An Email to a Friend](/a1/writing/email-informal-1.md)

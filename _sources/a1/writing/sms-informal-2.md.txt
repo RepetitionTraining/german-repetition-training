@@ -1,0 +1,71 @@
+---
+myst:
+  html_meta:
+    description: "A1 writing: asking a favour by text message. A short German chat exchange that asks for help clearly, says why, and thanks warmly."
+    keywords: "german, a1, writing, sms, text message, favour, kannst du, helfen, chat, informal"
+    "property=og:title": "Asking a Favour"
+    "property=og:description": "A1 writing: asking a favour by text message. A short German chat exchange that asks for help clearly, says why, and thanks warmly."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Asking a Favour
+
+Asking a friend for help by text is a small art: the request must be clear enough to act on, the reason short enough to read at a bus stop, and the thanks warm enough to make helping feel good. German does all three with the *Kannst du ...?* frame you already know from speaking.
+
+## Example: A pickup from football practice
+
+Anna is stuck at work and needs Jonas to collect her son.
+
+> **Anna:** Hallo Jonas, kannst du mir helfen? Ich bin noch bei der Arbeit und mein Sohn ist allein. Kannst du ihn vielleicht vom Fußball abholen? Das Training ist um fünf Uhr fertig.
+>
+> **Jonas:** Klar, kein Problem! Ich hole ihn ab. Soll ich ihn zu euch bringen?
+>
+> **Anna:** Ja, super! Vielen Dank, du bist der Beste. Ich bin um sechs zu Hause.
+
+What makes it work: *Kannst du mir helfen?* flags a favour before the details; the situation takes one sentence; *vielleicht* keeps the request soft; and the concrete facts (what, where, when) let Jonas say yes without a single follow-up question. His *Soll ich ...?* reply models the helper's side.
+
+### Hear it in practice
+
+:::{audio-examples}
+:album: a1/writing/part-1
+:track: sms-informal-2.yml
+:::
+
+## Building blocks
+
+| Slot | Options |
+|---|---|
+| The flag | Kannst du mir helfen? / Ich habe eine Bitte. |
+| The situation | Ich bin noch bei der Arbeit. / Ich schaffe es nicht. |
+| The request | Kannst du vielleicht ...? |
+| The facts | Das Training ist um ... fertig. / Der Termin ist um ... |
+| Saying yes | Klar! / Kein Problem! / Mache ich. |
+| Offering more | Soll ich ...? |
+| The thanks | Vielen Dank, du bist der Beste! / Danke dir! |
+
+*Vielleicht* inside a request is the German equivalent of "any chance you could": one word, much softer.
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Flag first (*Kannst du mir helfen?*), then situation, then the concrete ask.
+- Soften with *vielleicht*; supply every fact the helper needs.
+- Saying yes is short: *Klar, kein Problem, mache ich.*
+- Thank with warmth: *du bist der Beste* costs nothing and lands well.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- Details before the ask: start with **Kannst du mir helfen?**, then explain.
+- Missing facts: a favour without time and place triggers a chain of questions.
+- *\*Hol meinen Sohn ab.* as a first message: the bare imperative reads as an order; wrap it in **Kannst du ...?**
+:::
+
+## Related articles
+
+- [Cancelling Plans](/a1/writing/sms-informal-1.md)
+- [Making and responding to requests](/a1/concepts/making-and-responding-to-requests.md)
+- [A1 > Grammar > Modal Verbs dürfen and sollen](/a1/grammar/verbs/duerfen-sollen.md)

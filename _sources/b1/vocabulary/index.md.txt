@@ -1,5 +1,0 @@
-# Vocabulary
-
-```{toctree}
-:maxdepth: 1
-```

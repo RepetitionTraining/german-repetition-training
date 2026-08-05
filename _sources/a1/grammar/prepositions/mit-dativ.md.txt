@@ -1,0 +1,96 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the preposition mit. Accompaniment, transport, and instruments, always with the dative: mit dem Bus, mit meiner Schwester."
+    keywords: "german, german learning, a1, grammar, mit, preposition, dative, transport, mit dem bus"
+    "property=og:title": "mit – Accompaniment and Transport"
+    "property=og:description": "A1 grammar: the preposition mit. Accompaniment, transport, and instruments, always with the dative: mit dem Bus, mit meiner Schwester."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# The Preposition mit
+
+*Mit* (with) earns its own page because it appears in three of the most common A1 sentence types: who you do things with, how you travel, and what you use. It always takes the dative, no exceptions.
+
+## Together with people
+
+*Mit* + person in the dative: *mit meiner Schwester, mit den Kindern, mit dir*. The question form is *Mit wem ...?* (with whom).
+
+**Examples:**
+
+:::{div} ol-examples
+Ich gehe {prep}`mit` meiner Schwester ins Kino.
+: I am going to the cinema with my sister.
+
+Ich telefoniere {prep}`mit` meiner Mutter.
+: I am on the phone with my mother.
+
+{prep}`Mit` wem gehst du ins Kino?
+: Who are you going to the cinema with?
+:::
+
+## Transport: *mit dem Bus*
+
+Every means of transport takes *mit*: *mit dem Bus, mit dem Zug, mit dem Fahrrad, mit dem Auto*. The one exception has no vehicle at all: *zu Fuß* (on foot).
+
+**Examples:**
+
+:::{div} ol-examples
+Sie fährt {prep}`mit` dem Fahrrad zur Arbeit.
+: She cycles to work.
+
+Fahren Sie {prep}`mit` dem Taxi?
+: Are you taking a taxi?
+
+{prep}`Mit` dem Fahrrad brauche ich zehn Minuten.
+: By bike I need ten minutes.
+:::
+
+## Instruments and ingredients
+
+What you pay with, eat with, or take in your coffee: *mit Karte, mit Messer und Gabel, mit Milch*.
+
+**Examples:**
+
+:::{div} ol-examples
+Kann ich {prep}`mit` Karte zahlen?
+: Can I pay by card?
+
+Ich trinke Kaffee {prep}`mit` Milch.
+: I drink coffee with milk.
+
+Ein Brötchen {prep}`mit` Käse, bitte.
+: A roll with cheese, please.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-4
+:track: mit-dativ.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *mit* = with; always dative.
+- People: *mit meiner Schwester*; ask back with *Mit wem?*
+- Transport: *mit dem Bus/Zug/Fahrrad*; walking is *zu Fuß*.
+- Instruments: *mit Karte, mit Milch, mit Messer und Gabel*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*mit den Bus* → mit **dem** Bus. (masculine dative)
+- *\*Ich fahre mit Fuß.* → Ich gehe **zu Fuß**. (walking has its own chunk)
+- *\*Mit wer gehst du?* → Mit **wem** gehst du? (mit forces the dative question word)
+:::
+
+## Related articles
+
+- [A1 > Grammar > The Dative Case](/a1/grammar/cases/dativ.md)
+- [A1 > Grammar > Local Prepositions with Dative](/a1/grammar/prepositions/lokale-praepositionen-dativ.md)
+- [A1 > Grammar > Question Pronouns wer, wen, wem, was](/a1/grammar/question-words/fragepronomen.md)

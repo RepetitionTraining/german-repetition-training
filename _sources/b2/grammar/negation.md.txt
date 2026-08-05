@@ -1,0 +1,223 @@
+---
+myst:
+  html_meta:
+    description: "B2 grammar: Negation in German with word formation patterns and the position of nicht for precise meaning and focus."
+    keywords: "german, german learning, b2, grammar, negation, verneinung, nicht, wortbildung, praefixe, suffixe, nicht-komposita"
+    "property=og:title": "Negation – Word Formation and nicht Position"
+    "property=og:description": "B2 grammar: Negation in German with word formation patterns and the position of nicht for precise meaning and focus."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Negation
+
+> Advanced negation through word formation and precise placement of nicht
+
+:::{seealso}
+
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B2 > Grammar > Indefinitpronomen](/b2/grammar/indefinitpronomen.md)
+- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
+- [B2 > Grammar > Nomen-Verb-Verbindungen](/b2/grammar/nomen-verb-verbindungen.md)
+- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
+- [A2 > Grammar > Doch bei Verneinungsfragen](/a2/grammar/pronouns/doch-negative-fragen.md)
+
+:::
+
+At B2, negation is not only about saying no. You also learn how German builds negative meaning inside words and how the exact position of **nicht** changes focus. This helps you sound precise in discussions, reports, and nuanced everyday communication.
+
+*Examples:*
+
+- *The proposal is not impossible, but it is unrealistic right now.*
+- *I am not saying that the plan is wrong, only that it is incomplete.*
+- *This is a non-issue for us, but a major issue for the client.*
+
+---
+
+## Lexical negation with des-, dis-, miss-
+
+These prefixes often appear in formal or academic vocabulary. They can express absence, reversal, or a wrong/undesirable version of an action or state.
+
+| Prefix | Typical effect | Examples |
+| --- | --- | --- |
+| **des-** | lack/removal of orientation or interest | desorientiert, desinteressiert |
+| **dis-** | separation, mismatch, loss of validity | disqualifizieren, diskontinuierlich |
+| **miss-** | wrong execution or harmful use | missverstehen, missbrauchen |
+
+**Examples:**
+
+- Nach dem Nachtflug war ich völlig **des**orientiert.  
+  *After the night flight, I was completely disoriented.*
+- Er wirkte bei dem Thema auffällig **des**interessiert.  
+  *He seemed noticeably disinterested in the topic.*
+- Das Team wurde wegen eines Regelverstoßes **dis**qualifiziert.  
+  *The team was disqualified due to a rule violation.*
+- Die Entwicklung war in den letzten Monaten **dis**kontinuierlich.  
+  *Development was discontinuous over the last months.*
+- Ich habe deine Nachricht völlig **miss**verstanden.  
+  *I completely misunderstood your message.*
+- Der **Miss**brauch persönlicher Daten bleibt ein großes Problem.  
+  *The misuse of personal data remains a major problem.*
+
+:::{warning}
+Not every word with these letter sequences is a transparent negation pattern. Learn frequent full words as chunks, especially in formal registers.
+:::
+
+### Practice: des-, dis-, miss-
+
+Use the following link to practice this section.
+
+---
+
+## Lexical negation with un-, in-, il-, ir-, a-, non-
+
+These forms are very common at B2 because they appear in abstract adjectives and nouns. Some are native German patterns (**un-**), while others are mostly used with international/Latinate vocabulary (**in-, il-, ir-, a-, non-**).
+
+| Prefix | Typical use | Examples |
+| --- | --- | --- |
+| **un-** | very productive with everyday adjectives/nouns | unfair, unklar, Unsicherheit |
+| **in- / il- / ir-** | mainly with international adjectives | inaktiv, illegal, irrelevant |
+| **a-** | mostly in learned/technical words | asymmetrisch, atypisch |
+| **non-** | explicit classificatory negation | nonverbal, Nonstopflug |
+
+**Examples:**
+
+- Die neue Regel ist für viele Mitarbeitende **un**klar.  
+  *The new rule is unclear for many employees.*
+- Seine Reaktion war überraschend **un**emotional.  
+  *His reaction was surprisingly unemotional.*
+- Das alte System ist inzwischen **in**effizient.  
+  *The old system is inefficient by now.*
+- Eine solche Klausel wäre wahrscheinlich **il**legal.  
+  *Such a clause would probably be illegal.*
+- Dieser Einwand ist für die aktuelle Frage **ir**relevant.  
+  *This objection is irrelevant to the current question.*
+- Der Bericht beschreibt ein **a**symmetrisches Machtverhältnis.  
+  *The report describes an asymmetric power relationship.*
+- Ihre Antwort blieb bewusst **non**verbal.  
+  *Her response remained deliberately nonverbal.*
+
+:::{tip}
+When several prefixes seem possible, choose the form that is actually established in usage. For example, German normally uses **illegal**, not *unlegal*.
+:::
+
+### Practice: un-, in-, il-, ir-, a-, non-
+
+Use the following link to practice this section.
+
+---
+
+## Suffixes and compounds: -los, -frei, -leer, Nicht-
+
+German also creates negative meaning through suffixes and compounds. This is very useful for compact, precise expression.
+
+| Pattern | Core meaning | Examples |
+| --- | --- | --- |
+| **-los** | without, lacking | arbeitslos, sprachlos |
+| **-frei** | free from, without (often neutral/positive) | zuckerfrei, alkoholfrei |
+| **-leer** | empty of, lacking content/substance | sinnleer, inhaltsleer |
+| **Nicht- + Nomen** | explicit category negation | Nichtmitglied, Nichtzahlung |
+
+**Examples:**
+
+- Nach der Kündigung war er mehrere Monate arbeits**los**.  
+  *After the dismissal, he was unemployed for several months.*
+- Bei der Nachricht war sie kurz sprach**los**.  
+  *She was briefly speechless at the news.*
+- Ich trinke heute nur alkoholfrei**e** Getränke.  
+  *I am only drinking alcohol-free beverages today.*
+- Die Firma bietet jetzt auch zucker**frei**e Produkte an.  
+  *The company now also offers sugar-free products.*
+- Viele fanden die Debatte am Ende sinn**leer**.  
+  *Many found the debate empty of meaning in the end.*
+- Der Bericht blieb leider inhalts**leer** und vage.  
+  *The report remained empty of content and vague.*
+- Für **Nicht**mitglieder ist die Teilnahme teurer.  
+  *Participation is more expensive for non-members.*
+- Die lange **Nicht**zahlung führte zu einer Mahnung.  
+  *The prolonged non-payment led to a reminder notice.*
+
+:::{note}
+You may see older outline notes that write **-ller**. In current standard usage, the common productive pattern here is **-leer** (for example, *sinnleer*, *inhaltsleer*).
+:::
+
+### Practice: -los, -frei, -leer, Nicht-
+
+Use the following link to practice this section.
+
+---
+
+## Position of nicht in the sentence
+
+At B2, you need to control what exactly is negated. A practical core rule is: **nicht** usually comes directly before the element you want to negate. In neutral sentence negation, it often appears late in the clause, before the verbal end-field.
+
+| Negation target | Typical placement | Example |
+| --- | --- | --- |
+| Whole statement (neutral) | late in the clause | Ich habe den Bericht heute **nicht** gelesen. |
+| Specific element (focus) | right before the element | Ich habe **nicht** den Bericht gelesen, sondern die E-Mail. |
+| Adjective/adverb | before adjective/adverb | Das ist **nicht** sinnvoll. |
+| Prepositional phrase | before the phrase | Wir treffen uns **nicht** im Büro. |
+
+**Examples:**
+
+- Ich kann heute leider **nicht** kommen.  
+  *Unfortunately, I cannot come today.*
+- Ich komme **nicht** heute, sondern erst morgen.  
+  *I am not coming today, but only tomorrow.*
+- Sie hat den Vertrag **nicht** unterschrieben.  
+  *She did not sign the contract.*
+- Wir haben **nicht** über das Budget gesprochen, sondern über Personalfragen.  
+  *We did not talk about the budget, but about personnel issues.*
+- Das ist **nicht** meine endgültige Entscheidung.  
+  *That is not my final decision.*
+- Er reagierte **nicht** ruhig, sondern sehr nervös.  
+  *He did not react calmly, but very nervously.*
+- Die Gäste sind **nicht** mit dem Zug angereist.  
+  *The guests did not arrive by train.*
+
+:::{tip}
+If you are unsure, test the sentence as a subordinate clause with **dass**. The position of **nicht** and the scope often become easier to see.
+:::
+
+### Practice: Position of nicht
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- B2 negation includes both **word-level negation** (prefixes/suffixes/compounds) and **sentence-level negation** with **nicht**.
+- Common lexical patterns are **des-/dis-/miss-**, **un-/in-/il-/ir-/a-/non-**, as well as **-los**, **-frei**, **-leer**, and **Nicht- + Nomen**.
+- The position of **nicht** controls scope: it usually stands before the element being negated.
+- In neutral sentence negation, **nicht** is often placed late in the clause before the verbal end-field.
+- At B2, choosing between near-synonymous forms (for example **-los** vs **-frei**) is often a register and nuance decision.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Die Klausel ist \*unlegal.* -> Die Klausel ist **illegal**. (Use established lexical forms, not invented combinations.)
+- *Ich habe den Bericht gelesen \*nicht.* -> Ich habe den Bericht **nicht** gelesen. (nicht does not go after the final verbal element in standard usage.)
+- *Sie kommt \*nicht morgen, sie kommt heute.* -> Sie kommt **nicht heute, sondern morgen**. (Place nicht directly before the focused element you contrast.)
+- *Das ist ein \*Nicht Mitglied.* -> Das ist ein **Nichtmitglied**. (Nicht- compounds are written as one word.)
+- *Die Debatte war \*inhaltsfrei.* -> Die Debatte war **inhaltsleer**. (Use lexicalized forms that match meaning and register.)
+
+:::
+
+---
+
+## Practice: Full review
+
+Click the link below to practice everything from this page with an interactive tutor.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B1 > Grammar > brauchen + zu + Infinitiv](/b1/grammar/brauchen-zu-infinitiv.md)
+- [A2 > Grammar > Doch bei Verneinungsfragen](/a2/grammar/pronouns/doch-negative-fragen.md)

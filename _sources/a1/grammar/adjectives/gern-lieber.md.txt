@@ -1,0 +1,99 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: gern, lieber, am liebsten. The three steps of liking: what you enjoy, what you prefer, and what you like most of all."
+    keywords: "german, german learning, a1, grammar, gern, lieber, am liebsten, preferences, comparison"
+    "property=og:title": "gern, lieber, am liebsten"
+    "property=og:description": "A1 grammar: gern, lieber, am liebsten. The three steps of liking: what you enjoy, what you prefer, and what you like most of all."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# gern, lieber, am liebsten
+
+*Gern* says you like doing something. Its two bigger siblings rank your likes: *lieber* (prefer) and *am liebsten* (most of all). Three words, one ladder, and suddenly you can compare everything you enjoy.
+
+## The ladder
+
+| Step | Word | Example |
+|---|---|---|
+| like | gern | Ich trinke gern Kaffee. |
+| prefer | lieber | Ich trinke lieber Tee. |
+| like most | am liebsten | Am liebsten trinke ich Wasser. |
+
+All three behave like *gern*: they follow the verb and change nothing else in the sentence.
+
+**Examples:**
+
+:::{div} ol-examples
+Er isst **gern** Pizza.
+: He likes eating pizza.
+
+Sie isst **lieber** Salat.
+: She prefers salad.
+
+**Am liebsten** esse ich Schokolade.
+: Most of all I like eating chocolate.
+:::
+
+## Comparing with *lieber*
+
+*Lieber* picks one option over another, and the question with *oder* invites the choice.
+
+**Examples:**
+
+:::{div} ol-examples
+Trinkst du **lieber** Kaffee oder Tee?
+: Do you prefer coffee or tea?
+
+Ich fahre **lieber** mit dem Zug.
+: I prefer going by train.
+
+Ich bleibe heute **lieber** zu Hause.
+: I'd rather stay home today.
+:::
+
+## Fronting *am liebsten*
+
+*Am liebsten* loves the first position; the verb stays second, as always: *Am liebsten höre ich Musik.*
+
+**Examples:**
+
+:::{div} ol-examples
+**Am liebsten** höre ich Musik.
+: Most of all I like listening to music.
+
+Was isst du **am liebsten**?
+: What do you like eating most?
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-4
+:track: gern-lieber.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- The ladder: *gern* → *lieber* → *am liebsten*.
+- All three sit after the verb and leave the sentence untouched.
+- *lieber ... oder ...?* asks for a preference.
+- Fronting *am liebsten* is natural; the verb stays second.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich mag lieber Tee trinken.* → Ich trinke **lieber** Tee. (lieber pairs with the action verb)
+- *\*am liebstens* → am **liebsten**. (no extra s)
+- *\*gerner* → **lieber**. (gern has no -er form; lieber IS the comparison)
+:::
+
+## Related articles
+
+- [Expressing likes and dislikes](/a1/concepts/expressing-likes-and-dislikes.md)
+- [A1 > Grammar > Predicate Adjectives](/a1/grammar/adjectives/praedikative-adjektive.md)
+- [A1 > Grammar > The Verb in Second Position](/a1/grammar/sentence-structure/verb-position-2.md)

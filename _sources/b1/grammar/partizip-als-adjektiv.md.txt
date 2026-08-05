@@ -1,0 +1,158 @@
+---
+myst:
+  html_meta:
+    description: "B1 German grammar: use Partizip I and Partizip II as adjectives before nouns, with correct adjective endings and everyday examples."
+    keywords: "german, german learning, b1, grammar, partizip als adjektiv, participle adjective, partizip I, partizip II, attributive adjective, german b1, participial adjective"
+    "property=og:title": "Partizip als Adjektiv – Participles as Adjectives"
+    "property=og:description": "B1 German grammar: how to use Partizip I and Partizip II as attributive adjectives before nouns, with adjective endings."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Partizip als Adjektiv
+
+> Participles used as adjectives
+
+German has two participle forms, the past participle (Partizip II) and the present participle (Partizip I), and both can work like regular adjectives to describe a noun. Instead of using a relative clause such as "the book that was ordered", you can say "the ordered book" (*das bestellte Buch*). This makes your German more concise and natural-sounding.
+
+When a participle is placed directly before a noun, it takes the same adjective endings as any other adjective. When it follows a linking verb like *sein* or *bleiben*, it stays unchanged with no ending.
+
+---
+
+## Partizip II als Adjektiv
+
+The Partizip II is the same form you already know from the Perfekt tense. When used as an adjective, it tells you that something has been done to the noun, it describes the resulting state or condition.
+
+### Partizip II formation
+
+| Verb type | How to form Partizip II | Example |
+| --- | --- | --- |
+| Weak (regular) | **ge-** + stem + **-t** | kaufen → **ge**kauf**t** |
+| Strong (irregular) | **ge-** + (new) stem + **-en** | schreiben → **ge**schrieb**en** |
+| Inseparable prefix (ver-, be-, er-, ent-, ...) | stem + **-t** or **-en** (no *ge-*) | bestellen → bestell**t**, vergessen → vergess**en** |
+| -ieren verbs | stem + **-t** (no *ge-*) | reparieren → repar**iert** |
+| Separable prefix | prefix + **ge-** + stem + **-t/-en** | aufmachen → auf**ge**mach**t** |
+
+Once you have the Partizip II, just add adjective endings to place it before a noun.
+
+### Partizip II before a noun
+
+- Das {adj}`gekaufte` Buch liegt auf dem Tisch.  
+  *The purchased book is on the table.*
+
+- Ich esse {adj}`gebratene` Kartoffeln zum Abendessen.  
+  *I'm eating fried potatoes for dinner.*
+
+- Das {adj}`reparierte` Auto fährt jetzt wieder.  
+  *The repaired car is running again now.*
+
+- Das {adj}`bestellte` Essen ist noch nicht angekommen.  
+  *The ordered food hasn't arrived yet.*
+
+- Die {adj}`gestohlene` Tasche wurde glücklicherweise gefunden.  
+  *The stolen bag was luckily found.*
+
+- Ein {adj}`geöffnetes` Fenster lässt frische Luft herein.  
+  *An opened window lets fresh air in.*
+
+:::{tip}
+Verbs with inseparable prefixes (ver-, be-, er-, emp-, ent-, ge-, miss-) and verbs ending in -ieren do **not** get a *ge-* prefix in the Partizip II.
+
+- kaufen → **ge**kauft, BUT bestellen → bestell**t** (be- is inseparable)
+- kochen → **ge**kocht, BUT reparieren → repar**iert** (-ieren verb)
+:::
+
+### Examples, predicative (after *sein*)
+
+When the participle follows *sein* or *bleiben*, it describes the current state of the subject. No adjective ending is used in this position.
+
+- Die Tür ist {adj}`abgeschlossen`.  
+  *The door is locked.*
+
+- Das Geschäft ist {adj}`geschlossen`.  
+  *The shop is closed.*
+
+- Mein Handy ist {adj}`geladen`.  
+  *My phone is charged.*
+
+---
+
+## Partizip I als Adjektiv
+
+The Partizip I is formed by adding **-d** to the infinitive of any verb. It describes an action that is actively happening at the same moment, the noun is in the middle of doing something.
+
+### Partizip I formation
+
+> **Infinitive + -d** → Partizip I
+
+| Infinitive | Partizip I | Meaning |
+| --- | --- | --- |
+| weinen | wein**end** | crying |
+| schlafen | schlaf**end** | sleeping |
+| laufen | lauf**end** | running |
+| wachsen | wachs**end** | growing |
+| lächeln | lächel**nd** | smiling |
+| bellen | bell**end** | barking |
+
+The formula works for all verbs without exception, just add **-d** to the infinitive and then the usual adjective endings.
+
+### Partizip I before a noun
+
+- Das {adj}`weinende` Kind braucht Hilfe.  
+  *The crying child needs help.*
+
+- Der {adj}`schlafende` Hund liegt auf dem Sofa.  
+  *The sleeping dog is lying on the sofa.*
+
+- Die {adj}`wartenden` Gäste werden langsam ungeduldig.  
+  *The waiting guests are slowly getting impatient.*
+
+- Ein {adj}`bellender` Hund sitzt vor der Haustür.  
+  *A barking dog is sitting in front of the front door.*
+
+- Eine {adj}`wachsende` Stadt braucht neue Schulen.  
+  *A growing city needs new schools.*
+
+- Die {adj}`spielenden` Kinder sind laut und fröhlich.  
+  *The playing children are loud and happy.*
+
+:::{note}
+The Partizip I can also appear after *sein* in a predicative position, but this is mostly found in written or literary language.
+
+- *Er kam **lachend** zur Tür herein.* – He came in through the door laughing.
+
+For everyday spoken German, the Partizip I is mainly used before nouns. Notice it has no *ge-* prefix, this is one key way to tell it apart from a Partizip II.
+:::
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- **Partizip II** describes a **completed action** or a **resulting state**, as in *das bestellte Buch* or *die reparierte Uhr*.
+- **Partizip I** describes an **ongoing action**, as in *das schlafende Kind* or *der bellende Hund*.
+- **Before a noun**, both participles take the same standard adjective endings as regular adjectives.
+- **After *sein* or *bleiben***, the participle is used predicatively and does **not** take an adjective ending.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Ein \*weinend Kind* → Ein **weinendes** Kind. (After *ein*, neuter nominative needs **-es**.)
+- *Das \*schlafendes Kind* → Das **schlafende** Kind. (After definite *das*, the ending is **-e**, not **-es**.)
+- *Das \*geweinende Kind* → Das **weinende** Kind. (Partizip I has no **ge-** prefix.)
+- *Das \*kaufte Buch* → Das **gekaufte** Buch. (*kaufte* is Präteritum, not Partizip II.)
+- *Das Fenster ist \*geöffnetes* → Das Fenster ist **geöffnet**. (Predicative use after *sein* takes no ending.)
+- *Das \*bestelltes Essen* → Das **bestellte** Essen. (After definite *das*, the ending is **-e**, not **-es**.)
+
+:::
+
+---
+
+## Related articles
+
+- [B1 > Grammar > Passiv](/b1/grammar/passiv.md)
+- [B1 > Grammar > Adjektive ohne Artikel](/b1/grammar/adjektive-ohne-artikel.md)
+- [A2 > Grammar > Adjektivendungen](/a2/grammar/adjectives/adjektivendungen.md)

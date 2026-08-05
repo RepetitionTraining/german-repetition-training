@@ -1,0 +1,204 @@
+---
+myst:
+  html_meta:
+    description: "B2 German grammar: Vergleichssätze mit als, wie, Komparativformen und je ..., desto/umso ... für präzise Vergleiche in Alltag und Beruf."
+    keywords: "german, german learning, b2, grammar, vergleichssaetze, als, wie, komparativ, je desto, je umso, genauso wie, anders als"
+    "property=og:title": "Vergleichssätze – Advanced Comparisons in German"
+    "property=og:description": "Learn B2 comparison structures with als, wie, Komparativ + als, anders als, and je ..., desto/umso ..."
+    "property=og:type": "article"
+    author: "German Learning Project"
+---
+# Vergleichssätze
+
+> Build clear, nuanced comparisons with als, wie, and je ..., desto/umso ...
+
+:::{seealso}
+
+- [B2 > Grammar > Konnektor während](/b2/grammar/konnektor-waehrend.md)
+- [B2 > Grammar > Modalsätze](/b2/grammar/modalsaetze.md)
+- [B2 > Grammar > Irreale Vergleichssätze mit als, als ob, als wenn](/b2/grammar/irreale-vergleichssaetze.md)
+- [B2 > Grammar > Zweiteilige Konnektoren](/b2/grammar/zweiteilige-konnektoren.md)
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
+- [A2 > Grammar > Vergleiche mit als und wie](/a2/grammar/adjectives/vergleiche-als-wie.md)
+
+:::
+
+At B2, you often need to compare ideas precisely, not just people or objects. Vergleichssätze help you show equality, difference, and proportional change in arguments, reports, and everyday conversation. The key is choosing the right connector and keeping the sentence structure consistent.
+
+*Examples:*
+
+- *This option is more realistic than the first one.*
+- *The new process is just as reliable as the old one.*
+- *The more transparent we communicate, the fewer conflicts we have.*
+
+---
+
+## Mit als und wie: choosing the right comparison marker
+
+In standard German, {conj}`wie` is used for equality and {conj}`als` for inequality with the comparative. At B2, this distinction matters because mixing them can sound non-standard in formal contexts.
+
+| Meaning | Pattern | Example |
+| --- | --- | --- |
+| Equality | so/genauso + Positiv + {conj}`wie` | Die zweite Lösung ist genauso praktikabel wie die erste. |
+| Inequality | Komparativ + {conj}`als` | Die zweite Lösung ist praktikabler als die erste. |
+
+**Examples:**
+
+- Ihr Bericht ist **genauso präzise wie** der Bericht aus der Rechtsabteilung.  
+  *Her report is just as precise as the report from the legal department.*
+- Dieser Ansatz ist **flexibler als** unser alter Prozess.  
+  *This approach is more flexible than our old process.*
+- Die Situation war **nicht so eindeutig wie** am Anfang gedacht.  
+  *The situation was not as clear as initially thought.*
+- Die neue Regelung ist **strenger als** viele erwartet haben.  
+  *The new regulation is stricter than many expected.*
+- Seine Erklärung klang **weniger überzeugend als** gestern.  
+  *His explanation sounded less convincing than yesterday.*
+
+:::{warning}
+In some regional varieties, you may hear forms like *besser wie* or *als wie*. For B2 exams, professional writing, and standard German, keep this rule: **Komparativ + als**, **so/genauso + wie**.
+:::
+
+### Practice: als oder wie
+
+Use the following link to practice this section.
+
+---
+
+## Gleichheit: so/genauso ... wie
+
+Use this structure when two things are presented as equivalent in one feature. You can scale tone with modifiers like *fast so ... wie*, *annähernd so ... wie*, or *nicht ganz so ... wie*.
+
+> (fast/annähernd/genau) so + Adjektiv/Adverb (Positiv) + {conj}`wie` + Vergleichspunkt
+
+**Examples:**
+
+- Die neue Software ist **genauso stabil wie** die alte Version.  
+  *The new software is just as stable as the old version.*
+- Unser Team reagiert heute **so schnell wie** im letzten Quartal.  
+  *Our team reacts as quickly today as in the last quarter.*
+- Die Kandidatin argumentierte **annähernd so differenziert wie** ihr Kollege.  
+  *The candidate argued almost as nuancedly as her colleague.*
+- Die zweite Präsentation war **nicht ganz so klar wie** die erste.  
+  *The second presentation was not quite as clear as the first one.*
+- Dieses Modell arbeitet **fast so effizient wie** das deutlich teurere Gerät.  
+  *This model works almost as efficiently as the much more expensive device.*
+
+:::{tip}
+At B2, adding adverbs such as *annähernd*, *fast*, or *nicht ganz* helps you avoid black-and-white comparisons and sound more natural in discussions.
+:::
+
+### Practice: Gleichheit mit so/genauso ... wie
+
+Use the following link to practice this section.
+
+---
+
+## Ungleichheit: Komparativ + als, anders als, etwas/nichts anderes als
+
+This group lets you express different types of difference. Use **Komparativ + als** for measurable contrast, **anders als** for non-identical manner or quality, and **etwas/nichts anderes als** for strong classification.
+
+| Function | Pattern | Typical use |
+| --- | --- | --- |
+| Degree comparison | Komparativ + {conj}`als` | One side has more/less of a feature |
+| Difference in type/manner | anders + {conj}`als` | Not in the same way/form |
+| Strong re-framing | etwas/nichts anderes + {conj}`als` | "nothing other than..." style evaluation |
+
+**Examples:**
+
+- Die aktuelle Lösung ist **robuster als** die frühere Version.  
+  *The current solution is more robust than the earlier version.*
+- Der neue Leiter kommuniziert **anders als** seine Vorgängerin.  
+  *The new manager communicates differently from his predecessor.*
+- Diese Maßnahme war **nichts anderes als** ein kurzfristiger Kompromiss.  
+  *This measure was nothing other than a short-term compromise.*
+- Die Stellungnahme ist **etwas anderes als** eine rechtlich bindende Zusage.  
+  *The statement is something different from a legally binding commitment.*
+- Für viele Mitarbeitende war die Änderung **nichts anderes als** eine zusätzliche Belastung.  
+  *For many employees, the change was nothing other than an additional burden.*
+- Das Ergebnis fiel **deutlich schwächer aus als** im letzten Jahr.  
+  *The result turned out significantly weaker than last year.*
+
+:::{note}
+**anders als** is common in both neutral and formal registers. **nichts anderes als** sounds stronger and often evaluative, so use it when you intentionally want emphasis.
+:::
+
+### Practice: Ungleichheit differenziert ausdrücken
+
+Use the following link to practice this section.
+
+---
+
+## Vergleichssätze mit je ... desto/umso
+
+Use this structure to show proportional change: when one factor changes, another changes with it. The {conj}`je` clause comes first, and the main clause starts with **desto** or **umso** plus comparative.
+
+> {conj}`Je` + Komparativ + ..., {conj}`desto/umso` + Komparativ + Verb + ...
+
+| Pattern | Meaning | Example |
+| --- | --- | --- |
+| Je ..., desto ... | proportional relation | Je klarer die Ziele sind, desto schneller arbeitet das Team. |
+| Je ..., umso ... | same meaning, slightly stylistic variant | Je besser wir dokumentieren, umso leichter lassen sich Fehler finden. |
+
+**Examples:**
+
+- **Je klarer** wir kommunizieren, **desto weniger** Missverständnisse entstehen.  
+  *The more clearly we communicate, the fewer misunderstandings arise.*
+- **Je früher** du Rückmeldung gibst, **umso schneller** kann ich den Entwurf überarbeiten.  
+  *The earlier you give feedback, the faster I can revise the draft.*
+- **Je länger** die Sitzung dauert, **desto unkonzentrierter** wird die Gruppe.  
+  *The longer the meeting lasts, the less focused the group becomes.*
+- **Je präziser** die Daten sind, **umso verlässlicher** sind unsere Prognosen.  
+  *The more precise the data are, the more reliable our forecasts are.*
+- **Je weniger** Zeit bleibt, **desto wichtiger** wird eine klare Priorisierung.  
+  *The less time remains, the more important clear prioritization becomes.*
+
+:::{tip}
+Short forms are common in speech: *Je früher, desto besser.* They are natural, but in formal writing full clauses are usually clearer.
+:::
+
+### Practice: je ... desto/umso
+
+Use the following link to practice this section.
+
+---
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- In standard German, use **wie** for equality and **als** after comparative forms.
+- Equality pattern: **(genau/fast/annähernd) so ... wie** for nuanced comparisons.
+- Inequality can be expressed with different functions: **Komparativ + als**, **anders als**, **etwas/nichts anderes als**.
+- **Je ..., desto/umso ...** expresses proportional change and is very useful in B2 argumentation.
+- Choosing the right pattern is not only grammar; it also controls tone and precision.
+
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *Die Lösung ist besser wie vorher.* -> Die Lösung ist **besser als** vorher. (Comparative takes als in standard German.)
+- *Die zweite Version ist so effizient als die erste.* -> Die zweite Version ist **so effizient wie** die erste. (Equality takes wie.)
+- *Der neue Plan ist anders als effizient.* -> Der neue Plan ist **effizienter als** der alte. (Use comparative + als for degree difference.)
+- *Je mehr ich übe, desto besser ich spreche.* -> Je mehr ich übe, desto besser **spreche ich**. (Verb position in the second clause.)
+- *Je klarer wir planen, umso weniger werden Fehler.* -> Je klarer wir planen, umso weniger **Fehler entstehen**. (Use a complete and natural clause.)
+
+:::
+
+---
+
+## Full practice
+
+Use the link below to practice the full topic interactively.
+
+---
+
+## Related articles
+
+- [B2 > Grammar > Irreale Vergleichssätze mit als, als ob, als wenn](/b2/grammar/irreale-vergleichssaetze.md)
+- [B2 > Grammar > Wortstellung im Satz](/b2/grammar/wortstellung-im-satz.md)
+- [B1 > Grammar > Sätze mit je ..., desto/umso ...](/b1/grammar/je-desto.md)
+- [A2 > Grammar > Vergleiche mit als und wie](/a2/grammar/adjectives/vergleiche-als-wie.md)

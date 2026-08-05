@@ -1,0 +1,124 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the zero article. When German uses no article at all: professions, nationalities, languages, food and drink, plurals, and place names."
+    keywords: "german, german learning, a1, grammar, zero article, nullartikel, no article, professions, nationalities, languages, plurals"
+    "property=og:title": "Nullartikel – The Zero Article"
+    "property=og:description": "A1 grammar: the zero article. When German uses no article at all: professions, nationalities, languages, food and drink, plurals, and place names."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# The Zero Article
+
+Sometimes German leaves the article slot empty: *Ich bin Lehrerin*, *Ich trinke Kaffee*, *Wir wohnen in Berlin*. English often does the same, but not always in the same places. This page collects the situations where German uses no article at all.
+
+## Professions and nationalities after *sein*
+
+When you say what someone is by profession or nationality, German drops the article. English says "I am **a** teacher"; German says only *Ich bin Lehrerin*.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich bin **Lehrerin**.
+: I am a teacher.
+
+Er ist **Student**.
+: He is a student.
+
+Sie ist **Italienerin**.
+: She is Italian.
+:::
+
+:::{tip}
+This also works with *werden* and *als*: *Sie wird Ärztin* (she is becoming a doctor). The pattern is the same: no article before the profession.
+:::
+
+## Languages, food, and drink
+
+General statements about languages, food, drink, and other substances take no article. You talk about the thing in general, not one specific portion of it.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich spreche **Deutsch** und **Englisch**.
+: I speak German and English.
+
+Er trinkt gern **Tee**.
+: He likes drinking tea.
+
+Wir essen **Brot** mit **Käse**.
+: We eat bread with cheese.
+:::
+
+When you mean one specific item, the article comes back: *Der Kaffee ist kalt* (the coffee in front of you).
+
+## Plurals: the missing *ein*
+
+*Ein* and *eine* have no plural form. Where English says "apples" or "some apples", German uses the bare plural noun.
+
+| | Singular | Plural |
+|---|---|---|
+| Indefinite | ein Apfel | Äpfel |
+| Indefinite | eine Frage | Fragen |
+
+**Examples:**
+
+:::{div} ol-examples
+Ich kaufe **Äpfel**.
+: I am buying apples.
+
+Sie hat **Kinder**.
+: She has children.
+
+Wir brauchen **Eier**.
+: We need eggs.
+:::
+
+## Cities and countries
+
+Names of cities and most countries take no article: *in Berlin*, *nach Deutschland*, *aus Österreich*. A few country names do carry an article (*die Schweiz*, *die Türkei*); learn those as exceptions.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich wohne in **Berlin**.
+: I live in Berlin.
+
+Wir fahren nach **Deutschland**.
+: We are going to Germany.
+
+Kommst du aus **Österreich**?
+: Do you come from Austria?
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-1
+:track: nullartikel.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- No article after *sein* for professions and nationalities: *Ich bin Lehrerin.*
+- No article for languages, food, and drink in general statements: *Ich trinke Kaffee.*
+- The plural of *ein* is nothing: *ein Apfel*, but *Äpfel*.
+- Cities and most countries have no article: *in Berlin*, *nach Deutschland*.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*Ich bin ein Lehrer.* → Ich bin **Lehrer**. (profession after *sein*, no article)
+- *\*Ich spreche das Deutsch.* → Ich spreche **Deutsch**. (languages take no article)
+- *\*Ich kaufe eine Äpfel.* → Ich kaufe **Äpfel**. (*ein* has no plural)
+:::
+
+## Related articles
+
+- [A1 > Grammar > Indefinite Articles](/a1/grammar/articles/unbestimmter-artikel.md)
+- [A1 > Grammar > Definite Articles](/a1/grammar/articles/bestimmter-artikel.md)
+- [A1 > Grammar > Negative Articles](/a1/grammar/articles/negativartikel.md)

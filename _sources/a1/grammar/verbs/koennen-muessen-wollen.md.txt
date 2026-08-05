@@ -1,0 +1,95 @@
+---
+myst:
+  html_meta:
+    description: "A1 grammar: the modal verbs können, müssen, and wollen. Ability, necessity, and intention, with the second verb at the end of the sentence."
+    keywords: "german, german learning, a1, grammar, modal verbs, können, müssen, wollen, kann, muss, will"
+    "property=og:title": "können, müssen, wollen – Modal Verbs"
+    "property=og:description": "A1 grammar: the modal verbs können, müssen, and wollen. Ability, necessity, and intention, with the second verb at the end of the sentence."
+    "property=og:type": "article"
+---
+# Modal Verbs können, müssen, wollen
+
+Modal verbs colour an action with an attitude: *können* says you are able to do it, *müssen* that you have to, *wollen* that you want to. The action itself stands at the end of the sentence as an infinitive, exactly the bracket pattern you know from *möchten*.
+
+## The forms
+
+All three change their vowel in the singular and drop the endings for *ich* and *er/sie/es*:
+
+| Person | können | müssen | wollen |
+|---|---|---|---|
+| ich | kann | muss | will |
+| du | kannst | musst | willst |
+| er / sie / es | kann | muss | will |
+| wir | können | müssen | wollen |
+| ihr | könnt | müsst | wollt |
+| sie / Sie | können | müssen | wollen |
+
+## What each one means
+
+*Können* covers ability and possibility, *müssen* necessity, *wollen* firm intention. In each case the main verb waits at the end.
+
+**Examples:**
+
+:::{div} ol-examples
+Ich {verb}`kann` gut **schwimmen**.
+: I can swim well.
+
+Ich {verb}`muss` jetzt **gehen**.
+: I have to go now.
+
+Ich {verb}`will` Deutsch **lernen**.
+: I want to learn German.
+:::
+
+## The bracket in questions and negation
+
+Questions put the modal first; the infinitive still ends the sentence. *Nicht* slots in before the infinitive.
+
+**Examples:**
+
+:::{div} ol-examples
+{verb}`Kannst` du morgen **kommen**?
+: Can you come tomorrow?
+
+{verb}`Musst` du morgen **arbeiten**?
+: Do you have to work tomorrow?
+
+Er {verb}`kann` heute nicht **arbeiten**.
+: He can't work today.
+:::
+
+:::{tip}
+*Wollen* is direct; for wishes aimed at other people, *möchten* sounds softer. *Ich will einen Kaffee* is blunt at a café; *Ich möchte einen Kaffee* is the polite order.
+:::
+
+## Hear it in practice
+
+:::{audio-examples}
+:album: a1/grammar/part-2
+:track: koennen-muessen-wollen.yml
+:::
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- *können* = can, *müssen* = must, *wollen* = want to.
+- Singular forms change the vowel: *kann, muss, will*; ich and er forms match.
+- The main verb goes to the end as an infinitive: modal bracket.
+- *Nicht* stands before the final infinitive.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- *\*er kannt / er wills* → er **kann**, er **will**. (no ending on the er form)
+- *\*Ich muss gehen jetzt.* → Ich muss jetzt **gehen**. (infinitive holds the last spot)
+- *\*Ich will bitte einen Kaffee.* → Ich **möchte** einen Kaffee, bitte. (wollen is too blunt for polite orders)
+:::
+
+## Related articles
+
+- [A1 > Grammar > möchten](/a1/grammar/verbs/moechten.md)
+- [A1 > Grammar > Modal Verbs dürfen and sollen](/a1/grammar/verbs/duerfen-sollen.md)
+- [A1 > Grammar > The Sentence Bracket](/a1/grammar/sentence-structure/satzklammer.md)

@@ -1,0 +1,79 @@
+---
+myst:
+  html_meta:
+    description: "A1 writing: asking about an apartment. A formal German email answering a rental ad, with the questions every flat-hunter needs."
+    keywords: "german, a1, writing, email, formal, wohnung, anzeige, miete, besichtigung, rental"
+    "property=og:title": "Asking About an Apartment"
+    "property=og:description": "A1 writing: asking about an apartment. A formal German email answering a rental ad, with the questions every flat-hunter needs."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Asking About an Apartment
+
+Flat-hunting in Germany happens by email: you see an ad, you write, and the quality of your message decides whether you get a viewing. The email is formal, names the ad it answers, asks two or three sharp questions, and requests a viewing. Landlords receive dozens of these; short and clear wins.
+
+## Example: Answering a rental ad
+
+Anna has found an ad for a flat in the Parkstraße and wants a viewing.
+
+> **Betreff:** Ihre Anzeige: Wohnung in der Parkstraße
+>
+> Sehr geehrte Frau Schulz,
+>
+> ich habe Ihre Anzeige gelesen. Die Wohnung in der Parkstraße gefällt mir sehr.
+>
+> Ich habe drei Fragen: Ist die Wohnung noch frei? Was kostet sie im Monat? Und hat sie einen Balkon?
+>
+> Kann ich die Wohnung am Wochenende sehen? Ich habe am Samstag und am Sonntag Zeit.
+>
+> Vielen Dank für Ihre Antwort.
+>
+> Mit freundlichen Grüßen
+> Anna Kowalska
+
+What makes it work: the *Betreff* names the ad, so the reader knows which flat before opening the email; the questions come numbered and answerable; and the viewing request arrives with concrete days. Nothing here is decoration; every line moves the process forward.
+
+### Hear it in practice
+
+:::{audio-examples}
+:album: a1/writing/part-1
+:track: email-formal-4.yml
+:::
+
+## Building blocks
+
+| Slot | Options |
+|---|---|
+| Betreff | Ihre Anzeige: Wohnung in der ... |
+| The reference | Ich habe Ihre Anzeige gelesen. |
+| Interest | Die Wohnung gefällt mir sehr. |
+| The questions | Ist die Wohnung noch frei? / Was kostet sie im Monat? / Hat sie ...? |
+| The viewing | Kann ich die Wohnung am ... sehen? |
+| Sign-off | Mit freundlichen Grüßen |
+
+The flat-hunting vocabulary: *die Anzeige* (ad), *die Miete* (rent), *frei* (available). *Was kostet sie im Monat?* asks the monthly rent without any special vocabulary at all.
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Name the ad in the *Betreff*: *Ihre Anzeige: Wohnung in der Parkstraße*.
+- Open with the reference: *Ich habe Ihre Anzeige gelesen.*
+- Ask few, sharp questions: availability, price, one feature.
+- Request the viewing with concrete days.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- An empty or vague *Betreff*: name the ad, or your email joins the pile.
+- Ten questions in one email: three answerable ones get a reply.
+- *\*Ich will die Wohnung sehen.* → **Kann ich** die Wohnung am Samstag **sehen?** (a request, not a demand)
+:::
+
+## Related articles
+
+- [Emailing Your Landlord](/a1/writing/email-formal-3.md)
+- [Describing your home](/a1/concepts/describing-your-home.md)
+- [Shopping and paying](/a1/concepts/shopping-and-paying.md)

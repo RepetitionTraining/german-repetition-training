@@ -1,0 +1,77 @@
+---
+myst:
+  html_meta:
+    description: "A1 writing: emailing your landlord. A formal German email reporting a broken heater, with the identify-problem-request structure tenants need."
+    keywords: "german, a1, writing, email, formal, vermieter, landlord, heizung, kaputt, wohnung"
+    "property=og:title": "Emailing Your Landlord"
+    "property=og:description": "A1 writing: emailing your landlord. A formal German email reporting a broken heater, with the identify-problem-request structure tenants need."
+    "property=og:type": "article"
+    author: "Open Language - German"
+---
+# Emailing Your Landlord
+
+Sooner or later every tenant in Germany writes to the *Vermieter*: something is broken, and it needs fixing. The email is formal, short, and follows a fixed logic: say who and where you are, name the problem, ask for action. Master this one and you are never stuck with a cold flat and no words.
+
+## Example: The heating is broken
+
+The heating in Anna's flat stopped working yesterday, and winter is not waiting.
+
+> **Betreff:** Die Heizung ist kaputt
+>
+> Sehr geehrter Herr Braun,
+>
+> ich wohne in der Gartenstraße acht, im zweiten Stock. Seit gestern ist die Heizung kaputt. Die Wohnung ist sehr kalt, draußen sind es nur fünf Grad.
+>
+> Können Sie bitte jemanden schicken? Ich bin am Donnerstag und am Freitag zu Hause. Sie können mich gern anrufen.
+>
+> Vielen Dank für Ihre Hilfe.
+>
+> Mit freundlichen Grüßen
+> Anna Kowalska
+
+What makes it work: the address comes first, because a landlord with many flats needs to know which one; *seit gestern* dates the problem; *Können Sie bitte jemanden schicken?* asks for concrete action; and the availability line saves a round of scheduling emails.
+
+### Hear it in practice
+
+:::{audio-examples}
+:album: a1/writing/part-1
+:track: email-formal-3.yml
+:::
+
+## Building blocks
+
+| Slot | Options |
+|---|---|
+| Who and where | Ich wohne in der ..., im ... Stock. |
+| The problem | Seit gestern ist ... kaputt. / ... funktioniert nicht. |
+| The effect | Die Wohnung ist sehr kalt, draußen sind es nur fünf Grad. / Das ist ein großes Problem. |
+| The request | Können Sie bitte jemanden schicken? |
+| Availability | Ich bin am ... zu Hause. |
+| Sign-off | Mit freundlichen Grüßen |
+
+The problem vocabulary is small and reusable: *kaputt* (broken), *funktioniert nicht* (does not work), *jemanden schicken* (to send someone), and the household cast: *die Heizung, die Waschmaschine, das Fenster, die Tür, das Licht*.
+
+## Summary
+
+:::{admonition} Key points
+:class: note
+
+- Identify flat first: street, house number, floor.
+- Date the problem with *seit*: *Seit gestern ist die Heizung kaputt.*
+- Ask for action: *Können Sie bitte jemanden schicken?*
+- Add when you are home; repairs need someone at the door.
+:::
+
+:::{admonition} Common mistakes
+:class: caution
+
+- Skipping the address: the landlord cannot fix a flat they cannot place.
+- *\*Die Heizung ist kaputt seit gestern.* → **Seit gestern** ist die Heizung kaputt. (time first is the natural frame here)
+- Complaining without requesting: name the action you want, or nothing happens.
+:::
+
+## Related articles
+
+- [Emailing Your Boss](/a1/writing/email-formal-1.md)
+- [Describing your home](/a1/concepts/describing-your-home.md)
+- [Making and responding to requests](/a1/concepts/making-and-responding-to-requests.md)
